@@ -1,0 +1,79 @@
+2024-04-17T20:32:00: Foreground service onStart
+2024-04-17T20:32:00: Start receive
+2024-04-17T20:32:00: Connecting request: 83A00120
+2024-04-17T20:32:00: Connecting request: 9F124324
+2024-04-17T20:32:00: Connecting: 83A00120
+2024-04-17T20:32:02: Connected: 83A00120
+2024-04-17T20:32:03: Connecting: 9F124324
+2024-04-17T20:32:04: Connected: 9F124324
+2024-04-17T20:34:03: Disconnected: 9F124324
+2024-04-17T20:34:03: No stop receive requested => trying to reconnect: Polar Sense 9F124324, reconn cnt: 1
+2024-04-17T20:34:21: Connecting: 9F124324
+2024-04-17T20:34:22: Connected: 9F124324
+2024-04-17T20:37:07: Disconnected: 9F124324
+2024-04-17T20:37:07: No stop receive requested => trying to reconnect: Polar Sense 9F124324, reconn cnt: 2
+2024-04-17T20:41:43: Foreground service onStart
+2024-04-17T20:41:43: Start receive
+2024-04-17T20:41:43: Connecting request: 83A00120
+2024-04-17T20:41:44: Connecting request: 9F124324
+2024-04-17T20:41:44: Connecting: 83A00120
+2024-04-17T20:41:45: Connected: 83A00120
+2024-04-17T20:41:45: Connecting: 9F124324
+2024-04-17T20:41:47: Connected: 9F124324
+2024-04-17T20:41:56: Disconnected: 9F124324
+2024-04-17T20:41:56: No stop receive requested => trying to reconnect: Polar Sense 9F124324, reconn cnt: 1
+2024-04-17T20:42:04: Connecting: 9F124324
+2024-04-17T20:42:06: Connected: 9F124324
+2024-04-17T20:42:51: Stop receive requested by user
+2024-04-17T20:42:51: Finalizing stream for: Polar Sense 9F124324
+2024-04-17T20:42:51: Disconnecting request: 9F124324
+2024-04-17T20:42:51: Finalizing stream for: Polar H10 83A00120
+2024-04-17T20:42:51: Disconnecting request: 83A00120
+2024-04-17T20:42:51: Disconnected: 9F124324
+2024-04-17T20:42:51: Stop requested => closing stream and removing device
+2024-04-17T20:42:51: Disconnected: 83A00120
+2024-04-17T20:42:51: Stop requested => closing stream and removing device
+2024-04-17T20:42:51: Stopping service!
+2024-04-17T20:43:01: activityPaused
+2024-04-19T14:43:08: Foreground service onStart
+2024-04-19T14:43:08: Start receive
+2024-04-19T14:43:08: Connecting request: 83A00120
+2024-04-19T14:43:08: Connecting request: 9F124324
+2024-04-19T14:43:08: Connecting: 83A00120
+2024-04-19T14:43:10: Connected: 83A00120
+2024-04-19T14:43:11: Connecting: 9F124324
+2024-04-19T14:43:12: Connected: 9F124324
+2024-04-19T14:44:55: activityPaused
+2024-04-19T14:44:55: activityResumed
+2024-04-19T14:44:56: Stop receive requested by user
+2024-04-19T14:44:56: Finalizing stream for: Polar Sense 9F124324
+2024-04-19T14:44:56: Disconnecting request: 9F124324
+2024-04-19T14:44:56: Finalizing stream for: Polar H10 83A00120
+2024-04-19T14:44:56: Disconnecting request: 83A00120
+2024-04-19T14:44:56: Disconnected: 9F124324
+2024-04-19T14:44:56: Stop requested => closing stream and removing device
+2024-04-19T14:44:56: Disconnected: 83A00120
+2024-04-19T14:44:56: Stop requested => closing stream and removing device
+2024-04-19T14:44:56: Stopping service!
+2024-04-19T14:44:56: Foreground Service onDestroy
+2024-04-19T14:44:56: ---------------------------------------------------------------
+2024-04-19T14:45:15: Foreground service onStart
+2024-04-19T14:45:15: Start receive
+2024-04-19T14:45:15: Connecting request: 83A00120
+2024-04-19T14:45:15: Connecting request: 9F124324
+2024-04-19T14:45:15: Connecting: 83A00120
+2024-04-19T14:45:16: Connected: 83A00120
+2024-04-19T14:45:16: Connecting: 9F124324
+2024-04-19T14:45:18: Connected: 9F124324
+2024-04-19T14:46:01: Stop receive requested by user
+2024-04-19T14:46:01: Finalizing stream for: Polar Sense 9F124324
+2024-04-19T14:46:01: Disconnecting request: 9F124324
+2024-04-19T14:46:01: Finalizing stream for: Polar H10 83A00120
+2024-04-19T14:46:01: Disconnecting request: 83A00120
+2024-04-19T14:46:01: Disconnected: 9F124324
+2024-04-19T14:46:01: Stop requested => closing stream and removing device
+2024-04-19T14:46:01: Disconnected: 83A00120
+2024-04-19T14:46:01: Stop requested => closing stream and removing device
+2024-04-19T14:46:01: Stopping service!
+2024-04-19T14:46:01: Foreground Service onDestroy
+2024-04-19T14:46:01: ---------------------------------------------------------------
