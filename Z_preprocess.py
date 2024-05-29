@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 import re
 
-ECG_PERCEMTAGE_START = 0.85
+ECG_PERCEMTAGE_START = 0.5
 ECG_WINDOW = 130 * 4
 PPG_WINDOW = 55 * 4
 

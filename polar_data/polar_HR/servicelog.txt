@@ -1,0 +1,2873 @@
+2024-05-02T10:02:22: Foreground service onStart
+2024-05-02T10:02:22: Start receive
+2024-05-02T10:02:22: Connecting request: 83A00120
+2024-05-02T10:02:22: Connecting request: 9F124324
+2024-05-02T10:02:22: Connecting: 83A00120
+2024-05-02T10:02:32: Connecting: 9F124324
+2024-05-02T10:02:34: Connected: 9F124324
+2024-05-02T10:02:52: Stop receive requested by user
+2024-05-02T10:02:52: Finalizing stream for: Polar Sense 9F124324
+2024-05-02T10:02:52: Disconnecting request: 9F124324
+2024-05-02T10:02:52: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:02:52: Disconnecting request: 83A00120
+2024-05-02T10:02:52: Disconnected: 9F124324
+2024-05-02T10:02:52: Stop requested => closing stream and removing device
+2024-05-02T10:03:07: Stop receive requested by user
+2024-05-02T10:03:07: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:03:07: Disconnecting request: 83A00120
+2024-05-02T10:03:30: Stop receive requested by user
+2024-05-02T10:03:30: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:03:30: Disconnecting request: 83A00120
+2024-05-02T10:03:36: Stop receive requested by user
+2024-05-02T10:03:36: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:03:36: Disconnecting request: 83A00120
+2024-05-02T10:05:00: Stop receive requested by user
+2024-05-02T10:05:00: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:05:00: Disconnecting request: 83A00120
+2024-05-02T10:07:03: Stop receive requested by user
+2024-05-02T10:07:03: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:07:03: Disconnecting request: 83A00120
+2024-05-02T10:07:10: activityPaused
+2024-05-02T10:07:45: Stop receive requested by user
+2024-05-02T10:07:45: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:07:45: Disconnecting request: 83A00120
+2024-05-02T10:07:57: Foreground service onStart
+2024-05-02T10:07:57: Start receive
+2024-05-02T10:07:57: Connecting request: 83A00120
+2024-05-02T10:07:57: Connecting request: 9F124324
+2024-05-02T10:08:36: activityPaused
+2024-05-02T10:08:44: Stop receive requested by user
+2024-05-02T10:08:44: Finalizing stream for: Polar Sense 9F124324
+2024-05-02T10:08:44: Disconnecting request: 9F124324
+2024-05-02T10:08:44: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:08:44: Disconnecting request: 83A00120
+2024-05-02T10:10:01: Foreground service onStart
+2024-05-02T10:10:01: Start receive
+2024-05-02T10:10:01: Connecting request: 83A00120
+2024-05-02T10:10:01: Connecting request: 9F124324
+2024-05-02T10:10:01: Connecting: 83A00120
+2024-05-02T10:10:03: Connected: 83A00120
+2024-05-02T10:10:03: Connecting: 9F124324
+2024-05-02T10:10:05: Connected: 9F124324
+2024-05-02T10:12:09: Stop receive requested by user
+2024-05-02T10:12:09: Finalizing stream for: Polar Sense 9F124324
+2024-05-02T10:12:09: Disconnecting request: 9F124324
+2024-05-02T10:12:09: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:12:09: Disconnecting request: 83A00120
+2024-05-02T10:12:09: Disconnected: 9F124324
+2024-05-02T10:12:09: Stop requested => closing stream and removing device
+2024-05-02T10:12:09: Disconnected: 83A00120
+2024-05-02T10:12:09: Stop requested => closing stream and removing device
+2024-05-02T10:12:09: Stopping service!
+2024-05-02T10:12:09: Foreground Service onDestroy
+2024-05-02T10:12:09: ---------------------------------------------------------------
+2024-05-02T10:24:49: Foreground service onStart
+2024-05-02T10:24:49: Start receive
+2024-05-02T10:24:49: Connecting request: 9F124324
+2024-05-02T10:24:49: Connecting request: 83A00120
+2024-05-02T10:24:49: Connecting: 9F124324
+2024-05-02T10:24:51: Connected: 9F124324
+2024-05-02T10:24:51: Connecting: 83A00120
+2024-05-02T10:24:54: Connected: 83A00120
+2024-05-02T10:25:06: Foreground service onStart
+2024-05-02T10:25:06: Start receive
+2024-05-02T10:25:06: Connecting request: 83A00120
+2024-05-02T10:25:06: Connecting request: 9F124324
+2024-05-02T10:25:06: Connecting: 83A00120
+2024-05-02T10:25:07: Connected: 83A00120
+2024-05-02T10:25:07: Connecting: 9F124324
+2024-05-02T10:25:09: Connected: 9F124324
+2024-05-02T10:26:35: Stop receive requested by user
+2024-05-02T10:26:35: Finalizing stream for: Polar Sense 9F124324
+2024-05-02T10:26:36: Disconnecting request: 9F124324
+2024-05-02T10:26:36: Finalizing stream for: Polar H10 83A00120
+2024-05-02T10:26:36: Disconnecting request: 83A00120
+2024-05-02T10:26:36: Disconnected: 9F124324
+2024-05-02T10:26:36: Stop requested => closing stream and removing device
+2024-05-02T10:26:36: Disconnected: 83A00120
+2024-05-02T10:26:36: Stop requested => closing stream and removing device
+2024-05-02T10:26:36: Stopping service!
+2024-05-02T10:26:36: Foreground Service onDestroy
+2024-05-02T10:26:36: ---------------------------------------------------------------
+2024-05-02T17:48:21: Foreground service onStart
+2024-05-02T17:48:21: Start receive
+2024-05-02T17:48:21: Connecting request: 83A00120
+2024-05-02T17:48:21: Connecting request: 9F124324
+2024-05-02T17:48:21: Connecting: 83A00120
+2024-05-02T17:48:24: Connected: 83A00120
+2024-05-02T17:48:24: Connecting: 9F124324
+2024-05-02T17:48:26: Connected: 9F124324
+2024-05-02T17:50:27: Stop receive requested by user
+2024-05-02T17:50:27: Finalizing stream for: Polar Sense 9F124324
+2024-05-02T17:50:27: Disconnecting request: 9F124324
+2024-05-02T17:50:27: Finalizing stream for: Polar H10 83A00120
+2024-05-02T17:50:27: Disconnecting request: 83A00120
+2024-05-02T17:50:27: Disconnected: 9F124324
+2024-05-02T17:50:27: Stop requested => closing stream and removing device
+2024-05-02T17:50:27: Disconnected: 83A00120
+2024-05-02T17:50:27: Stop requested => closing stream and removing device
+2024-05-02T17:50:27: Stopping service!
+2024-05-02T17:50:27: Foreground Service onDestroy
+2024-05-02T17:50:27: ---------------------------------------------------------------
+2024-05-02T17:58:30: Foreground service onStart
+2024-05-02T17:58:30: Start receive
+2024-05-02T17:58:30: Connecting request: 83A00120
+2024-05-02T17:58:30: Connecting request: 9F124324
+2024-05-02T17:58:30: Connecting: 83A00120
+2024-05-02T17:58:34: Foreground service onStart
+2024-05-02T17:58:34: Start receive
+2024-05-02T17:58:34: Connecting request: 83A00120
+2024-05-02T17:58:34: Connecting request: 9F124324
+2024-05-02T17:58:34: Connecting: 83A00120
+2024-05-02T17:58:35: Connected: 83A00120
+2024-05-02T17:58:35: Connecting: 9F124324
+2024-05-02T17:58:37: Connected: 9F124324
+2024-05-02T17:59:44: Stop receive requested by user
+2024-05-02T17:59:44: Finalizing stream for: Polar Sense 9F124324
+2024-05-02T17:59:44: Disconnecting request: 9F124324
+2024-05-02T17:59:44: Finalizing stream for: Polar H10 83A00120
+2024-05-02T17:59:44: Disconnecting request: 83A00120
+2024-05-02T17:59:44: Disconnected: 9F124324
+2024-05-02T17:59:44: Stop requested => closing stream and removing device
+2024-05-02T17:59:44: Disconnected: 83A00120
+2024-05-02T17:59:44: Stop requested => closing stream and removing device
+2024-05-02T17:59:44: Stopping service!
+2024-05-02T17:59:44: Foreground Service onDestroy
+2024-05-02T17:59:44: ---------------------------------------------------------------
+2024-05-03T09:57:05: Foreground service onStart
+2024-05-03T09:57:05: Start receive
+2024-05-03T09:57:05: Connecting request: 83A00120
+2024-05-03T09:57:05: Connecting request: 9F124324
+2024-05-03T09:57:05: Connecting: 83A00120
+2024-05-03T09:57:07: Connected: 83A00120
+2024-05-03T09:57:07: Connecting: 9F124324
+2024-05-03T09:57:09: Connected: 9F124324
+2024-05-03T09:58:15: Stop receive requested by user
+2024-05-03T09:58:15: Finalizing stream for: Polar Sense 9F124324
+2024-05-03T09:58:15: Disconnecting request: 9F124324
+2024-05-03T09:58:15: Finalizing stream for: Polar H10 83A00120
+2024-05-03T09:58:15: Disconnecting request: 83A00120
+2024-05-03T09:58:15: Disconnected: 9F124324
+2024-05-03T09:58:15: Stop requested => closing stream and removing device
+2024-05-03T09:58:15: Disconnected: 83A00120
+2024-05-03T09:58:15: Stop requested => closing stream and removing device
+2024-05-03T09:58:15: Stopping service!
+2024-05-03T09:58:15: Foreground Service onDestroy
+2024-05-03T09:58:15: ---------------------------------------------------------------
+2024-05-03T10:09:38: Foreground service onStart
+2024-05-03T10:09:38: Start receive
+2024-05-03T10:09:38: Connecting request: 83A00120
+2024-05-03T10:09:38: Connecting request: 9F124324
+2024-05-03T10:09:38: Connecting: 83A00120
+2024-05-03T10:09:41: Connected: 83A00120
+2024-05-03T10:10:01: Foreground service onStart
+2024-05-03T10:10:01: Start receive
+2024-05-03T10:10:01: Connecting request: 83A00120
+2024-05-03T10:10:01: Connecting request: 9F124324
+2024-05-03T10:10:01: Connecting: 83A00120
+2024-05-03T10:10:02: Connected: 83A00120
+2024-05-03T10:10:03: Connecting: 9F124324
+2024-05-03T10:10:05: Connected: 9F124324
+2024-05-03T10:11:15: Stop receive requested by user
+2024-05-03T10:11:15: Finalizing stream for: Polar Sense 9F124324
+2024-05-03T10:11:15: Disconnecting request: 9F124324
+2024-05-03T10:11:15: Finalizing stream for: Polar H10 83A00120
+2024-05-03T10:11:16: Disconnecting request: 83A00120
+2024-05-03T10:11:16: Disconnected: 9F124324
+2024-05-03T10:11:16: Stop requested => closing stream and removing device
+2024-05-03T10:11:16: Disconnected: 83A00120
+2024-05-03T10:11:16: Stop requested => closing stream and removing device
+2024-05-03T10:11:16: Stopping service!
+2024-05-03T10:11:16: Foreground Service onDestroy
+2024-05-03T10:11:16: ---------------------------------------------------------------
+2024-05-03T15:55:00: Foreground service onStart
+2024-05-03T15:55:00: Start receive
+2024-05-03T15:55:00: Connecting request: 9F124324
+2024-05-03T15:55:00: Connecting: 9F124324
+2024-05-03T15:55:01: Connected: 9F124324
+2024-05-03T15:56:37: Stop receive requested by user
+2024-05-03T15:56:37: Finalizing stream for: Polar Sense 9F124324
+2024-05-03T15:56:37: Disconnecting request: 9F124324
+2024-05-03T15:56:37: Disconnected: 9F124324
+2024-05-03T15:56:37: Stop requested => closing stream and removing device
+2024-05-03T15:56:37: Stopping service!
+2024-05-03T15:56:37: Foreground Service onDestroy
+2024-05-03T15:56:37: ---------------------------------------------------------------
+2024-05-03T15:56:51: Foreground service onStart
+2024-05-03T15:56:51: Start receive
+2024-05-03T15:56:51: Connecting request: 9F124324
+2024-05-03T15:56:51: Connecting: 9F124324
+2024-05-03T15:56:52: Connected: 9F124324
+2024-05-03T15:58:18: Disconnected: 9F124324
+2024-05-03T15:58:18: No stop receive requested => trying to reconnect: Polar Sense 9F124324, reconn cnt: 1
+2024-05-03T15:58:18: Connecting: 9F124324
+2024-05-03T15:58:19: Connected: 9F124324
+2024-05-03T16:06:01: Stop receive requested by user
+2024-05-03T16:06:01: Finalizing stream for: Polar Sense 9F124324
+2024-05-03T16:06:01: Disconnecting request: 9F124324
+2024-05-03T16:06:01: Disconnected: 9F124324
+2024-05-03T16:06:01: Stop requested => closing stream and removing device
+2024-05-03T16:06:01: Stopping service!
+2024-05-03T16:06:01: Foreground Service onDestroy
+2024-05-03T16:06:01: ---------------------------------------------------------------
+2024-05-03T16:07:45: Foreground service onStart
+2024-05-03T16:07:45: Start receive
+2024-05-03T16:07:45: Connecting request: 83A00120
+2024-05-03T16:07:45: Connecting request: 9F124324
+2024-05-03T16:07:45: Connecting: 83A00120
+2024-05-03T16:07:47: Connected: 83A00120
+2024-05-03T16:07:47: Connecting: 9F124324
+2024-05-03T16:07:48: Connected: 9F124324
+2024-05-03T16:09:25: Stop receive requested by user
+2024-05-03T16:09:25: Finalizing stream for: Polar Sense 9F124324
+2024-05-03T16:09:25: Disconnecting request: 9F124324
+2024-05-03T16:09:25: Finalizing stream for: Polar H10 83A00120
+2024-05-03T16:09:25: Disconnecting request: 83A00120
+2024-05-03T16:09:25: Disconnected: 9F124324
+2024-05-03T16:09:25: Stop requested => closing stream and removing device
+2024-05-03T16:09:25: Disconnected: 83A00120
+2024-05-03T16:09:25: Stop requested => closing stream and removing device
+2024-05-03T16:09:25: Stopping service!
+2024-05-03T16:09:25: Foreground Service onDestroy
+2024-05-03T16:09:25: ---------------------------------------------------------------
+2024-05-03T17:23:42: Foreground service onStart
+2024-05-03T17:23:42: Start receive
+2024-05-03T17:23:42: Connecting request: 83A00120
+2024-05-03T17:23:42: Connecting request: 9F124324
+2024-05-03T17:23:42: Connecting: 83A00120
+2024-05-03T17:23:46: Connected: 83A00120
+2024-05-03T17:23:46: Connecting: 9F124324
+2024-05-03T17:23:47: Connected: 9F124324
+2024-05-03T17:26:05: Stop receive requested by user
+2024-05-03T17:26:05: Finalizing stream for: Polar Sense 9F124324
+2024-05-03T17:26:05: Disconnecting request: 9F124324
+2024-05-03T17:26:05: Finalizing stream for: Polar H10 83A00120
+2024-05-03T17:26:05: Disconnecting request: 83A00120
+2024-05-03T17:26:05: Disconnected: 9F124324
+2024-05-03T17:26:05: Stop requested => closing stream and removing device
+2024-05-03T17:26:05: Disconnected: 83A00120
+2024-05-03T17:26:05: Stop requested => closing stream and removing device
+2024-05-03T17:26:05: Stopping service!
+2024-05-03T17:26:05: Foreground Service onDestroy
+2024-05-03T17:26:05: ---------------------------------------------------------------
+2024-05-04T09:21:39: Foreground service onStart
+2024-05-04T09:21:39: Start receive
+2024-05-04T09:21:39: Connecting request: 83A00120
+2024-05-04T09:21:39: Connecting request: 9F124324
+2024-05-04T09:21:39: Connecting: 83A00120
+2024-05-04T09:21:41: Connected: 83A00120
+2024-05-04T09:21:41: Connecting: 9F124324
+2024-05-04T09:21:43: Connected: 9F124324
+2024-05-04T09:23:41: Stop receive requested by user
+2024-05-04T09:23:41: Finalizing stream for: Polar Sense 9F124324
+2024-05-04T09:23:41: Disconnecting request: 9F124324
+2024-05-04T09:23:41: Finalizing stream for: Polar H10 83A00120
+2024-05-04T09:23:41: Disconnecting request: 83A00120
+2024-05-04T09:23:41: Disconnected: 9F124324
+2024-05-04T09:23:41: Stop requested => closing stream and removing device
+2024-05-04T09:23:41: Disconnected: 83A00120
+2024-05-04T09:23:41: Stop requested => closing stream and removing device
+2024-05-04T09:23:41: Stopping service!
+2024-05-04T09:23:41: Foreground Service onDestroy
+2024-05-04T09:23:41: ---------------------------------------------------------------
+2024-05-04T09:29:45: Foreground service onStart
+2024-05-04T09:29:45: Start receive
+2024-05-04T09:29:45: Connecting request: 83A00120
+2024-05-04T09:29:45: Connecting request: 9F124324
+2024-05-04T09:29:45: Connecting: 83A00120
+2024-05-04T09:29:51: Foreground service onStart
+2024-05-04T09:29:51: Start receive
+2024-05-04T09:29:51: Connecting request: 83A00120
+2024-05-04T09:29:51: Connecting request: 9F124324
+2024-05-04T09:29:51: Connecting: 83A00120
+2024-05-04T09:29:53: Connected: 83A00120
+2024-05-04T09:29:53: Connecting: 9F124324
+2024-05-04T09:29:54: Connected: 9F124324
+2024-05-04T09:31:14: Stop receive requested by user
+2024-05-04T09:31:14: Finalizing stream for: Polar Sense 9F124324
+2024-05-04T09:31:14: Disconnecting request: 9F124324
+2024-05-04T09:31:14: Finalizing stream for: Polar H10 83A00120
+2024-05-04T09:31:14: Disconnecting request: 83A00120
+2024-05-04T09:31:14: Disconnected: 9F124324
+2024-05-04T09:31:14: Stop requested => closing stream and removing device
+2024-05-04T09:31:14: Disconnected: 83A00120
+2024-05-04T09:31:14: Stop requested => closing stream and removing device
+2024-05-04T09:31:14: Stopping service!
+2024-05-04T09:31:14: Foreground Service onDestroy
+2024-05-04T09:31:14: ---------------------------------------------------------------
+2024-05-06T14:35:24: Foreground service onStart
+2024-05-06T14:35:24: Start receive
+2024-05-06T14:35:24: Connecting request: 83A00120
+2024-05-06T14:35:24: Connecting request: 9F124324
+2024-05-06T14:35:24: Connecting: 83A00120
+2024-05-06T14:35:26: Connected: 83A00120
+2024-05-06T14:35:26: Connecting: 9F124324
+2024-05-06T14:35:27: Connected: 9F124324
+2024-05-06T14:37:51: Stop receive requested by user
+2024-05-06T14:37:51: Finalizing stream for: Polar Sense 9F124324
+2024-05-06T14:37:51: Disconnecting request: 9F124324
+2024-05-06T14:37:51: Finalizing stream for: Polar H10 83A00120
+2024-05-06T14:37:51: Disconnecting request: 83A00120
+2024-05-06T14:37:51: Disconnected: 9F124324
+2024-05-06T14:37:51: Stop requested => closing stream and removing device
+2024-05-06T14:37:51: Disconnected: 83A00120
+2024-05-06T14:37:51: Stop requested => closing stream and removing device
+2024-05-06T14:37:51: Stopping service!
+2024-05-06T14:37:51: Foreground Service onDestroy
+2024-05-06T14:37:51: ---------------------------------------------------------------
+2024-05-06T14:42:52: Foreground service onStart
+2024-05-06T14:42:52: Start receive
+2024-05-06T14:42:52: Connecting request: 9F124324
+2024-05-06T14:42:52: Connecting request: 83A00120
+2024-05-06T14:42:52: Connecting: 9F124324
+2024-05-06T14:42:53: Connected: 9F124324
+2024-05-06T14:42:53: Connecting: 83A00120
+2024-05-06T14:42:54: Connected: 83A00120
+2024-05-06T14:44:48: Stop receive requested by user
+2024-05-06T14:44:48: Finalizing stream for: Polar Sense 9F124324
+2024-05-06T14:44:48: Disconnecting request: 9F124324
+2024-05-06T14:44:48: Finalizing stream for: Polar H10 83A00120
+2024-05-06T14:44:48: Disconnecting request: 83A00120
+2024-05-06T14:44:48: Disconnected: 9F124324
+2024-05-06T14:44:48: Stop requested => closing stream and removing device
+2024-05-06T14:44:48: Disconnected: 83A00120
+2024-05-06T14:44:48: Stop requested => closing stream and removing device
+2024-05-06T14:44:48: Stopping service!
+2024-05-06T14:44:48: Foreground Service onDestroy
+2024-05-06T14:44:48: ---------------------------------------------------------------
+2024-05-08T19:04:31: Foreground service onStart
+2024-05-08T19:04:31: Start receive
+2024-05-08T19:04:31: Connecting request: 83A00120
+2024-05-08T19:04:31: Connecting request: 9F124324
+2024-05-08T19:04:31: Connecting: 83A00120
+2024-05-08T19:04:34: Connected: 83A00120
+2024-05-08T19:04:34: Connecting: 9F124324
+2024-05-08T19:04:35: Connected: 9F124324
+2024-05-08T19:06:18: Stop receive requested by user
+2024-05-08T19:06:18: Finalizing stream for: Polar Sense 9F124324
+2024-05-08T19:06:18: Disconnecting request: 9F124324
+2024-05-08T19:06:18: Finalizing stream for: Polar H10 83A00120
+2024-05-08T19:06:18: Disconnecting request: 83A00120
+2024-05-08T19:06:18: Disconnected: 9F124324
+2024-05-08T19:06:18: Stop requested => closing stream and removing device
+2024-05-08T19:06:18: Disconnected: 83A00120
+2024-05-08T19:06:18: Stop requested => closing stream and removing device
+2024-05-08T19:06:18: Stopping service!
+2024-05-08T19:06:18: Foreground Service onDestroy
+2024-05-08T19:06:18: ---------------------------------------------------------------
+2024-05-08T19:07:08: Foreground service onStart
+2024-05-08T19:07:08: Start receive
+2024-05-08T19:07:08: Connecting request: 83A00120
+2024-05-08T19:07:08: Connecting request: 9F124324
+2024-05-08T19:07:08: Connecting: 83A00120
+2024-05-08T19:07:09: Connected: 83A00120
+2024-05-08T19:07:10: Connecting: 9F124324
+2024-05-08T19:07:11: Connected: 9F124324
+2024-05-08T19:08:58: Stop receive requested by user
+2024-05-08T19:08:58: Finalizing stream for: Polar Sense 9F124324
+2024-05-08T19:08:58: Disconnecting request: 9F124324
+2024-05-08T19:08:58: Finalizing stream for: Polar H10 83A00120
+2024-05-08T19:08:58: Disconnecting request: 83A00120
+2024-05-08T19:08:58: Disconnected: 9F124324
+2024-05-08T19:08:58: Stop requested => closing stream and removing device
+2024-05-08T19:08:58: Disconnected: 83A00120
+2024-05-08T19:08:58: Stop requested => closing stream and removing device
+2024-05-08T19:08:58: Stopping service!
+2024-05-08T19:08:58: Foreground Service onDestroy
+2024-05-08T19:08:58: ---------------------------------------------------------------
+2024-05-08T19:13:50: Foreground service onStart
+2024-05-08T19:13:50: Start receive
+2024-05-08T19:13:50: Connecting request: 83A00120
+2024-05-08T19:13:50: Connecting request: 9F124324
+2024-05-08T19:13:50: Connecting: 83A00120
+2024-05-08T19:13:52: Connected: 83A00120
+2024-05-08T19:13:52: Connecting: 9F124324
+2024-05-08T19:13:53: Connected: 9F124324
+2024-05-08T19:15:21: Stop receive requested by user
+2024-05-08T19:15:21: Finalizing stream for: Polar Sense 9F124324
+2024-05-08T19:15:21: Disconnecting request: 9F124324
+2024-05-08T19:15:21: Finalizing stream for: Polar H10 83A00120
+2024-05-08T19:15:21: Disconnecting request: 83A00120
+2024-05-08T19:15:21: Disconnected: 9F124324
+2024-05-08T19:15:21: Stop requested => closing stream and removing device
+2024-05-08T19:15:21: Disconnected: 83A00120
+2024-05-08T19:15:21: Stop requested => closing stream and removing device
+2024-05-08T19:15:21: Stopping service!
+2024-05-08T19:15:21: Foreground Service onDestroy
+2024-05-08T19:15:21: ---------------------------------------------------------------
+2024-05-11T14:38:31: Foreground service onStart
+2024-05-11T14:38:31: Start receive
+2024-05-11T14:38:31: Connecting request: 83A00120
+2024-05-11T14:38:31: Connecting request: 9F124324
+2024-05-11T14:38:31: Connecting: 83A00120
+2024-05-11T14:38:33: Connected: 83A00120
+2024-05-11T14:38:33: Connecting: 9F124324
+2024-05-11T14:38:35: Connected: 9F124324
+2024-05-11T14:40:44: Stop receive requested by user
+2024-05-11T14:40:44: Finalizing stream for: Polar Sense 9F124324
+2024-05-11T14:40:44: Disconnecting request: 9F124324
+2024-05-11T14:40:44: Finalizing stream for: Polar H10 83A00120
+2024-05-11T14:40:44: Disconnecting request: 83A00120
+2024-05-11T14:40:44: Disconnected: 9F124324
+2024-05-11T14:40:44: Stop requested => closing stream and removing device
+2024-05-11T14:40:44: Disconnected: 83A00120
+2024-05-11T14:40:44: Stop requested => closing stream and removing device
+2024-05-11T14:40:44: Stopping service!
+2024-05-11T14:40:44: Foreground Service onDestroy
+2024-05-11T14:40:44: ---------------------------------------------------------------
+2024-05-11T14:54:56: Foreground service onStart
+2024-05-11T14:54:56: Start receive
+2024-05-11T14:54:56: Connecting request: 83A00120
+2024-05-11T14:54:56: Connecting request: 9F124324
+2024-05-11T14:54:56: Connecting: 83A00120
+2024-05-11T14:54:58: Foreground service onStart
+2024-05-11T14:54:58: Start receive
+2024-05-11T14:54:58: Connecting request: 83A00120
+2024-05-11T14:54:58: Connecting request: 9F124324
+2024-05-11T14:54:58: Connecting: 9F124324
+2024-05-11T14:54:59: Connected: 9F124324
+2024-05-11T14:55:00: Connecting: 83A00120
+2024-05-11T14:55:00: activityPaused
+2024-05-11T14:55:01: activityResumed
+2024-05-11T14:55:01: Stop receive requested by user
+2024-05-11T14:55:01: Finalizing stream for: Polar Sense 9F124324
+2024-05-11T14:55:01: Disconnecting request: 9F124324
+2024-05-11T14:55:01: Finalizing stream for: Polar H10 83A00120
+2024-05-11T14:55:01: Disconnecting request: 83A00120
+2024-05-11T14:55:01: Disconnected: 9F124324
+2024-05-11T14:55:01: Stop requested => closing stream and removing device
+2024-05-11T14:55:04: Stop receive requested by user
+2024-05-11T14:55:04: Finalizing stream for: Polar H10 83A00120
+2024-05-11T14:55:04: Disconnecting request: 83A00120
+2024-05-11T14:55:35: Stop receive requested by user
+2024-05-11T14:55:35: Finalizing stream for: Polar H10 83A00120
+2024-05-11T14:55:35: Disconnecting request: 83A00120
+2024-05-11T14:55:57: activityPaused
+2024-05-11T14:56:50: Foreground service onStart
+2024-05-11T14:56:50: Start receive
+2024-05-11T14:56:50: Connecting request: 83A00120
+2024-05-11T14:56:50: Connecting request: 9F124324
+2024-05-11T14:56:50: Connecting: 83A00120
+2024-05-11T14:56:52: Connected: 83A00120
+2024-05-11T14:56:52: Connecting: 9F124324
+2024-05-11T14:56:53: Connected: 9F124324
+2024-05-11T14:58:12: Stop receive requested by user
+2024-05-11T14:58:12: Finalizing stream for: Polar Sense 9F124324
+2024-05-11T14:58:12: Disconnecting request: 9F124324
+2024-05-11T14:58:12: Finalizing stream for: Polar H10 83A00120
+2024-05-11T14:58:12: Disconnecting request: 83A00120
+2024-05-11T14:58:12: Disconnected: 9F124324
+2024-05-11T14:58:12: Stop requested => closing stream and removing device
+2024-05-11T14:58:12: Disconnected: 83A00120
+2024-05-11T14:58:12: Stop requested => closing stream and removing device
+2024-05-11T14:58:12: Stopping service!
+2024-05-11T14:58:12: Foreground Service onDestroy
+2024-05-11T14:58:12: ---------------------------------------------------------------
+2024-05-13T13:14:44: Foreground service onStart
+2024-05-13T13:14:44: Start receive
+2024-05-13T13:14:44: Connecting request: 83A00120
+2024-05-13T13:14:44: Connecting request: 9F124324
+2024-05-13T13:14:44: Connecting: 83A00120
+2024-05-13T13:14:46: Connected: 83A00120
+2024-05-13T13:14:46: Connecting: 9F124324
+2024-05-13T13:14:47: Connected: 9F124324
+2024-05-13T13:17:11: Stop receive requested by user
+2024-05-13T13:17:11: Finalizing stream for: Polar Sense 9F124324
+2024-05-13T13:17:11: Disconnecting request: 9F124324
+2024-05-13T13:17:11: Finalizing stream for: Polar H10 83A00120
+2024-05-13T13:17:11: Disconnecting request: 83A00120
+2024-05-13T13:17:11: Disconnected: 9F124324
+2024-05-13T13:17:11: Stop requested => closing stream and removing device
+2024-05-13T13:17:11: Disconnected: 83A00120
+2024-05-13T13:17:11: Stop requested => closing stream and removing device
+2024-05-13T13:17:11: Stopping service!
+2024-05-13T13:17:11: Foreground Service onDestroy
+2024-05-13T13:17:11: ---------------------------------------------------------------
+2024-05-13T13:21:30: Foreground service onStart
+2024-05-13T13:21:30: Start receive
+2024-05-13T13:21:30: Connecting request: 9F124324
+2024-05-13T13:21:30: Connecting request: 83A00120
+2024-05-13T13:21:30: Connecting: 9F124324
+2024-05-13T13:21:31: Connected: 9F124324
+2024-05-13T13:21:31: Connecting: 83A00120
+2024-05-13T13:21:33: Connected: 83A00120
+2024-05-13T13:28:21: Stop receive requested by user
+2024-05-13T13:28:21: Finalizing stream for: Polar Sense 9F124324
+2024-05-13T13:28:21: Disconnecting request: 9F124324
+2024-05-13T13:28:21: Finalizing stream for: Polar H10 83A00120
+2024-05-13T13:28:21: Disconnecting request: 83A00120
+2024-05-13T13:28:21: Disconnected: 9F124324
+2024-05-13T13:28:21: Stop requested => closing stream and removing device
+2024-05-13T13:28:21: Disconnected: 83A00120
+2024-05-13T13:28:21: Stop requested => closing stream and removing device
+2024-05-13T13:28:21: Stopping service!
+2024-05-13T13:28:21: Foreground Service onDestroy
+2024-05-13T13:28:21: ---------------------------------------------------------------
+2024-05-13T13:28:25: Foreground service onStart
+2024-05-13T13:28:25: Start receive
+2024-05-13T13:28:25: Connecting request: 83A00120
+2024-05-13T13:28:25: Connecting request: 9F124324
+2024-05-13T13:28:25: Connecting: 83A00120
+2024-05-13T13:28:27: Connected: 83A00120
+2024-05-13T13:28:27: Connecting: 9F124324
+2024-05-13T13:28:27: Connected: 9F124324
+2024-05-13T13:30:03: Stop receive requested by user
+2024-05-13T13:30:03: Finalizing stream for: Polar Sense 9F124324
+2024-05-13T13:30:03: Disconnecting request: 9F124324
+2024-05-13T13:30:03: Finalizing stream for: Polar H10 83A00120
+2024-05-13T13:30:03: Disconnecting request: 83A00120
+2024-05-13T13:30:03: Disconnected: 9F124324
+2024-05-13T13:30:03: Stop requested => closing stream and removing device
+2024-05-13T13:30:03: Disconnected: 83A00120
+2024-05-13T13:30:03: Stop requested => closing stream and removing device
+2024-05-13T13:30:03: Stopping service!
+2024-05-13T13:30:03: Foreground Service onDestroy
+2024-05-13T13:30:03: ---------------------------------------------------------------
+2024-05-13T16:51:50: Foreground service onStart
+2024-05-13T16:51:50: Start receive
+2024-05-13T16:51:50: Connecting request: 83A00120
+2024-05-13T16:51:50: Connecting request: 9F124324
+2024-05-13T16:51:50: Connecting: 83A00120
+2024-05-13T16:51:52: Connected: 83A00120
+2024-05-13T16:51:52: Connecting: 9F124324
+2024-05-13T16:51:53: Connected: 9F124324
+2024-05-13T16:54:16: Stop receive requested by user
+2024-05-13T16:54:16: Finalizing stream for: Polar Sense 9F124324
+2024-05-13T16:54:16: Disconnecting request: 9F124324
+2024-05-13T16:54:16: Finalizing stream for: Polar H10 83A00120
+2024-05-13T16:54:16: Disconnecting request: 83A00120
+2024-05-13T16:54:16: Disconnected: 9F124324
+2024-05-13T16:54:16: Stop requested => closing stream and removing device
+2024-05-13T16:54:16: Disconnected: 83A00120
+2024-05-13T16:54:16: Stop requested => closing stream and removing device
+2024-05-13T16:54:16: Stopping service!
+2024-05-13T16:54:16: Foreground Service onDestroy
+2024-05-13T16:54:16: ---------------------------------------------------------------
+2024-05-13T22:17:11: Foreground service onStart
+2024-05-13T22:17:11: Start receive
+2024-05-13T22:17:11: Connecting request: 83A00120
+2024-05-13T22:17:11: Connecting request: 9F124324
+2024-05-13T22:17:11: Connecting: 83A00120
+2024-05-13T22:17:13: Connected: 83A00120
+2024-05-13T22:17:13: Connecting: 9F124324
+2024-05-13T22:17:14: Connected: 9F124324
+2024-05-13T22:18:52: Stop receive requested by user
+2024-05-13T22:18:52: Finalizing stream for: Polar Sense 9F124324
+2024-05-13T22:18:52: Disconnecting request: 9F124324
+2024-05-13T22:18:52: Finalizing stream for: Polar H10 83A00120
+2024-05-13T22:18:52: Disconnecting request: 83A00120
+2024-05-13T22:18:52: Disconnected: 9F124324
+2024-05-13T22:18:52: Stop requested => closing stream and removing device
+2024-05-13T22:18:52: Disconnected: 83A00120
+2024-05-13T22:18:52: Stop requested => closing stream and removing device
+2024-05-13T22:18:52: Stopping service!
+2024-05-13T22:18:52: Foreground Service onDestroy
+2024-05-13T22:18:52: ---------------------------------------------------------------
+2024-05-14T11:22:10: Foreground service onStart
+2024-05-14T11:22:10: Start receive
+2024-05-14T11:22:10: Connecting request: 83A00120
+2024-05-14T11:22:10: Connecting request: 9F124324
+2024-05-14T11:22:10: Connecting: 83A00120
+2024-05-14T11:22:12: Connected: 83A00120
+2024-05-14T11:22:12: Connecting: 9F124324
+2024-05-14T11:22:13: Connected: 9F124324
+2024-05-14T11:23:51: Stop receive requested by user
+2024-05-14T11:23:51: Finalizing stream for: Polar Sense 9F124324
+2024-05-14T11:23:51: Disconnecting request: 9F124324
+2024-05-14T11:23:51: Finalizing stream for: Polar H10 83A00120
+2024-05-14T11:23:51: Disconnecting request: 83A00120
+2024-05-14T11:23:51: Disconnected: 9F124324
+2024-05-14T11:23:51: Stop requested => closing stream and removing device
+2024-05-14T11:23:51: Disconnected: 83A00120
+2024-05-14T11:23:51: Stop requested => closing stream and removing device
+2024-05-14T11:23:51: Stopping service!
+2024-05-14T11:23:51: Foreground Service onDestroy
+2024-05-14T11:23:51: ---------------------------------------------------------------
+2024-05-14T12:07:43: Foreground service onStart
+2024-05-14T12:07:43: Start receive
+2024-05-14T12:07:43: Connecting request: 83A00120
+2024-05-14T12:07:43: Connecting request: 9F124324
+2024-05-14T12:07:43: Connecting: 83A00120
+2024-05-14T12:07:46: Connected: 83A00120
+2024-05-14T12:07:46: Connecting: 9F124324
+2024-05-14T12:07:47: Connected: 9F124324
+2024-05-14T12:09:05: Stop receive requested by user
+2024-05-14T12:09:05: Finalizing stream for: Polar Sense 9F124324
+2024-05-14T12:09:05: Disconnecting request: 9F124324
+2024-05-14T12:09:05: Finalizing stream for: Polar H10 83A00120
+2024-05-14T12:09:05: Disconnecting request: 83A00120
+2024-05-14T12:09:05: Disconnected: 9F124324
+2024-05-14T12:09:05: Stop requested => closing stream and removing device
+2024-05-14T12:09:05: Disconnected: 83A00120
+2024-05-14T12:09:05: Stop requested => closing stream and removing device
+2024-05-14T12:09:05: Stopping service!
+2024-05-14T12:09:05: Foreground Service onDestroy
+2024-05-14T12:09:05: ---------------------------------------------------------------
+2024-05-14T12:10:08: Foreground service onStart
+2024-05-14T12:10:08: Start receive
+2024-05-14T12:10:08: Connecting request: 83A00120
+2024-05-14T12:10:08: Connecting request: 9F124324
+2024-05-14T12:10:08: Connecting: 83A00120
+2024-05-14T12:10:10: Connected: 83A00120
+2024-05-14T12:10:10: Connecting: 9F124324
+2024-05-14T12:10:11: Connected: 9F124324
+2024-05-14T12:11:18: Stop receive requested by user
+2024-05-14T12:11:18: Finalizing stream for: Polar Sense 9F124324
+2024-05-14T12:11:18: Disconnecting request: 9F124324
+2024-05-14T12:11:18: Finalizing stream for: Polar H10 83A00120
+2024-05-14T12:11:18: Disconnecting request: 83A00120
+2024-05-14T12:11:18: Disconnected: 9F124324
+2024-05-14T12:11:18: Stop requested => closing stream and removing device
+2024-05-14T12:11:18: Disconnected: 83A00120
+2024-05-14T12:11:18: Stop requested => closing stream and removing device
+2024-05-14T12:11:18: Stopping service!
+2024-05-14T12:11:18: Foreground Service onDestroy
+2024-05-14T12:11:18: ---------------------------------------------------------------
+2024-05-14T12:11:59: Foreground service onStart
+2024-05-14T12:11:59: Start receive
+2024-05-14T12:11:59: Connecting request: 83A00120
+2024-05-14T12:11:59: Connecting request: 9F124324
+2024-05-14T12:11:59: Connecting: 83A00120
+2024-05-14T12:12:01: Connected: 83A00120
+2024-05-14T12:12:01: Connecting: 9F124324
+2024-05-14T12:12:02: Connected: 9F124324
+2024-05-14T12:14:05: Stop receive requested by user
+2024-05-14T12:14:05: Finalizing stream for: Polar Sense 9F124324
+2024-05-14T12:14:05: Disconnecting request: 9F124324
+2024-05-14T12:14:05: Finalizing stream for: Polar H10 83A00120
+2024-05-14T12:14:05: Disconnecting request: 83A00120
+2024-05-14T12:14:05: Disconnected: 9F124324
+2024-05-14T12:14:05: Stop requested => closing stream and removing device
+2024-05-14T12:14:05: Disconnected: 83A00120
+2024-05-14T12:14:05: Stop requested => closing stream and removing device
+2024-05-14T12:14:05: Stopping service!
+2024-05-14T12:14:05: Foreground Service onDestroy
+2024-05-14T12:14:05: ---------------------------------------------------------------
+2024-05-14T12:14:07: Foreground service onStart
+2024-05-14T12:14:07: Start receive
+2024-05-14T12:14:07: Connecting request: 83A00120
+2024-05-14T12:14:07: Connecting request: 9F124324
+2024-05-14T12:14:07: Connecting: 83A00120
+2024-05-14T12:14:09: Connected: 83A00120
+2024-05-14T12:14:09: Connecting: 9F124324
+2024-05-14T12:14:10: Connected: 9F124324
+2024-05-14T12:15:31: Stop receive requested by user
+2024-05-14T12:15:31: Finalizing stream for: Polar Sense 9F124324
+2024-05-14T12:15:31: Disconnecting request: 9F124324
+2024-05-14T12:15:31: Finalizing stream for: Polar H10 83A00120
+2024-05-14T12:15:31: Disconnecting request: 83A00120
+2024-05-14T12:15:31: Disconnected: 9F124324
+2024-05-14T12:15:31: Stop requested => closing stream and removing device
+2024-05-14T12:15:31: Disconnected: 83A00120
+2024-05-14T12:15:31: Stop requested => closing stream and removing device
+2024-05-14T12:15:31: Stopping service!
+2024-05-14T12:15:31: Foreground Service onDestroy
+2024-05-14T12:15:31: ---------------------------------------------------------------
+2024-05-15T21:51:34: Foreground service onStart
+2024-05-15T21:51:34: Start receive
+2024-05-15T21:51:34: Connecting request: 83A00120
+2024-05-15T21:51:34: Connecting request: 9F124324
+2024-05-15T21:51:34: Connecting: 83A00120
+2024-05-15T21:51:36: Connected: 83A00120
+2024-05-15T21:51:36: Connecting: 9F124324
+2024-05-15T21:51:37: Connected: 9F124324
+2024-05-15T21:53:52: Stop receive requested by user
+2024-05-15T21:53:52: Finalizing stream for: Polar Sense 9F124324
+2024-05-15T21:53:52: Disconnecting request: 9F124324
+2024-05-15T21:53:52: Finalizing stream for: Polar H10 83A00120
+2024-05-15T21:53:52: Disconnecting request: 83A00120
+2024-05-15T21:53:52: Disconnected: 83A00120
+2024-05-15T21:53:52: Stop requested => closing stream and removing device
+2024-05-15T21:53:52: Disconnected: 9F124324
+2024-05-15T21:53:52: Stop requested => closing stream and removing device
+2024-05-15T21:53:52: Stopping service!
+2024-05-15T21:53:52: Foreground Service onDestroy
+2024-05-15T21:53:52: ---------------------------------------------------------------
+2024-05-15T21:55:06: Foreground service onStart
+2024-05-15T21:55:06: Start receive
+2024-05-15T21:55:06: Connecting request: 83A00120
+2024-05-15T21:55:06: Connecting request: 9F124324
+2024-05-15T21:55:06: Connecting: 83A00120
+2024-05-15T21:55:09: Connected: 83A00120
+2024-05-15T21:55:09: Connecting: 9F124324
+2024-05-15T21:55:10: Connected: 9F124324
+2024-05-15T21:56:38: Stop receive requested by user
+2024-05-15T21:56:38: Finalizing stream for: Polar Sense 9F124324
+2024-05-15T21:56:38: Disconnecting request: 9F124324
+2024-05-15T21:56:38: Finalizing stream for: Polar H10 83A00120
+2024-05-15T21:56:38: Disconnecting request: 83A00120
+2024-05-15T21:56:38: Disconnected: 9F124324
+2024-05-15T21:56:38: Stop requested => closing stream and removing device
+2024-05-15T21:56:38: Disconnected: 83A00120
+2024-05-15T21:56:38: Stop requested => closing stream and removing device
+2024-05-15T21:56:38: Stopping service!
+2024-05-15T21:56:38: Foreground Service onDestroy
+2024-05-15T21:56:38: ---------------------------------------------------------------
+2024-05-15T21:57:51: Foreground service onStart
+2024-05-15T21:57:51: Start receive
+2024-05-15T21:57:51: Connecting request: 83A00120
+2024-05-15T21:57:51: Connecting request: 9F124324
+2024-05-15T21:57:51: Connecting: 83A00120
+2024-05-15T21:57:53: Connected: 83A00120
+2024-05-15T21:57:53: Connecting: 9F124324
+2024-05-15T21:57:55: Connected: 9F124324
+2024-05-15T21:59:36: Stop receive requested by user
+2024-05-15T21:59:36: Finalizing stream for: Polar Sense 9F124324
+2024-05-15T21:59:36: Disconnecting request: 9F124324
+2024-05-15T21:59:36: Finalizing stream for: Polar H10 83A00120
+2024-05-15T21:59:36: Disconnecting request: 83A00120
+2024-05-15T21:59:36: Disconnected: 9F124324
+2024-05-15T21:59:36: Stop requested => closing stream and removing device
+2024-05-15T21:59:36: Disconnected: 83A00120
+2024-05-15T21:59:36: Stop requested => closing stream and removing device
+2024-05-15T21:59:36: Stopping service!
+2024-05-15T21:59:36: Foreground Service onDestroy
+2024-05-15T21:59:36: ---------------------------------------------------------------
+2024-05-15T22:01:02: Foreground service onStart
+2024-05-15T22:01:02: Start receive
+2024-05-15T22:01:02: Connecting request: 83A00120
+2024-05-15T22:01:02: Connecting request: 9F124324
+2024-05-15T22:01:02: Connecting: 83A00120
+2024-05-15T22:01:05: Connected: 83A00120
+2024-05-15T22:01:05: Connecting: 9F124324
+2024-05-15T22:01:06: Connected: 9F124324
+2024-05-15T22:02:27: Stop receive requested by user
+2024-05-15T22:02:27: Finalizing stream for: Polar Sense 9F124324
+2024-05-15T22:02:27: Disconnecting request: 9F124324
+2024-05-15T22:02:27: Finalizing stream for: Polar H10 83A00120
+2024-05-15T22:02:27: Disconnecting request: 83A00120
+2024-05-15T22:02:27: Disconnected: 9F124324
+2024-05-15T22:02:27: Stop requested => closing stream and removing device
+2024-05-15T22:02:27: Disconnected: 83A00120
+2024-05-15T22:02:27: Stop requested => closing stream and removing device
+2024-05-15T22:02:27: Stopping service!
+2024-05-15T22:02:27: Foreground Service onDestroy
+2024-05-15T22:02:27: ---------------------------------------------------------------
+2024-05-15T22:02:43: Foreground service onStart
+2024-05-15T22:02:43: Start receive
+2024-05-15T22:02:43: Connecting request: 83A00120
+2024-05-15T22:02:43: Connecting request: 9F124324
+2024-05-15T22:02:43: Connecting: 83A00120
+2024-05-15T22:02:45: Connected: 83A00120
+2024-05-15T22:02:45: Connecting: 9F124324
+2024-05-15T22:02:46: Connected: 9F124324
+2024-05-15T22:04:12: Stop receive requested by user
+2024-05-15T22:04:12: Finalizing stream for: Polar Sense 9F124324
+2024-05-15T22:04:12: Disconnecting request: 9F124324
+2024-05-15T22:04:12: Finalizing stream for: Polar H10 83A00120
+2024-05-15T22:04:12: Disconnecting request: 83A00120
+2024-05-15T22:04:12: Disconnected: 9F124324
+2024-05-15T22:04:12: Stop requested => closing stream and removing device
+2024-05-15T22:04:12: Disconnected: 83A00120
+2024-05-15T22:04:12: Stop requested => closing stream and removing device
+2024-05-15T22:04:12: Stopping service!
+2024-05-15T22:04:12: Foreground Service onDestroy
+2024-05-15T22:04:12: ---------------------------------------------------------------
+2024-05-15T22:04:32: Foreground service onStart
+2024-05-15T22:04:32: Start receive
+2024-05-15T22:04:32: Connecting request: 83A00120
+2024-05-15T22:04:32: Connecting request: 9F124324
+2024-05-15T22:04:32: Connecting: 83A00120
+2024-05-15T22:04:34: Connected: 83A00120
+2024-05-15T22:04:34: Connecting: 9F124324
+2024-05-15T22:04:35: Connected: 9F124324
+2024-05-15T22:05:53: Stop receive requested by user
+2024-05-15T22:05:53: Finalizing stream for: Polar Sense 9F124324
+2024-05-15T22:05:53: Disconnecting request: 9F124324
+2024-05-15T22:05:53: Finalizing stream for: Polar H10 83A00120
+2024-05-15T22:05:53: Disconnecting request: 83A00120
+2024-05-15T22:05:53: Disconnected: 9F124324
+2024-05-15T22:05:53: Stop requested => closing stream and removing device
+2024-05-15T22:05:53: Disconnected: 83A00120
+2024-05-15T22:05:53: Stop requested => closing stream and removing device
+2024-05-15T22:05:53: Stopping service!
+2024-05-15T22:05:53: Foreground Service onDestroy
+2024-05-15T22:05:53: ---------------------------------------------------------------
+2024-05-16T23:14:40: Foreground service onStart
+2024-05-16T23:14:40: Start receive
+2024-05-16T23:14:40: Connecting request: 83A00120
+2024-05-16T23:14:40: Connecting request: 9F124324
+2024-05-16T23:14:40: Connecting: 83A00120
+2024-05-16T23:14:41: Connected: 83A00120
+2024-05-16T23:14:41: Connecting: 9F124324
+2024-05-16T23:14:42: Connected: 9F124324
+2024-05-16T23:15:57: Stop receive requested by user
+2024-05-16T23:15:57: Finalizing stream for: Polar Sense 9F124324
+2024-05-16T23:15:57: Disconnecting request: 9F124324
+2024-05-16T23:15:57: Finalizing stream for: Polar H10 83A00120
+2024-05-16T23:15:57: Disconnecting request: 83A00120
+2024-05-16T23:15:57: Disconnected: 9F124324
+2024-05-16T23:15:57: Stop requested => closing stream and removing device
+2024-05-16T23:15:57: Disconnected: 83A00120
+2024-05-16T23:15:57: Stop requested => closing stream and removing device
+2024-05-16T23:15:57: Stopping service!
+2024-05-16T23:15:57: Foreground Service onDestroy
+2024-05-16T23:15:57: ---------------------------------------------------------------
+2024-05-16T23:16:55: Foreground service onStart
+2024-05-16T23:16:55: Start receive
+2024-05-16T23:16:55: Connecting request: 83A00120
+2024-05-16T23:16:55: Connecting request: 9F124324
+2024-05-16T23:16:55: Connecting: 83A00120
+2024-05-16T23:16:57: Connected: 83A00120
+2024-05-16T23:16:57: Connecting: 9F124324
+2024-05-16T23:16:58: Connected: 9F124324
+2024-05-16T23:18:18: Stop receive requested by user
+2024-05-16T23:18:18: Finalizing stream for: Polar Sense 9F124324
+2024-05-16T23:18:18: Disconnecting request: 9F124324
+2024-05-16T23:18:18: Finalizing stream for: Polar H10 83A00120
+2024-05-16T23:18:18: Disconnecting request: 83A00120
+2024-05-16T23:18:18: Disconnected: 9F124324
+2024-05-16T23:18:18: Stop requested => closing stream and removing device
+2024-05-16T23:18:18: Disconnected: 83A00120
+2024-05-16T23:18:18: Stop requested => closing stream and removing device
+2024-05-16T23:18:18: Stopping service!
+2024-05-16T23:18:18: Foreground Service onDestroy
+2024-05-16T23:18:18: ---------------------------------------------------------------
+2024-05-16T23:18:34: Foreground service onStart
+2024-05-16T23:18:34: Start receive
+2024-05-16T23:18:34: Connecting request: 83A00120
+2024-05-16T23:18:34: Connecting request: 9F124324
+2024-05-16T23:18:34: Connecting: 83A00120
+2024-05-16T23:18:36: Connected: 83A00120
+2024-05-16T23:18:36: Connecting: 9F124324
+2024-05-16T23:18:37: Connected: 9F124324
+2024-05-16T23:20:01: Stop receive requested by user
+2024-05-16T23:20:01: Finalizing stream for: Polar Sense 9F124324
+2024-05-16T23:20:01: Disconnecting request: 9F124324
+2024-05-16T23:20:01: Finalizing stream for: Polar H10 83A00120
+2024-05-16T23:20:01: Disconnecting request: 83A00120
+2024-05-16T23:20:01: Disconnected: 9F124324
+2024-05-16T23:20:01: Stop requested => closing stream and removing device
+2024-05-16T23:20:01: Disconnected: 83A00120
+2024-05-16T23:20:01: Stop requested => closing stream and removing device
+2024-05-16T23:20:01: Stopping service!
+2024-05-16T23:20:01: Foreground Service onDestroy
+2024-05-16T23:20:01: ---------------------------------------------------------------
+2024-05-16T23:21:24: Foreground service onStart
+2024-05-16T23:21:24: Start receive
+2024-05-16T23:21:24: Connecting request: 83A00120
+2024-05-16T23:21:24: Connecting request: 9F124324
+2024-05-16T23:21:24: Connecting: 83A00120
+2024-05-16T23:21:26: Connected: 83A00120
+2024-05-16T23:21:26: Connecting: 9F124324
+2024-05-16T23:21:27: Connected: 9F124324
+2024-05-16T23:22:56: Stop receive requested by user
+2024-05-16T23:22:56: Finalizing stream for: Polar Sense 9F124324
+2024-05-16T23:22:56: Disconnecting request: 9F124324
+2024-05-16T23:22:56: Finalizing stream for: Polar H10 83A00120
+2024-05-16T23:22:56: Disconnecting request: 83A00120
+2024-05-16T23:22:56: Disconnected: 9F124324
+2024-05-16T23:22:56: Stop requested => closing stream and removing device
+2024-05-16T23:22:56: Disconnected: 83A00120
+2024-05-16T23:22:56: Stop requested => closing stream and removing device
+2024-05-16T23:22:56: Stopping service!
+2024-05-16T23:22:56: Foreground Service onDestroy
+2024-05-16T23:22:56: ---------------------------------------------------------------
+2024-05-16T23:23:12: Foreground service onStart
+2024-05-16T23:23:12: Start receive
+2024-05-16T23:23:12: Connecting request: 83A00120
+2024-05-16T23:23:12: Connecting request: 9F124324
+2024-05-16T23:23:12: Connecting: 83A00120
+2024-05-16T23:23:13: Connected: 83A00120
+2024-05-16T23:23:14: Connecting: 9F124324
+2024-05-16T23:23:14: Connected: 9F124324
+2024-05-16T23:23:15: activityPaused
+2024-05-16T23:23:18: activityResumed
+2024-05-16T23:24:42: Stop receive requested by user
+2024-05-16T23:24:42: Finalizing stream for: Polar Sense 9F124324
+2024-05-16T23:24:42: Disconnecting request: 9F124324
+2024-05-16T23:24:42: Finalizing stream for: Polar H10 83A00120
+2024-05-16T23:24:42: Disconnecting request: 83A00120
+2024-05-16T23:24:42: Disconnected: 9F124324
+2024-05-16T23:24:42: Stop requested => closing stream and removing device
+2024-05-16T23:24:42: Disconnected: 83A00120
+2024-05-16T23:24:42: Stop requested => closing stream and removing device
+2024-05-16T23:24:42: Stopping service!
+2024-05-16T23:24:42: Foreground Service onDestroy
+2024-05-16T23:24:42: ---------------------------------------------------------------
+2024-05-16T23:25:01: Foreground service onStart
+2024-05-16T23:25:01: Start receive
+2024-05-16T23:25:01: Connecting request: 83A00120
+2024-05-16T23:25:01: Connecting request: 9F124324
+2024-05-16T23:25:01: Connecting: 83A00120
+2024-05-16T23:25:02: Connected: 83A00120
+2024-05-16T23:25:02: Connecting: 9F124324
+2024-05-16T23:25:03: Connected: 9F124324
+2024-05-16T23:26:28: Stop receive requested by user
+2024-05-16T23:26:28: Finalizing stream for: Polar Sense 9F124324
+2024-05-16T23:26:28: Disconnecting request: 9F124324
+2024-05-16T23:26:28: Finalizing stream for: Polar H10 83A00120
+2024-05-16T23:26:28: Disconnecting request: 83A00120
+2024-05-16T23:26:28: Disconnected: 9F124324
+2024-05-16T23:26:28: Stop requested => closing stream and removing device
+2024-05-16T23:26:28: Disconnected: 83A00120
+2024-05-16T23:26:28: Stop requested => closing stream and removing device
+2024-05-16T23:26:28: Stopping service!
+2024-05-16T23:26:28: Foreground Service onDestroy
+2024-05-16T23:26:28: ---------------------------------------------------------------
+2024-05-17T13:09:56: Foreground service onStart
+2024-05-17T13:09:56: Start receive
+2024-05-17T13:09:56: Connecting request: 83A00120
+2024-05-17T13:09:56: Connecting request: 9F124324
+2024-05-17T13:09:56: Connecting: 83A00120
+2024-05-17T13:10:00: Connected: 83A00120
+2024-05-17T13:10:00: Connecting: 9F124324
+2024-05-17T13:10:01: Connected: 9F124324
+2024-05-17T13:11:27: Stop receive requested by user
+2024-05-17T13:11:27: Finalizing stream for: Polar Sense 9F124324
+2024-05-17T13:11:27: Disconnecting request: 9F124324
+2024-05-17T13:11:27: Finalizing stream for: Polar H10 83A00120
+2024-05-17T13:11:27: Disconnecting request: 83A00120
+2024-05-17T13:11:27: Disconnected: 9F124324
+2024-05-17T13:11:27: Stop requested => closing stream and removing device
+2024-05-17T13:11:27: Disconnected: 83A00120
+2024-05-17T13:11:27: Stop requested => closing stream and removing device
+2024-05-17T13:11:27: Stopping service!
+2024-05-17T13:11:27: Foreground Service onDestroy
+2024-05-17T13:11:27: ---------------------------------------------------------------
+2024-05-17T13:12:32: Foreground service onStart
+2024-05-17T13:12:32: Start receive
+2024-05-17T13:12:32: Connecting request: 83A00120
+2024-05-17T13:12:32: Connecting request: 9F124324
+2024-05-17T13:12:32: Connecting: 83A00120
+2024-05-17T13:12:34: Connected: 83A00120
+2024-05-17T13:12:34: Connecting: 9F124324
+2024-05-17T13:12:36: Connected: 9F124324
+2024-05-17T13:14:02: Stop receive requested by user
+2024-05-17T13:14:02: Finalizing stream for: Polar Sense 9F124324
+2024-05-17T13:14:02: Disconnecting request: 9F124324
+2024-05-17T13:14:02: Finalizing stream for: Polar H10 83A00120
+2024-05-17T13:14:02: Disconnecting request: 83A00120
+2024-05-17T13:14:02: Disconnected: 9F124324
+2024-05-17T13:14:02: Stop requested => closing stream and removing device
+2024-05-17T13:14:02: Disconnected: 83A00120
+2024-05-17T13:14:02: Stop requested => closing stream and removing device
+2024-05-17T13:14:02: Stopping service!
+2024-05-17T13:14:02: Foreground Service onDestroy
+2024-05-17T13:14:02: ---------------------------------------------------------------
+2024-05-17T13:14:18: Foreground service onStart
+2024-05-17T13:14:18: Start receive
+2024-05-17T13:14:18: Connecting request: 83A00120
+2024-05-17T13:14:18: Connecting request: 9F124324
+2024-05-17T13:14:18: Connecting: 83A00120
+2024-05-17T13:14:19: Connected: 83A00120
+2024-05-17T13:14:20: Connecting: 9F124324
+2024-05-17T13:14:20: Connected: 9F124324
+2024-05-17T13:15:46: Stop receive requested by user
+2024-05-17T13:15:46: Finalizing stream for: Polar Sense 9F124324
+2024-05-17T13:15:46: Disconnecting request: 9F124324
+2024-05-17T13:15:46: Finalizing stream for: Polar H10 83A00120
+2024-05-17T13:15:46: Disconnecting request: 83A00120
+2024-05-17T13:15:46: Disconnected: 9F124324
+2024-05-17T13:15:46: Stop requested => closing stream and removing device
+2024-05-17T13:15:46: Disconnected: 83A00120
+2024-05-17T13:15:46: Stop requested => closing stream and removing device
+2024-05-17T13:15:46: Stopping service!
+2024-05-17T13:15:46: Foreground Service onDestroy
+2024-05-17T13:15:46: ---------------------------------------------------------------
+2024-05-17T13:18:24: Foreground service onStart
+2024-05-17T13:18:24: Start receive
+2024-05-17T13:18:24: Connecting request: 83A00120
+2024-05-17T13:18:24: Connecting request: 9F124324
+2024-05-17T13:18:24: Connecting: 83A00120
+2024-05-17T13:18:26: Connected: 83A00120
+2024-05-17T13:18:26: Connecting: 9F124324
+2024-05-17T13:18:26: Connected: 9F124324
+2024-05-17T13:19:58: Stop receive requested by user
+2024-05-17T13:19:58: Finalizing stream for: Polar Sense 9F124324
+2024-05-17T13:19:58: Disconnecting request: 9F124324
+2024-05-17T13:19:58: Finalizing stream for: Polar H10 83A00120
+2024-05-17T13:19:58: Disconnecting request: 83A00120
+2024-05-17T13:19:58: Disconnected: 9F124324
+2024-05-17T13:19:58: Stop requested => closing stream and removing device
+2024-05-17T13:19:58: Disconnected: 83A00120
+2024-05-17T13:19:58: Stop requested => closing stream and removing device
+2024-05-17T13:19:58: Stopping service!
+2024-05-17T13:19:58: Foreground Service onDestroy
+2024-05-17T13:19:58: ---------------------------------------------------------------
+2024-05-17T13:20:13: Foreground service onStart
+2024-05-17T13:20:13: Start receive
+2024-05-17T13:20:13: Connecting request: 83A00120
+2024-05-17T13:20:13: Connecting request: 9F124324
+2024-05-17T13:20:13: Connecting: 83A00120
+2024-05-17T13:20:14: Connected: 83A00120
+2024-05-17T13:20:14: Connecting: 9F124324
+2024-05-17T13:20:15: Connected: 9F124324
+2024-05-17T13:21:47: Stop receive requested by user
+2024-05-17T13:21:47: Finalizing stream for: Polar Sense 9F124324
+2024-05-17T13:21:47: Disconnecting request: 9F124324
+2024-05-17T13:21:47: Finalizing stream for: Polar H10 83A00120
+2024-05-17T13:21:47: Disconnecting request: 83A00120
+2024-05-17T13:21:47: Disconnected: 9F124324
+2024-05-17T13:21:47: Stop requested => closing stream and removing device
+2024-05-17T13:21:47: Disconnected: 83A00120
+2024-05-17T13:21:47: Stop requested => closing stream and removing device
+2024-05-17T13:21:47: Stopping service!
+2024-05-17T13:21:47: Foreground Service onDestroy
+2024-05-17T13:21:47: ---------------------------------------------------------------
+2024-05-17T13:22:03: Foreground service onStart
+2024-05-17T13:22:03: Start receive
+2024-05-17T13:22:03: Connecting request: 83A00120
+2024-05-17T13:22:03: Connecting request: 9F124324
+2024-05-17T13:22:03: Connecting: 83A00120
+2024-05-17T13:22:05: Connected: 83A00120
+2024-05-17T13:22:05: Connecting: 9F124324
+2024-05-17T13:22:06: Connected: 9F124324
+2024-05-17T13:23:30: Stop receive requested by user
+2024-05-17T13:23:30: Finalizing stream for: Polar Sense 9F124324
+2024-05-17T13:23:30: Disconnecting request: 9F124324
+2024-05-17T13:23:30: Finalizing stream for: Polar H10 83A00120
+2024-05-17T13:23:30: Disconnecting request: 83A00120
+2024-05-17T13:23:30: Disconnected: 9F124324
+2024-05-17T13:23:30: Stop requested => closing stream and removing device
+2024-05-17T13:23:30: Disconnected: 83A00120
+2024-05-17T13:23:30: Stop requested => closing stream and removing device
+2024-05-17T13:23:30: Stopping service!
+2024-05-17T13:23:30: Foreground Service onDestroy
+2024-05-17T13:23:30: ---------------------------------------------------------------
+2024-05-18T15:04:08: Foreground service onStart
+2024-05-18T15:04:08: Start receive
+2024-05-18T15:04:08: Connecting request: 83A00120
+2024-05-18T15:04:08: Connecting request: 9F124324
+2024-05-18T15:04:08: Connecting: 83A00120
+2024-05-18T15:04:10: Connected: 83A00120
+2024-05-18T15:04:11: Connecting: 9F124324
+2024-05-18T15:04:12: Connected: 9F124324
+2024-05-18T15:06:20: Stop receive requested by user
+2024-05-18T15:06:20: Finalizing stream for: Polar Sense 9F124324
+2024-05-18T15:06:20: Disconnecting request: 9F124324
+2024-05-18T15:06:20: Finalizing stream for: Polar H10 83A00120
+2024-05-18T15:06:20: Disconnecting request: 83A00120
+2024-05-18T15:06:20: Disconnected: 9F124324
+2024-05-18T15:06:20: Stop requested => closing stream and removing device
+2024-05-18T15:06:20: Disconnected: 83A00120
+2024-05-18T15:06:20: Stop requested => closing stream and removing device
+2024-05-18T15:06:20: Stopping service!
+2024-05-18T15:06:20: Foreground Service onDestroy
+2024-05-18T15:06:20: ---------------------------------------------------------------
+2024-05-18T15:07:12: Foreground service onStart
+2024-05-18T15:07:12: Start receive
+2024-05-18T15:07:12: Connecting request: 83A00120
+2024-05-18T15:07:12: Connecting request: 9F124324
+2024-05-18T15:07:12: Connecting: 83A00120
+2024-05-18T15:07:14: Connected: 83A00120
+2024-05-18T15:07:14: Connecting: 9F124324
+2024-05-18T15:07:16: Connected: 9F124324
+2024-05-18T15:08:44: Stop receive requested by user
+2024-05-18T15:08:44: Finalizing stream for: Polar Sense 9F124324
+2024-05-18T15:08:44: Disconnecting request: 9F124324
+2024-05-18T15:08:44: Finalizing stream for: Polar H10 83A00120
+2024-05-18T15:08:44: Disconnecting request: 83A00120
+2024-05-18T15:08:44: Disconnected: 9F124324
+2024-05-18T15:08:44: Stop requested => closing stream and removing device
+2024-05-18T15:08:44: Disconnected: 83A00120
+2024-05-18T15:08:44: Stop requested => closing stream and removing device
+2024-05-18T15:08:44: Stopping service!
+2024-05-18T15:08:44: Foreground Service onDestroy
+2024-05-18T15:08:44: ---------------------------------------------------------------
+2024-05-18T15:08:58: Foreground service onStart
+2024-05-18T15:08:58: Start receive
+2024-05-18T15:08:58: Connecting request: 83A00120
+2024-05-18T15:08:58: Connecting request: 9F124324
+2024-05-18T15:08:58: Connecting: 83A00120
+2024-05-18T15:08:59: Connected: 83A00120
+2024-05-18T15:08:59: Connecting: 9F124324
+2024-05-18T15:09:00: Connected: 9F124324
+2024-05-18T15:10:30: Stop receive requested by user
+2024-05-18T15:10:30: Finalizing stream for: Polar Sense 9F124324
+2024-05-18T15:10:30: Disconnecting request: 9F124324
+2024-05-18T15:10:30: Finalizing stream for: Polar H10 83A00120
+2024-05-18T15:10:30: Disconnecting request: 83A00120
+2024-05-18T15:10:30: Disconnected: 9F124324
+2024-05-18T15:10:30: Stop requested => closing stream and removing device
+2024-05-18T15:10:30: Disconnected: 83A00120
+2024-05-18T15:10:30: Stop requested => closing stream and removing device
+2024-05-18T15:10:30: Stopping service!
+2024-05-18T15:10:30: Foreground Service onDestroy
+2024-05-18T15:10:30: ---------------------------------------------------------------
+2024-05-18T15:10:54: Foreground service onStart
+2024-05-18T15:10:54: Start receive
+2024-05-18T15:10:54: Connecting request: 83A00120
+2024-05-18T15:10:54: Connecting request: 9F124324
+2024-05-18T15:10:54: Connecting: 83A00120
+2024-05-18T15:10:56: Connected: 83A00120
+2024-05-18T15:10:56: Connecting: 9F124324
+2024-05-18T15:10:57: Connected: 9F124324
+2024-05-18T15:12:24: Stop receive requested by user
+2024-05-18T15:12:24: Finalizing stream for: Polar Sense 9F124324
+2024-05-18T15:12:24: Disconnecting request: 9F124324
+2024-05-18T15:12:24: Finalizing stream for: Polar H10 83A00120
+2024-05-18T15:12:24: Disconnecting request: 83A00120
+2024-05-18T15:12:24: Disconnected: 9F124324
+2024-05-18T15:12:24: Stop requested => closing stream and removing device
+2024-05-18T15:12:24: Disconnected: 83A00120
+2024-05-18T15:12:24: Stop requested => closing stream and removing device
+2024-05-18T15:12:24: Stopping service!
+2024-05-18T15:12:24: Foreground Service onDestroy
+2024-05-18T15:12:24: ---------------------------------------------------------------
+2024-05-18T15:12:46: Foreground service onStart
+2024-05-18T15:12:46: Start receive
+2024-05-18T15:12:46: Connecting request: 83A00120
+2024-05-18T15:12:46: Connecting request: 9F124324
+2024-05-18T15:12:46: Connecting: 83A00120
+2024-05-18T15:12:48: Connected: 83A00120
+2024-05-18T15:12:48: Connecting: 9F124324
+2024-05-18T15:12:49: Connected: 9F124324
+2024-05-18T15:14:17: Stop receive requested by user
+2024-05-18T15:14:17: Finalizing stream for: Polar Sense 9F124324
+2024-05-18T15:14:17: Disconnecting request: 9F124324
+2024-05-18T15:14:17: Finalizing stream for: Polar H10 83A00120
+2024-05-18T15:14:17: Disconnecting request: 83A00120
+2024-05-18T15:14:17: Disconnected: 9F124324
+2024-05-18T15:14:17: Stop requested => closing stream and removing device
+2024-05-18T15:14:17: Disconnected: 83A00120
+2024-05-18T15:14:17: Stop requested => closing stream and removing device
+2024-05-18T15:14:17: Stopping service!
+2024-05-18T15:14:17: Foreground Service onDestroy
+2024-05-18T15:14:17: ---------------------------------------------------------------
+2024-05-18T15:14:42: Foreground service onStart
+2024-05-18T15:14:42: Start receive
+2024-05-18T15:14:42: Connecting request: 83A00120
+2024-05-18T15:14:42: Connecting request: 9F124324
+2024-05-18T15:14:42: Connecting: 83A00120
+2024-05-18T15:14:44: Connected: 83A00120
+2024-05-18T15:14:44: Connecting: 9F124324
+2024-05-18T15:14:45: Connected: 9F124324
+2024-05-18T15:16:14: Stop receive requested by user
+2024-05-18T15:16:14: Finalizing stream for: Polar Sense 9F124324
+2024-05-18T15:16:14: Disconnecting request: 9F124324
+2024-05-18T15:16:14: Finalizing stream for: Polar H10 83A00120
+2024-05-18T15:16:14: Disconnecting request: 83A00120
+2024-05-18T15:16:14: Disconnected: 9F124324
+2024-05-18T15:16:14: Stop requested => closing stream and removing device
+2024-05-18T15:16:14: Disconnected: 83A00120
+2024-05-18T15:16:14: Stop requested => closing stream and removing device
+2024-05-18T15:16:14: Stopping service!
+2024-05-18T15:16:14: Foreground Service onDestroy
+2024-05-18T15:16:14: ---------------------------------------------------------------
+2024-05-18T15:16:39: Foreground service onStart
+2024-05-18T15:16:39: Start receive
+2024-05-18T15:16:39: Connecting request: 83A00120
+2024-05-18T15:16:39: Connecting request: 9F124324
+2024-05-18T15:16:39: Connecting: 83A00120
+2024-05-18T15:16:40: Connected: 83A00120
+2024-05-18T15:16:40: Connecting: 9F124324
+2024-05-18T15:16:41: Connected: 9F124324
+2024-05-18T15:30:18: Stop receive requested by user
+2024-05-18T15:30:18: Finalizing stream for: Polar Sense 9F124324
+2024-05-18T15:30:18: Disconnecting request: 9F124324
+2024-05-18T15:30:18: Finalizing stream for: Polar H10 83A00120
+2024-05-18T15:30:18: Disconnecting request: 83A00120
+2024-05-18T15:30:18: Disconnected: 9F124324
+2024-05-18T15:30:18: Stop requested => closing stream and removing device
+2024-05-18T15:30:18: Disconnected: 83A00120
+2024-05-18T15:30:18: Stop requested => closing stream and removing device
+2024-05-18T15:30:18: Stopping service!
+2024-05-18T15:30:18: Foreground Service onDestroy
+2024-05-18T15:30:18: ---------------------------------------------------------------
+2024-05-20T22:18:36: Foreground service onStart
+2024-05-20T22:18:36: Start receive
+2024-05-20T22:18:36: Connecting request: 83A00120
+2024-05-20T22:18:36: Connecting request: 9F124324
+2024-05-20T22:18:36: Connecting: 83A00120
+2024-05-20T22:18:37: Connected: 83A00120
+2024-05-20T22:18:38: Connecting: 9F124324
+2024-05-20T22:18:39: Connected: 9F124324
+2024-05-20T22:20:40: Stop receive requested by user
+2024-05-20T22:20:40: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:20:40: Disconnecting request: 9F124324
+2024-05-20T22:20:40: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:20:40: Disconnecting request: 83A00120
+2024-05-20T22:20:40: Disconnected: 9F124324
+2024-05-20T22:20:40: Stop requested => closing stream and removing device
+2024-05-20T22:20:40: Disconnected: 83A00120
+2024-05-20T22:20:40: Stop requested => closing stream and removing device
+2024-05-20T22:20:40: Stopping service!
+2024-05-20T22:20:40: Foreground Service onDestroy
+2024-05-20T22:20:40: ---------------------------------------------------------------
+2024-05-20T22:21:49: Foreground service onStart
+2024-05-20T22:21:49: Start receive
+2024-05-20T22:21:49: Connecting request: 83A00120
+2024-05-20T22:21:49: Connecting request: 9F124324
+2024-05-20T22:21:49: Connecting: 83A00120
+2024-05-20T22:21:52: Connected: 83A00120
+2024-05-20T22:21:52: Connecting: 9F124324
+2024-05-20T22:21:53: Connected: 9F124324
+2024-05-20T22:23:28: Stop receive requested by user
+2024-05-20T22:23:28: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:23:28: Disconnecting request: 9F124324
+2024-05-20T22:23:28: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:23:28: Disconnecting request: 83A00120
+2024-05-20T22:23:28: Disconnected: 9F124324
+2024-05-20T22:23:28: Stop requested => closing stream and removing device
+2024-05-20T22:23:28: Disconnected: 83A00120
+2024-05-20T22:23:28: Stop requested => closing stream and removing device
+2024-05-20T22:23:28: Stopping service!
+2024-05-20T22:23:28: Foreground Service onDestroy
+2024-05-20T22:23:28: ---------------------------------------------------------------
+2024-05-20T22:23:40: Foreground service onStart
+2024-05-20T22:23:40: Start receive
+2024-05-20T22:23:40: Connecting request: 83A00120
+2024-05-20T22:23:40: Connecting request: 9F124324
+2024-05-20T22:23:40: Connecting: 83A00120
+2024-05-20T22:23:42: Connected: 83A00120
+2024-05-20T22:23:42: Connecting: 9F124324
+2024-05-20T22:23:43: Connected: 9F124324
+2024-05-20T22:25:14: Stop receive requested by user
+2024-05-20T22:25:14: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:25:14: Disconnecting request: 9F124324
+2024-05-20T22:25:14: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:25:14: Disconnecting request: 83A00120
+2024-05-20T22:25:14: Disconnected: 9F124324
+2024-05-20T22:25:14: Stop requested => closing stream and removing device
+2024-05-20T22:25:14: Disconnected: 83A00120
+2024-05-20T22:25:14: Stop requested => closing stream and removing device
+2024-05-20T22:25:14: Stopping service!
+2024-05-20T22:25:14: Foreground Service onDestroy
+2024-05-20T22:25:14: ---------------------------------------------------------------
+2024-05-20T22:27:09: Foreground service onStart
+2024-05-20T22:27:09: Start receive
+2024-05-20T22:27:09: Connecting request: 83A00120
+2024-05-20T22:27:09: Connecting request: 9F124324
+2024-05-20T22:27:09: Connecting: 83A00120
+2024-05-20T22:27:11: Connected: 83A00120
+2024-05-20T22:27:11: Connecting: 9F124324
+2024-05-20T22:27:12: Connected: 9F124324
+2024-05-20T22:28:52: Stop receive requested by user
+2024-05-20T22:28:52: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:28:52: Disconnecting request: 9F124324
+2024-05-20T22:28:52: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:28:52: Disconnecting request: 83A00120
+2024-05-20T22:28:52: Disconnected: 9F124324
+2024-05-20T22:28:52: Stop requested => closing stream and removing device
+2024-05-20T22:28:52: Disconnected: 83A00120
+2024-05-20T22:28:52: Stop requested => closing stream and removing device
+2024-05-20T22:28:52: Stopping service!
+2024-05-20T22:28:52: Foreground Service onDestroy
+2024-05-20T22:28:52: ---------------------------------------------------------------
+2024-05-20T22:29:08: Foreground service onStart
+2024-05-20T22:29:08: Start receive
+2024-05-20T22:29:08: Connecting request: 83A00120
+2024-05-20T22:29:08: Connecting request: 9F124324
+2024-05-20T22:29:08: Connecting: 83A00120
+2024-05-20T22:29:10: Connected: 83A00120
+2024-05-20T22:29:10: Connecting: 9F124324
+2024-05-20T22:29:11: Connected: 9F124324
+2024-05-20T22:30:39: Stop receive requested by user
+2024-05-20T22:30:39: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:30:39: Disconnecting request: 9F124324
+2024-05-20T22:30:39: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:30:39: Disconnecting request: 83A00120
+2024-05-20T22:30:39: Disconnected: 9F124324
+2024-05-20T22:30:39: Stop requested => closing stream and removing device
+2024-05-20T22:30:39: Disconnected: 83A00120
+2024-05-20T22:30:39: Stop requested => closing stream and removing device
+2024-05-20T22:30:39: Stopping service!
+2024-05-20T22:30:39: Foreground Service onDestroy
+2024-05-20T22:30:39: ---------------------------------------------------------------
+2024-05-20T22:30:54: Foreground service onStart
+2024-05-20T22:30:54: Start receive
+2024-05-20T22:30:54: Connecting request: 83A00120
+2024-05-20T22:30:54: Connecting request: 9F124324
+2024-05-20T22:30:54: Connecting: 83A00120
+2024-05-20T22:30:56: Connected: 83A00120
+2024-05-20T22:30:56: Connecting: 9F124324
+2024-05-20T22:30:57: Connected: 9F124324
+2024-05-20T22:32:27: Stop receive requested by user
+2024-05-20T22:32:27: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:32:27: Disconnecting request: 9F124324
+2024-05-20T22:32:27: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:32:27: Disconnecting request: 83A00120
+2024-05-20T22:32:27: Disconnected: 9F124324
+2024-05-20T22:32:27: Stop requested => closing stream and removing device
+2024-05-20T22:32:27: Disconnected: 83A00120
+2024-05-20T22:32:27: Stop requested => closing stream and removing device
+2024-05-20T22:32:27: Stopping service!
+2024-05-20T22:32:27: Foreground Service onDestroy
+2024-05-20T22:32:27: ---------------------------------------------------------------
+2024-05-20T22:35:39: Foreground service onStart
+2024-05-20T22:35:39: Start receive
+2024-05-20T22:35:39: Connecting request: 83A00120
+2024-05-20T22:35:39: Connecting request: 9F124324
+2024-05-20T22:35:39: Connecting: 83A00120
+2024-05-20T22:35:41: Connected: 83A00120
+2024-05-20T22:35:41: Connecting: 9F124324
+2024-05-20T22:35:42: Connected: 9F124324
+2024-05-20T22:37:17: Stop receive requested by user
+2024-05-20T22:37:17: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:37:17: Disconnecting request: 9F124324
+2024-05-20T22:37:17: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:37:17: Disconnecting request: 83A00120
+2024-05-20T22:37:17: Disconnected: 9F124324
+2024-05-20T22:37:17: Stop requested => closing stream and removing device
+2024-05-20T22:37:17: Disconnected: 83A00120
+2024-05-20T22:37:17: Stop requested => closing stream and removing device
+2024-05-20T22:37:17: Stopping service!
+2024-05-20T22:37:17: Foreground Service onDestroy
+2024-05-20T22:37:17: ---------------------------------------------------------------
+2024-05-20T22:37:32: Foreground service onStart
+2024-05-20T22:37:32: Start receive
+2024-05-20T22:37:32: Connecting request: 83A00120
+2024-05-20T22:37:32: Connecting request: 9F124324
+2024-05-20T22:37:32: Connecting: 83A00120
+2024-05-20T22:37:34: Connected: 83A00120
+2024-05-20T22:37:34: Connecting: 9F124324
+2024-05-20T22:37:35: Connected: 9F124324
+2024-05-20T22:39:02: Stop receive requested by user
+2024-05-20T22:39:02: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:39:02: Disconnecting request: 9F124324
+2024-05-20T22:39:02: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:39:02: Disconnecting request: 83A00120
+2024-05-20T22:39:02: Disconnected: 9F124324
+2024-05-20T22:39:02: Stop requested => closing stream and removing device
+2024-05-20T22:39:02: Disconnected: 83A00120
+2024-05-20T22:39:02: Stop requested => closing stream and removing device
+2024-05-20T22:39:02: Stopping service!
+2024-05-20T22:39:02: Foreground Service onDestroy
+2024-05-20T22:39:02: ---------------------------------------------------------------
+2024-05-20T22:39:15: Foreground service onStart
+2024-05-20T22:39:15: Start receive
+2024-05-20T22:39:15: Connecting request: 83A00120
+2024-05-20T22:39:15: Connecting request: 9F124324
+2024-05-20T22:39:15: Connecting: 83A00120
+2024-05-20T22:39:17: Connected: 83A00120
+2024-05-20T22:39:17: Connecting: 9F124324
+2024-05-20T22:39:18: Connected: 9F124324
+2024-05-20T22:40:46: Stop receive requested by user
+2024-05-20T22:40:46: Finalizing stream for: Polar Sense 9F124324
+2024-05-20T22:40:46: Disconnecting request: 9F124324
+2024-05-20T22:40:46: Finalizing stream for: Polar H10 83A00120
+2024-05-20T22:40:46: Disconnecting request: 83A00120
+2024-05-20T22:40:46: Disconnected: 9F124324
+2024-05-20T22:40:46: Stop requested => closing stream and removing device
+2024-05-20T22:40:46: Disconnected: 83A00120
+2024-05-20T22:40:46: Stop requested => closing stream and removing device
+2024-05-20T22:40:46: Stopping service!
+2024-05-20T22:40:46: Foreground Service onDestroy
+2024-05-20T22:40:46: ---------------------------------------------------------------
+2024-05-21T20:47:25: Foreground service onStart
+2024-05-21T20:47:25: Start receive
+2024-05-21T20:47:25: Connecting request: 83A00120
+2024-05-21T20:47:25: Connecting request: 9F124324
+2024-05-21T20:47:25: Connecting: 83A00120
+2024-05-21T20:47:28: Connected: 83A00120
+2024-05-21T20:47:28: Connecting: 9F124324
+2024-05-21T20:47:29: Connected: 9F124324
+2024-05-21T20:49:16: Stop receive requested by user
+2024-05-21T20:49:16: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T20:49:16: Disconnecting request: 9F124324
+2024-05-21T20:49:16: Finalizing stream for: Polar H10 83A00120
+2024-05-21T20:49:16: Disconnecting request: 83A00120
+2024-05-21T20:49:16: Disconnected: 9F124324
+2024-05-21T20:49:16: Stop requested => closing stream and removing device
+2024-05-21T20:49:16: Disconnected: 83A00120
+2024-05-21T20:49:16: Stop requested => closing stream and removing device
+2024-05-21T20:49:16: Stopping service!
+2024-05-21T20:49:16: Foreground Service onDestroy
+2024-05-21T20:49:16: ---------------------------------------------------------------
+2024-05-21T20:50:49: Foreground service onStart
+2024-05-21T20:50:49: Start receive
+2024-05-21T20:50:49: Connecting request: 83A00120
+2024-05-21T20:50:49: Connecting request: 9F124324
+2024-05-21T20:50:49: Connecting: 83A00120
+2024-05-21T20:50:51: Connected: 83A00120
+2024-05-21T20:50:51: Connecting: 9F124324
+2024-05-21T20:50:52: Connected: 9F124324
+2024-05-21T20:52:20: Stop receive requested by user
+2024-05-21T20:52:20: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T20:52:20: Disconnecting request: 9F124324
+2024-05-21T20:52:20: Finalizing stream for: Polar H10 83A00120
+2024-05-21T20:52:20: Disconnecting request: 83A00120
+2024-05-21T20:52:20: Disconnected: 83A00120
+2024-05-21T20:52:20: Stop requested => closing stream and removing device
+2024-05-21T20:52:20: Disconnected: 9F124324
+2024-05-21T20:52:20: Stop requested => closing stream and removing device
+2024-05-21T20:52:20: Stopping service!
+2024-05-21T20:52:20: Foreground Service onDestroy
+2024-05-21T20:52:20: ---------------------------------------------------------------
+2024-05-21T20:52:47: Foreground service onStart
+2024-05-21T20:52:47: Start receive
+2024-05-21T20:52:47: Connecting request: 83A00120
+2024-05-21T20:52:47: Connecting request: 9F124324
+2024-05-21T20:52:47: Connecting: 83A00120
+2024-05-21T20:52:49: Connected: 83A00120
+2024-05-21T20:52:49: Connecting: 9F124324
+2024-05-21T20:52:50: Connected: 9F124324
+2024-05-21T20:54:18: Stop receive requested by user
+2024-05-21T20:54:18: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T20:54:18: Disconnecting request: 9F124324
+2024-05-21T20:54:18: Finalizing stream for: Polar H10 83A00120
+2024-05-21T20:54:19: Disconnecting request: 83A00120
+2024-05-21T20:54:19: Disconnected: 9F124324
+2024-05-21T20:54:19: Stop requested => closing stream and removing device
+2024-05-21T20:54:19: Disconnected: 83A00120
+2024-05-21T20:54:19: Stop requested => closing stream and removing device
+2024-05-21T20:54:19: Stopping service!
+2024-05-21T20:54:19: Foreground Service onDestroy
+2024-05-21T20:54:19: ---------------------------------------------------------------
+2024-05-21T20:57:04: Foreground service onStart
+2024-05-21T20:57:04: Start receive
+2024-05-21T20:57:04: Connecting request: 83A00120
+2024-05-21T20:57:04: Connecting request: 9F124324
+2024-05-21T20:57:04: Connecting: 83A00120
+2024-05-21T20:57:07: Connected: 83A00120
+2024-05-21T20:57:07: Connecting: 9F124324
+2024-05-21T20:57:08: Connected: 9F124324
+2024-05-21T20:58:42: Stop receive requested by user
+2024-05-21T20:58:42: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T20:58:42: Disconnecting request: 9F124324
+2024-05-21T20:58:42: Finalizing stream for: Polar H10 83A00120
+2024-05-21T20:58:42: Disconnecting request: 83A00120
+2024-05-21T20:58:42: Disconnected: 9F124324
+2024-05-21T20:58:42: Stop requested => closing stream and removing device
+2024-05-21T20:58:42: Disconnected: 83A00120
+2024-05-21T20:58:42: Stop requested => closing stream and removing device
+2024-05-21T20:58:42: Stopping service!
+2024-05-21T20:58:42: Foreground Service onDestroy
+2024-05-21T20:58:42: ---------------------------------------------------------------
+2024-05-21T20:58:53: Foreground service onStart
+2024-05-21T20:58:53: Start receive
+2024-05-21T20:58:53: Connecting request: 83A00120
+2024-05-21T20:58:53: Connecting request: 9F124324
+2024-05-21T20:58:53: Connecting: 83A00120
+2024-05-21T20:58:55: Connected: 83A00120
+2024-05-21T20:58:55: Connecting: 9F124324
+2024-05-21T20:58:55: Connected: 9F124324
+2024-05-21T21:00:26: Stop receive requested by user
+2024-05-21T21:00:26: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T21:00:26: Disconnecting request: 9F124324
+2024-05-21T21:00:26: Finalizing stream for: Polar H10 83A00120
+2024-05-21T21:00:26: Disconnecting request: 83A00120
+2024-05-21T21:00:26: Disconnected: 9F124324
+2024-05-21T21:00:26: Stop requested => closing stream and removing device
+2024-05-21T21:00:26: Disconnected: 83A00120
+2024-05-21T21:00:26: Stop requested => closing stream and removing device
+2024-05-21T21:00:26: Stopping service!
+2024-05-21T21:00:26: Foreground Service onDestroy
+2024-05-21T21:00:26: ---------------------------------------------------------------
+2024-05-21T21:00:54: Foreground service onStart
+2024-05-21T21:00:54: Start receive
+2024-05-21T21:00:54: Connecting request: 83A00120
+2024-05-21T21:00:54: Connecting request: 9F124324
+2024-05-21T21:00:54: Connecting: 83A00120
+2024-05-21T21:00:56: Connected: 83A00120
+2024-05-21T21:00:56: Connecting: 9F124324
+2024-05-21T21:00:57: Connected: 9F124324
+2024-05-21T21:02:27: Stop receive requested by user
+2024-05-21T21:02:27: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T21:02:27: Disconnecting request: 9F124324
+2024-05-21T21:02:27: Finalizing stream for: Polar H10 83A00120
+2024-05-21T21:02:27: Disconnecting request: 83A00120
+2024-05-21T21:02:27: Disconnected: 9F124324
+2024-05-21T21:02:27: Stop requested => closing stream and removing device
+2024-05-21T21:02:27: Disconnected: 83A00120
+2024-05-21T21:02:27: Stop requested => closing stream and removing device
+2024-05-21T21:02:27: Stopping service!
+2024-05-21T21:02:27: Foreground Service onDestroy
+2024-05-21T21:02:27: ---------------------------------------------------------------
+2024-05-21T21:05:27: Foreground service onStart
+2024-05-21T21:05:27: Start receive
+2024-05-21T21:05:27: Connecting request: 83A00120
+2024-05-21T21:05:27: Connecting request: 9F124324
+2024-05-21T21:05:27: Connecting: 83A00120
+2024-05-21T21:05:29: Connected: 83A00120
+2024-05-21T21:05:29: Connecting: 9F124324
+2024-05-21T21:05:30: Connected: 9F124324
+2024-05-21T21:07:08: Stop receive requested by user
+2024-05-21T21:07:08: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T21:07:08: Disconnecting request: 9F124324
+2024-05-21T21:07:08: Finalizing stream for: Polar H10 83A00120
+2024-05-21T21:07:08: Disconnecting request: 83A00120
+2024-05-21T21:07:08: Disconnected: 9F124324
+2024-05-21T21:07:08: Stop requested => closing stream and removing device
+2024-05-21T21:07:08: Disconnected: 83A00120
+2024-05-21T21:07:08: Stop requested => closing stream and removing device
+2024-05-21T21:07:08: Stopping service!
+2024-05-21T21:07:08: Foreground Service onDestroy
+2024-05-21T21:07:08: ---------------------------------------------------------------
+2024-05-21T21:07:23: Foreground service onStart
+2024-05-21T21:07:23: Start receive
+2024-05-21T21:07:23: Connecting request: 83A00120
+2024-05-21T21:07:23: Connecting request: 9F124324
+2024-05-21T21:07:23: Connecting: 83A00120
+2024-05-21T21:07:24: Connected: 83A00120
+2024-05-21T21:07:24: Connecting: 9F124324
+2024-05-21T21:07:26: Connected: 9F124324
+2024-05-21T21:08:56: Stop receive requested by user
+2024-05-21T21:08:56: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T21:08:56: Disconnecting request: 9F124324
+2024-05-21T21:08:56: Finalizing stream for: Polar H10 83A00120
+2024-05-21T21:08:56: Disconnecting request: 83A00120
+2024-05-21T21:08:56: Disconnected: 9F124324
+2024-05-21T21:08:56: Stop requested => closing stream and removing device
+2024-05-21T21:08:56: Disconnected: 83A00120
+2024-05-21T21:08:56: Stop requested => closing stream and removing device
+2024-05-21T21:08:56: Stopping service!
+2024-05-21T21:08:56: Foreground Service onDestroy
+2024-05-21T21:08:56: ---------------------------------------------------------------
+2024-05-21T21:09:32: Foreground service onStart
+2024-05-21T21:09:32: Start receive
+2024-05-21T21:09:32: Connecting request: 83A00120
+2024-05-21T21:09:32: Connecting request: 9F124324
+2024-05-21T21:09:32: Connecting: 83A00120
+2024-05-21T21:09:34: Connected: 83A00120
+2024-05-21T21:09:34: Connecting: 9F124324
+2024-05-21T21:09:35: Connected: 9F124324
+2024-05-21T21:11:02: Stop receive requested by user
+2024-05-21T21:11:02: Finalizing stream for: Polar Sense 9F124324
+2024-05-21T21:11:02: Disconnecting request: 9F124324
+2024-05-21T21:11:02: Finalizing stream for: Polar H10 83A00120
+2024-05-21T21:11:02: Disconnecting request: 83A00120
+2024-05-21T21:11:02: Disconnected: 9F124324
+2024-05-21T21:11:02: Stop requested => closing stream and removing device
+2024-05-21T21:11:02: Disconnected: 83A00120
+2024-05-21T21:11:02: Stop requested => closing stream and removing device
+2024-05-21T21:11:02: Stopping service!
+2024-05-21T21:11:02: Foreground Service onDestroy
+2024-05-21T21:11:02: ---------------------------------------------------------------
+2024-05-22T19:30:18: Foreground service onStart
+2024-05-22T19:30:18: Start receive
+2024-05-22T19:30:18: Connecting request: 83A00120
+2024-05-22T19:30:18: Connecting request: 9F124324
+2024-05-22T19:30:18: Connecting: 83A00120
+2024-05-22T19:30:21: Connected: 83A00120
+2024-05-22T19:30:21: Connecting: 9F124324
+2024-05-22T19:30:22: Connected: 9F124324
+2024-05-22T19:32:57: Stop receive requested by user
+2024-05-22T19:32:57: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:32:57: Disconnecting request: 9F124324
+2024-05-22T19:32:57: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:32:57: Disconnecting request: 83A00120
+2024-05-22T19:32:57: Disconnected: 9F124324
+2024-05-22T19:32:57: Stop requested => closing stream and removing device
+2024-05-22T19:32:57: Disconnected: 83A00120
+2024-05-22T19:32:57: Stop requested => closing stream and removing device
+2024-05-22T19:32:57: Stopping service!
+2024-05-22T19:32:57: Foreground Service onDestroy
+2024-05-22T19:32:57: ---------------------------------------------------------------
+2024-05-22T19:35:41: Foreground service onStart
+2024-05-22T19:35:41: Start receive
+2024-05-22T19:35:41: Connecting request: 83A00120
+2024-05-22T19:35:41: Connecting request: 9F124324
+2024-05-22T19:35:41: Connecting: 83A00120
+2024-05-22T19:35:42: Connected: 83A00120
+2024-05-22T19:35:43: Connecting: 9F124324
+2024-05-22T19:35:43: Connected: 9F124324
+2024-05-22T19:37:25: Stop receive requested by user
+2024-05-22T19:37:25: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:37:25: Disconnecting request: 9F124324
+2024-05-22T19:37:25: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:37:25: Disconnecting request: 83A00120
+2024-05-22T19:37:25: Disconnected: 9F124324
+2024-05-22T19:37:25: Stop requested => closing stream and removing device
+2024-05-22T19:37:25: Disconnected: 83A00120
+2024-05-22T19:37:25: Stop requested => closing stream and removing device
+2024-05-22T19:37:25: Stopping service!
+2024-05-22T19:37:25: Foreground Service onDestroy
+2024-05-22T19:37:25: ---------------------------------------------------------------
+2024-05-22T19:37:39: Foreground service onStart
+2024-05-22T19:37:39: Start receive
+2024-05-22T19:37:39: Connecting request: 83A00120
+2024-05-22T19:37:39: Connecting request: 9F124324
+2024-05-22T19:37:39: Connecting: 83A00120
+2024-05-22T19:37:40: Connected: 83A00120
+2024-05-22T19:37:40: Connecting: 9F124324
+2024-05-22T19:37:41: Connected: 9F124324
+2024-05-22T19:39:30: Stop receive requested by user
+2024-05-22T19:39:30: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:39:30: Disconnecting request: 9F124324
+2024-05-22T19:39:30: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:39:30: Disconnecting request: 83A00120
+2024-05-22T19:39:30: Disconnected: 9F124324
+2024-05-22T19:39:30: Stop requested => closing stream and removing device
+2024-05-22T19:39:30: Disconnected: 83A00120
+2024-05-22T19:39:30: Stop requested => closing stream and removing device
+2024-05-22T19:39:30: Stopping service!
+2024-05-22T19:39:30: Foreground Service onDestroy
+2024-05-22T19:39:30: ---------------------------------------------------------------
+2024-05-22T19:41:18: Foreground service onStart
+2024-05-22T19:41:18: Start receive
+2024-05-22T19:41:18: Connecting request: 83A00120
+2024-05-22T19:41:18: Connecting request: 9F124324
+2024-05-22T19:41:18: Connecting: 83A00120
+2024-05-22T19:41:20: Connected: 83A00120
+2024-05-22T19:41:20: Connecting: 9F124324
+2024-05-22T19:41:21: Connected: 9F124324
+2024-05-22T19:43:04: Stop receive requested by user
+2024-05-22T19:43:04: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:43:04: Disconnecting request: 9F124324
+2024-05-22T19:43:04: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:43:04: Disconnecting request: 83A00120
+2024-05-22T19:43:04: Disconnected: 9F124324
+2024-05-22T19:43:04: Stop requested => closing stream and removing device
+2024-05-22T19:43:04: Disconnected: 83A00120
+2024-05-22T19:43:04: Stop requested => closing stream and removing device
+2024-05-22T19:43:04: Stopping service!
+2024-05-22T19:43:04: Foreground Service onDestroy
+2024-05-22T19:43:04: ---------------------------------------------------------------
+2024-05-22T19:43:16: Foreground service onStart
+2024-05-22T19:43:16: Start receive
+2024-05-22T19:43:16: Connecting request: 83A00120
+2024-05-22T19:43:16: Connecting request: 9F124324
+2024-05-22T19:43:16: Connecting: 83A00120
+2024-05-22T19:43:17: Connected: 83A00120
+2024-05-22T19:43:17: Connecting: 9F124324
+2024-05-22T19:43:18: Connected: 9F124324
+2024-05-22T19:44:42: Stop receive requested by user
+2024-05-22T19:44:42: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:44:42: Disconnecting request: 9F124324
+2024-05-22T19:44:42: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:44:42: Disconnecting request: 83A00120
+2024-05-22T19:44:42: Disconnected: 9F124324
+2024-05-22T19:44:42: Stop requested => closing stream and removing device
+2024-05-22T19:44:42: Disconnected: 83A00120
+2024-05-22T19:44:42: Stop requested => closing stream and removing device
+2024-05-22T19:44:42: Stopping service!
+2024-05-22T19:44:42: Foreground Service onDestroy
+2024-05-22T19:44:42: ---------------------------------------------------------------
+2024-05-22T19:44:57: Foreground service onStart
+2024-05-22T19:44:57: Start receive
+2024-05-22T19:44:57: Connecting request: 83A00120
+2024-05-22T19:44:57: Connecting request: 9F124324
+2024-05-22T19:44:57: Connecting: 83A00120
+2024-05-22T19:44:59: Connected: 83A00120
+2024-05-22T19:44:59: Connecting: 9F124324
+2024-05-22T19:44:59: Connected: 9F124324
+2024-05-22T19:46:26: Stop receive requested by user
+2024-05-22T19:46:26: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:46:26: Disconnecting request: 9F124324
+2024-05-22T19:46:26: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:46:26: Disconnecting request: 83A00120
+2024-05-22T19:46:26: Disconnected: 9F124324
+2024-05-22T19:46:26: Stop requested => closing stream and removing device
+2024-05-22T19:46:26: Disconnected: 83A00120
+2024-05-22T19:46:26: Stop requested => closing stream and removing device
+2024-05-22T19:46:26: Stopping service!
+2024-05-22T19:46:26: Foreground Service onDestroy
+2024-05-22T19:46:26: ---------------------------------------------------------------
+2024-05-22T19:48:04: Foreground service onStart
+2024-05-22T19:48:04: Start receive
+2024-05-22T19:48:04: Connecting request: 83A00120
+2024-05-22T19:48:04: Connecting request: 9F124324
+2024-05-22T19:48:04: Connecting: 83A00120
+2024-05-22T19:48:06: Connected: 83A00120
+2024-05-22T19:48:06: Connecting: 9F124324
+2024-05-22T19:48:07: Connected: 9F124324
+2024-05-22T19:49:34: Stop receive requested by user
+2024-05-22T19:49:34: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:49:34: Disconnecting request: 9F124324
+2024-05-22T19:49:34: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:49:34: Disconnecting request: 83A00120
+2024-05-22T19:49:34: Disconnected: 9F124324
+2024-05-22T19:49:34: Stop requested => closing stream and removing device
+2024-05-22T19:49:34: Disconnected: 83A00120
+2024-05-22T19:49:34: Stop requested => closing stream and removing device
+2024-05-22T19:49:34: Stopping service!
+2024-05-22T19:49:34: Foreground Service onDestroy
+2024-05-22T19:49:34: ---------------------------------------------------------------
+2024-05-22T19:49:48: Foreground service onStart
+2024-05-22T19:49:48: Start receive
+2024-05-22T19:49:48: Connecting request: 83A00120
+2024-05-22T19:49:48: Connecting request: 9F124324
+2024-05-22T19:49:48: Connecting: 83A00120
+2024-05-22T19:49:50: Connected: 83A00120
+2024-05-22T19:49:50: Connecting: 9F124324
+2024-05-22T19:49:51: Connected: 9F124324
+2024-05-22T19:51:22: Stop receive requested by user
+2024-05-22T19:51:22: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:51:22: Disconnecting request: 9F124324
+2024-05-22T19:51:22: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:51:22: Disconnecting request: 83A00120
+2024-05-22T19:51:22: Disconnected: 9F124324
+2024-05-22T19:51:22: Stop requested => closing stream and removing device
+2024-05-22T19:51:22: Disconnected: 83A00120
+2024-05-22T19:51:22: Stop requested => closing stream and removing device
+2024-05-22T19:51:22: Stopping service!
+2024-05-22T19:51:22: Foreground Service onDestroy
+2024-05-22T19:51:22: ---------------------------------------------------------------
+2024-05-22T19:51:36: Foreground service onStart
+2024-05-22T19:51:36: Start receive
+2024-05-22T19:51:36: Connecting request: 83A00120
+2024-05-22T19:51:36: Connecting request: 9F124324
+2024-05-22T19:51:36: Connecting: 83A00120
+2024-05-22T19:51:38: Connected: 83A00120
+2024-05-22T19:51:38: Connecting: 9F124324
+2024-05-22T19:51:39: Connected: 9F124324
+2024-05-22T19:53:06: Stop receive requested by user
+2024-05-22T19:53:06: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T19:53:06: Disconnecting request: 9F124324
+2024-05-22T19:53:06: Finalizing stream for: Polar H10 83A00120
+2024-05-22T19:53:06: Disconnecting request: 83A00120
+2024-05-22T19:53:06: Disconnected: 9F124324
+2024-05-22T19:53:06: Stop requested => closing stream and removing device
+2024-05-22T19:53:06: Disconnected: 83A00120
+2024-05-22T19:53:06: Stop requested => closing stream and removing device
+2024-05-22T19:53:06: Stopping service!
+2024-05-22T19:53:06: Foreground Service onDestroy
+2024-05-22T19:53:06: ---------------------------------------------------------------
+2024-05-22T21:41:01: Foreground service onStart
+2024-05-22T21:41:01: Start receive
+2024-05-22T21:41:01: Connecting request: 83A00120
+2024-05-22T21:41:01: Connecting: 83A00120
+2024-05-22T21:41:02: Connected: 83A00120
+2024-05-22T21:41:11: ACC stream failed: 
+2024-05-22T21:41:14: Stop receive requested by user
+2024-05-22T21:41:14: Finalizing stream for: Polar H10 83A00120
+2024-05-22T21:41:14: Disconnecting request: 83A00120
+2024-05-22T21:41:14: Disconnected: 83A00120
+2024-05-22T21:41:14: Stop requested => closing stream and removing device
+2024-05-22T21:41:14: Stopping service!
+2024-05-22T21:41:14: Foreground Service onDestroy
+2024-05-22T21:41:14: ---------------------------------------------------------------
+2024-05-22T21:41:17: Foreground service onStart
+2024-05-22T21:41:17: Start receive
+2024-05-22T21:41:17: Connecting request: 83A00120
+2024-05-22T21:41:17: Connecting: 83A00120
+2024-05-22T21:41:19: Connected: 83A00120
+2024-05-22T21:41:36: Stop receive requested by user
+2024-05-22T21:41:36: Finalizing stream for: Polar H10 83A00120
+2024-05-22T21:41:36: Disconnecting request: 83A00120
+2024-05-22T21:41:36: Disconnected: 83A00120
+2024-05-22T21:41:36: Stop requested => closing stream and removing device
+2024-05-22T21:41:36: Stopping service!
+2024-05-22T21:41:36: Foreground Service onDestroy
+2024-05-22T21:41:36: ---------------------------------------------------------------
+2024-05-22T22:55:16: Foreground service onStart
+2024-05-22T22:55:16: Start receive
+2024-05-22T22:55:16: Connecting request: 9F124324
+2024-05-22T22:55:16: Connecting: 9F124324
+2024-05-22T22:55:17: Connected: 9F124324
+2024-05-22T22:56:03: Stop receive requested by user
+2024-05-22T22:56:03: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T22:56:03: Disconnecting request: 9F124324
+2024-05-22T22:56:03: PPI stream failed: null
+2024-05-22T22:56:03: Disconnected: 9F124324
+2024-05-22T22:56:03: Stop requested => closing stream and removing device
+2024-05-22T22:56:03: Stopping service!
+2024-05-22T22:56:03: Foreground Service onDestroy
+2024-05-22T22:56:03: ---------------------------------------------------------------
+2024-05-22T22:56:23: Foreground service onStart
+2024-05-22T22:56:23: Start receive
+2024-05-22T22:56:23: Connecting request: 9F124324
+2024-05-22T22:56:23: Connecting: 9F124324
+2024-05-22T22:56:24: Connected: 9F124324
+2024-05-22T22:56:45: Stop receive requested by user
+2024-05-22T22:56:45: Finalizing stream for: Polar Sense 9F124324
+2024-05-22T22:56:45: Disconnecting request: 9F124324
+2024-05-22T22:56:45: PPI stream failed: null
+2024-05-22T22:56:45: Disconnected: 9F124324
+2024-05-22T22:56:45: Stop requested => closing stream and removing device
+2024-05-22T22:56:45: Stopping service!
+2024-05-22T22:56:45: Foreground Service onDestroy
+2024-05-22T22:56:45: ---------------------------------------------------------------
+2024-05-23T22:19:26: Foreground service onStart
+2024-05-23T22:19:26: Start receive
+2024-05-23T22:19:26: Connecting request: 83A00120
+2024-05-23T22:19:26: Connecting request: 9F124324
+2024-05-23T22:19:26: Connecting: 83A00120
+2024-05-23T22:19:28: Connected: 83A00120
+2024-05-23T22:19:28: Connecting: 9F124324
+2024-05-23T22:19:29: Connecting: 9F124324
+2024-05-23T22:19:30: Connected: 9F124324
+2024-05-23T22:21:01: Stop receive requested by user
+2024-05-23T22:21:01: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:21:01: Disconnecting request: 9F124324
+2024-05-23T22:21:01: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:21:01: Disconnecting request: 83A00120
+2024-05-23T22:21:01: Disconnected: 9F124324
+2024-05-23T22:21:01: Stop requested => closing stream and removing device
+2024-05-23T22:21:01: Disconnected: 83A00120
+2024-05-23T22:21:01: Stop requested => closing stream and removing device
+2024-05-23T22:21:01: Stopping service!
+2024-05-23T22:21:01: Foreground Service onDestroy
+2024-05-23T22:21:01: ---------------------------------------------------------------
+2024-05-23T22:22:26: Foreground service onStart
+2024-05-23T22:22:26: Start receive
+2024-05-23T22:22:26: Connecting request: 83A00120
+2024-05-23T22:22:26: Connecting request: 9F124324
+2024-05-23T22:22:26: Connecting: 83A00120
+2024-05-23T22:22:28: Connected: 83A00120
+2024-05-23T22:22:28: Connecting: 9F124324
+2024-05-23T22:22:29: Connected: 9F124324
+2024-05-23T22:23:59: Stop receive requested by user
+2024-05-23T22:23:59: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:23:59: Disconnecting request: 9F124324
+2024-05-23T22:23:59: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:23:59: Disconnecting request: 83A00120
+2024-05-23T22:23:59: Disconnected: 9F124324
+2024-05-23T22:23:59: Stop requested => closing stream and removing device
+2024-05-23T22:23:59: Disconnected: 83A00120
+2024-05-23T22:23:59: Stop requested => closing stream and removing device
+2024-05-23T22:23:59: Stopping service!
+2024-05-23T22:23:59: Foreground Service onDestroy
+2024-05-23T22:23:59: ---------------------------------------------------------------
+2024-05-23T22:24:12: Foreground service onStart
+2024-05-23T22:24:12: Start receive
+2024-05-23T22:24:12: Connecting request: 83A00120
+2024-05-23T22:24:12: Connecting request: 9F124324
+2024-05-23T22:24:12: Connecting: 83A00120
+2024-05-23T22:24:13: Connected: 83A00120
+2024-05-23T22:24:14: Connecting: 9F124324
+2024-05-23T22:24:14: Connected: 9F124324
+2024-05-23T22:25:48: Stop receive requested by user
+2024-05-23T22:25:48: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:25:48: Disconnecting request: 9F124324
+2024-05-23T22:25:48: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:25:48: Disconnecting request: 83A00120
+2024-05-23T22:25:48: Disconnected: 9F124324
+2024-05-23T22:25:48: Stop requested => closing stream and removing device
+2024-05-23T22:25:48: Disconnected: 83A00120
+2024-05-23T22:25:48: Stop requested => closing stream and removing device
+2024-05-23T22:25:48: Stopping service!
+2024-05-23T22:25:48: Foreground Service onDestroy
+2024-05-23T22:25:48: ---------------------------------------------------------------
+2024-05-23T22:26:00: Foreground service onStart
+2024-05-23T22:26:00: Start receive
+2024-05-23T22:26:00: Connecting request: 83A00120
+2024-05-23T22:26:00: Connecting request: 9F124324
+2024-05-23T22:26:00: Connecting: 83A00120
+2024-05-23T22:26:02: Connected: 83A00120
+2024-05-23T22:26:02: Connecting: 9F124324
+2024-05-23T22:26:02: Connected: 9F124324
+2024-05-23T22:27:38: Stop receive requested by user
+2024-05-23T22:27:38: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:27:38: Disconnecting request: 9F124324
+2024-05-23T22:27:38: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:27:38: Disconnecting request: 83A00120
+2024-05-23T22:27:38: Disconnected: 9F124324
+2024-05-23T22:27:38: Stop requested => closing stream and removing device
+2024-05-23T22:27:38: Disconnected: 83A00120
+2024-05-23T22:27:38: Stop requested => closing stream and removing device
+2024-05-23T22:27:38: Stopping service!
+2024-05-23T22:27:38: Foreground Service onDestroy
+2024-05-23T22:27:38: ---------------------------------------------------------------
+2024-05-23T22:27:50: Foreground service onStart
+2024-05-23T22:27:50: Start receive
+2024-05-23T22:27:50: Connecting request: 83A00120
+2024-05-23T22:27:50: Connecting request: 9F124324
+2024-05-23T22:27:50: Connecting: 83A00120
+2024-05-23T22:27:51: Connected: 83A00120
+2024-05-23T22:27:51: Connecting: 9F124324
+2024-05-23T22:27:52: Connected: 9F124324
+2024-05-23T22:29:28: Stop receive requested by user
+2024-05-23T22:29:28: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:29:28: Disconnecting request: 9F124324
+2024-05-23T22:29:28: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:29:28: Disconnecting request: 83A00120
+2024-05-23T22:29:28: Disconnected: 9F124324
+2024-05-23T22:29:28: Stop requested => closing stream and removing device
+2024-05-23T22:29:28: Disconnected: 83A00120
+2024-05-23T22:29:28: Stop requested => closing stream and removing device
+2024-05-23T22:29:28: Stopping service!
+2024-05-23T22:29:28: Foreground Service onDestroy
+2024-05-23T22:29:28: ---------------------------------------------------------------
+2024-05-23T22:29:42: Foreground service onStart
+2024-05-23T22:29:42: Start receive
+2024-05-23T22:29:42: Connecting request: 83A00120
+2024-05-23T22:29:42: Connecting request: 9F124324
+2024-05-23T22:29:42: Connecting: 83A00120
+2024-05-23T22:29:43: Connected: 83A00120
+2024-05-23T22:29:43: Connecting: 9F124324
+2024-05-23T22:29:44: Connected: 9F124324
+2024-05-23T22:31:18: Stop receive requested by user
+2024-05-23T22:31:18: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:31:18: Disconnecting request: 9F124324
+2024-05-23T22:31:18: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:31:18: Disconnecting request: 83A00120
+2024-05-23T22:31:18: Disconnected: 9F124324
+2024-05-23T22:31:18: Stop requested => closing stream and removing device
+2024-05-23T22:31:18: Disconnected: 83A00120
+2024-05-23T22:31:18: Stop requested => closing stream and removing device
+2024-05-23T22:31:18: Stopping service!
+2024-05-23T22:31:18: Foreground Service onDestroy
+2024-05-23T22:31:18: ---------------------------------------------------------------
+2024-05-23T22:32:40: Foreground service onStart
+2024-05-23T22:32:40: Start receive
+2024-05-23T22:32:40: Connecting request: 83A00120
+2024-05-23T22:32:40: Connecting request: 9F124324
+2024-05-23T22:32:40: Connecting: 83A00120
+2024-05-23T22:32:41: Connected: 83A00120
+2024-05-23T22:32:42: Connecting: 9F124324
+2024-05-23T22:32:43: Connected: 9F124324
+2024-05-23T22:34:14: Stop receive requested by user
+2024-05-23T22:34:14: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:34:14: Disconnecting request: 9F124324
+2024-05-23T22:34:14: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:34:14: Disconnecting request: 83A00120
+2024-05-23T22:34:14: Disconnected: 9F124324
+2024-05-23T22:34:14: Stop requested => closing stream and removing device
+2024-05-23T22:34:14: Disconnected: 83A00120
+2024-05-23T22:34:14: Stop requested => closing stream and removing device
+2024-05-23T22:34:14: Stopping service!
+2024-05-23T22:34:14: Foreground Service onDestroy
+2024-05-23T22:34:14: ---------------------------------------------------------------
+2024-05-23T22:34:26: Foreground service onStart
+2024-05-23T22:34:26: Start receive
+2024-05-23T22:34:26: Connecting request: 83A00120
+2024-05-23T22:34:26: Connecting request: 9F124324
+2024-05-23T22:34:26: Connecting: 83A00120
+2024-05-23T22:34:27: Connected: 83A00120
+2024-05-23T22:34:27: Connecting: 9F124324
+2024-05-23T22:34:28: Connected: 9F124324
+2024-05-23T22:35:57: Stop receive requested by user
+2024-05-23T22:35:57: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:35:57: Disconnecting request: 9F124324
+2024-05-23T22:35:57: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:35:57: Disconnecting request: 83A00120
+2024-05-23T22:35:57: Disconnected: 9F124324
+2024-05-23T22:35:57: Stop requested => closing stream and removing device
+2024-05-23T22:35:57: Disconnected: 83A00120
+2024-05-23T22:35:57: Stop requested => closing stream and removing device
+2024-05-23T22:35:57: Stopping service!
+2024-05-23T22:35:57: Foreground Service onDestroy
+2024-05-23T22:35:58: ---------------------------------------------------------------
+2024-05-23T22:36:13: Foreground service onStart
+2024-05-23T22:36:13: Start receive
+2024-05-23T22:36:13: Connecting request: 83A00120
+2024-05-23T22:36:13: Connecting request: 9F124324
+2024-05-23T22:36:13: Connecting: 83A00120
+2024-05-23T22:36:15: Connected: 83A00120
+2024-05-23T22:36:15: Connecting: 9F124324
+2024-05-23T22:36:16: Connected: 9F124324
+2024-05-23T22:37:48: Stop receive requested by user
+2024-05-23T22:37:48: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:37:48: Disconnecting request: 9F124324
+2024-05-23T22:37:48: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:37:48: Disconnecting request: 83A00120
+2024-05-23T22:37:48: Disconnected: 9F124324
+2024-05-23T22:37:48: Stop requested => closing stream and removing device
+2024-05-23T22:37:48: Disconnected: 83A00120
+2024-05-23T22:37:48: Stop requested => closing stream and removing device
+2024-05-23T22:37:48: Stopping service!
+2024-05-23T22:37:48: Foreground Service onDestroy
+2024-05-23T22:37:48: ---------------------------------------------------------------
+2024-05-23T22:40:12: Foreground service onStart
+2024-05-23T22:40:12: Start receive
+2024-05-23T22:40:12: Connecting request: 83A00120
+2024-05-23T22:40:12: Connecting request: 9F124324
+2024-05-23T22:40:12: Connecting: 83A00120
+2024-05-23T22:40:14: Connected: 83A00120
+2024-05-23T22:40:14: Connecting: 9F124324
+2024-05-23T22:40:15: Connected: 9F124324
+2024-05-23T22:40:44: activityPaused
+2024-05-23T22:40:47: Disconnected: 9F124324
+2024-05-23T22:40:47: No stop receive requested => trying to reconnect: Polar Sense 9F124324, reconn cnt: 1
+2024-05-23T22:40:47: Disconnected: 83A00120
+2024-05-23T22:40:47: No stop receive requested => trying to reconnect: Polar H10 83A00120, reconn cnt: 1
+2024-05-23T22:41:16: activityResumed
+2024-05-23T22:41:18: Stop receive requested by user
+2024-05-23T22:41:18: Finalizing stream for: Polar Sense 9F124324
+2024-05-23T22:41:18: Disconnecting request: 9F124324
+2024-05-23T22:41:18: Adding device to remove-list: 9F124324
+2024-05-23T22:41:18: Finalizing stream for: Polar H10 83A00120
+2024-05-23T22:41:18: Disconnecting request: 83A00120
+2024-05-23T22:41:18: Adding device to remove-list: 83A00120
+2024-05-23T22:41:18: Removing device: 9F124324 from the deviceInfoMap
+2024-05-23T22:41:18: Removing device: 83A00120 from the deviceInfoMap
+2024-05-23T22:41:18: Stopping service!
+2024-05-23T22:41:18: Foreground Service onDestroy
+2024-05-23T22:41:18: ---------------------------------------------------------------
+2024-05-24T22:51:26: Foreground service onStart
+2024-05-24T22:51:26: Start receive
+2024-05-24T22:51:26: Connecting request: 83A00120
+2024-05-24T22:51:26: Connecting request: 9F124324
+2024-05-24T22:51:26: Connecting: 83A00120
+2024-05-24T22:51:30: Connected: 83A00120
+2024-05-24T22:51:30: Connecting: 9F124324
+2024-05-24T22:51:31: Connected: 9F124324
+2024-05-24T22:51:42: activityPaused
+2024-05-24T22:52:23: activityResumed
+2024-05-24T22:53:30: Stop receive requested by user
+2024-05-24T22:53:30: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T22:53:30: Disconnecting request: 9F124324
+2024-05-24T22:53:30: Finalizing stream for: Polar H10 83A00120
+2024-05-24T22:53:30: Disconnecting request: 83A00120
+2024-05-24T22:53:30: Disconnected: 83A00120
+2024-05-24T22:53:30: Stop requested => closing stream and removing device
+2024-05-24T22:53:30: Disconnected: 9F124324
+2024-05-24T22:53:30: Stop requested => closing stream and removing device
+2024-05-24T22:53:30: Stopping service!
+2024-05-24T22:53:30: Foreground Service onDestroy
+2024-05-24T22:53:30: ---------------------------------------------------------------
+2024-05-24T22:55:04: Foreground service onStart
+2024-05-24T22:55:04: Start receive
+2024-05-24T22:55:04: Connecting request: 83A00120
+2024-05-24T22:55:04: Connecting request: 9F124324
+2024-05-24T22:55:04: Connecting: 83A00120
+2024-05-24T22:55:06: Connected: 83A00120
+2024-05-24T22:55:06: Connecting: 9F124324
+2024-05-24T22:55:07: Connected: 9F124324
+2024-05-24T22:56:41: Stop receive requested by user
+2024-05-24T22:56:41: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T22:56:41: Disconnecting request: 9F124324
+2024-05-24T22:56:41: Finalizing stream for: Polar H10 83A00120
+2024-05-24T22:56:41: Disconnecting request: 83A00120
+2024-05-24T22:56:41: Disconnected: 83A00120
+2024-05-24T22:56:41: Stop requested => closing stream and removing device
+2024-05-24T22:56:41: Disconnected: 9F124324
+2024-05-24T22:56:41: Stop requested => closing stream and removing device
+2024-05-24T22:56:41: Stopping service!
+2024-05-24T22:56:41: Foreground Service onDestroy
+2024-05-24T22:56:41: ---------------------------------------------------------------
+2024-05-24T22:56:56: Foreground service onStart
+2024-05-24T22:56:56: Start receive
+2024-05-24T22:56:56: Connecting request: 83A00120
+2024-05-24T22:56:56: Connecting request: 9F124324
+2024-05-24T22:56:56: Connecting: 83A00120
+2024-05-24T22:56:57: Connected: 83A00120
+2024-05-24T22:56:58: Connecting: 9F124324
+2024-05-24T22:56:59: Connected: 9F124324
+2024-05-24T22:58:28: Stop receive requested by user
+2024-05-24T22:58:28: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T22:58:28: Disconnecting request: 9F124324
+2024-05-24T22:58:28: Finalizing stream for: Polar H10 83A00120
+2024-05-24T22:58:28: Disconnecting request: 83A00120
+2024-05-24T22:58:28: Disconnected: 9F124324
+2024-05-24T22:58:28: Stop requested => closing stream and removing device
+2024-05-24T22:58:28: Disconnected: 83A00120
+2024-05-24T22:58:28: Stop requested => closing stream and removing device
+2024-05-24T22:58:28: Stopping service!
+2024-05-24T22:58:28: Foreground Service onDestroy
+2024-05-24T22:58:28: ---------------------------------------------------------------
+2024-05-24T22:58:40: Foreground service onStart
+2024-05-24T22:58:40: Start receive
+2024-05-24T22:58:40: Connecting request: 83A00120
+2024-05-24T22:58:40: Connecting request: 9F124324
+2024-05-24T22:58:40: Connecting: 83A00120
+2024-05-24T22:58:42: Connected: 83A00120
+2024-05-24T22:58:42: Connecting: 9F124324
+2024-05-24T22:58:43: Connected: 9F124324
+2024-05-24T23:00:19: Stop receive requested by user
+2024-05-24T23:00:19: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:00:19: Disconnecting request: 9F124324
+2024-05-24T23:00:19: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:00:19: Disconnecting request: 83A00120
+2024-05-24T23:00:19: Disconnected: 9F124324
+2024-05-24T23:00:19: Stop requested => closing stream and removing device
+2024-05-24T23:00:19: Disconnected: 83A00120
+2024-05-24T23:00:19: Stop requested => closing stream and removing device
+2024-05-24T23:00:19: Stopping service!
+2024-05-24T23:00:19: Foreground Service onDestroy
+2024-05-24T23:00:19: ---------------------------------------------------------------
+2024-05-24T23:00:29: Foreground service onStart
+2024-05-24T23:00:29: Start receive
+2024-05-24T23:00:29: Connecting request: 83A00120
+2024-05-24T23:00:29: Connecting request: 9F124324
+2024-05-24T23:00:29: Connecting: 83A00120
+2024-05-24T23:00:30: Connected: 83A00120
+2024-05-24T23:00:30: Connecting: 9F124324
+2024-05-24T23:00:32: Connected: 9F124324
+2024-05-24T23:01:58: Stop receive requested by user
+2024-05-24T23:01:58: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:01:58: Disconnecting request: 9F124324
+2024-05-24T23:01:58: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:01:58: Disconnecting request: 83A00120
+2024-05-24T23:01:58: Disconnected: 9F124324
+2024-05-24T23:01:58: Stop requested => closing stream and removing device
+2024-05-24T23:01:58: Disconnected: 83A00120
+2024-05-24T23:01:58: Stop requested => closing stream and removing device
+2024-05-24T23:01:58: Stopping service!
+2024-05-24T23:01:58: Foreground Service onDestroy
+2024-05-24T23:01:58: ---------------------------------------------------------------
+2024-05-24T23:02:13: Foreground service onStart
+2024-05-24T23:02:13: Start receive
+2024-05-24T23:02:13: Connecting request: 83A00120
+2024-05-24T23:02:13: Connecting request: 9F124324
+2024-05-24T23:02:13: Connecting: 83A00120
+2024-05-24T23:02:14: Connected: 83A00120
+2024-05-24T23:02:14: Connecting: 9F124324
+2024-05-24T23:02:15: Connected: 9F124324
+2024-05-24T23:03:44: Stop receive requested by user
+2024-05-24T23:03:44: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:03:44: Disconnecting request: 9F124324
+2024-05-24T23:03:44: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:03:44: Disconnecting request: 83A00120
+2024-05-24T23:03:44: Disconnected: 9F124324
+2024-05-24T23:03:44: Stop requested => closing stream and removing device
+2024-05-24T23:03:44: Disconnected: 83A00120
+2024-05-24T23:03:44: Stop requested => closing stream and removing device
+2024-05-24T23:03:44: Stopping service!
+2024-05-24T23:03:44: Foreground Service onDestroy
+2024-05-24T23:03:44: ---------------------------------------------------------------
+2024-05-24T23:05:34: Foreground service onStart
+2024-05-24T23:05:34: Start receive
+2024-05-24T23:05:34: Connecting request: 83A00120
+2024-05-24T23:05:34: Connecting request: 9F124324
+2024-05-24T23:05:34: Connecting: 83A00120
+2024-05-24T23:05:36: Connected: 83A00120
+2024-05-24T23:05:37: Connecting: 9F124324
+2024-05-24T23:05:37: activityPaused
+2024-05-24T23:05:37: Connected: 9F124324
+2024-05-24T23:06:54: activityResumed
+2024-05-24T23:07:33: Stop receive requested by user
+2024-05-24T23:07:33: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:07:33: Disconnecting request: 9F124324
+2024-05-24T23:07:33: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:07:33: Disconnecting request: 83A00120
+2024-05-24T23:07:33: Disconnected: 9F124324
+2024-05-24T23:07:33: Stop requested => closing stream and removing device
+2024-05-24T23:07:33: Disconnected: 83A00120
+2024-05-24T23:07:33: Stop requested => closing stream and removing device
+2024-05-24T23:07:33: Stopping service!
+2024-05-24T23:07:33: Foreground Service onDestroy
+2024-05-24T23:07:33: ---------------------------------------------------------------
+2024-05-24T23:08:03: Foreground service onStart
+2024-05-24T23:08:03: Start receive
+2024-05-24T23:08:03: Connecting request: 83A00120
+2024-05-24T23:08:03: Connecting request: 9F124324
+2024-05-24T23:08:03: Connecting: 83A00120
+2024-05-24T23:08:04: Connected: 83A00120
+2024-05-24T23:08:04: Connecting: 9F124324
+2024-05-24T23:08:06: Connected: 9F124324
+2024-05-24T23:09:58: Stop receive requested by user
+2024-05-24T23:09:58: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:09:58: Disconnecting request: 9F124324
+2024-05-24T23:09:58: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:09:58: Disconnecting request: 83A00120
+2024-05-24T23:09:58: Disconnected: 9F124324
+2024-05-24T23:09:58: Stop requested => closing stream and removing device
+2024-05-24T23:09:58: Disconnected: 83A00120
+2024-05-24T23:09:58: Stop requested => closing stream and removing device
+2024-05-24T23:09:58: Stopping service!
+2024-05-24T23:09:58: Foreground Service onDestroy
+2024-05-24T23:09:58: ---------------------------------------------------------------
+2024-05-24T23:10:38: Foreground service onStart
+2024-05-24T23:10:38: Start receive
+2024-05-24T23:10:38: Connecting request: 83A00120
+2024-05-24T23:10:38: Connecting request: 9F124324
+2024-05-24T23:10:38: Connecting: 83A00120
+2024-05-24T23:10:41: Connected: 83A00120
+2024-05-24T23:10:41: Connecting: 9F124324
+2024-05-24T23:10:42: Connected: 9F124324
+2024-05-24T23:12:35: Stop receive requested by user
+2024-05-24T23:12:35: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:12:35: Disconnecting request: 9F124324
+2024-05-24T23:12:35: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:12:35: Disconnecting request: 83A00120
+2024-05-24T23:12:35: Disconnected: 9F124324
+2024-05-24T23:12:35: Stop requested => closing stream and removing device
+2024-05-24T23:12:35: Disconnected: 83A00120
+2024-05-24T23:12:35: Stop requested => closing stream and removing device
+2024-05-24T23:12:35: Stopping service!
+2024-05-24T23:12:35: Foreground Service onDestroy
+2024-05-24T23:12:35: ---------------------------------------------------------------
+2024-05-24T23:16:25: Foreground service onStart
+2024-05-24T23:16:25: Start receive
+2024-05-24T23:16:25: Connecting request: 83A00120
+2024-05-24T23:16:25: Connecting request: 9F124324
+2024-05-24T23:16:25: Connecting: 83A00120
+2024-05-24T23:16:27: Connected: 83A00120
+2024-05-24T23:16:27: Connecting: 9F124324
+2024-05-24T23:16:28: Connected: 9F124324
+2024-05-24T23:18:27: Stop receive requested by user
+2024-05-24T23:18:27: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:18:27: Disconnecting request: 9F124324
+2024-05-24T23:18:27: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:18:27: Disconnecting request: 83A00120
+2024-05-24T23:18:27: Disconnected: 9F124324
+2024-05-24T23:18:27: Stop requested => closing stream and removing device
+2024-05-24T23:18:27: Disconnected: 83A00120
+2024-05-24T23:18:27: Stop requested => closing stream and removing device
+2024-05-24T23:18:27: Stopping service!
+2024-05-24T23:18:27: Foreground Service onDestroy
+2024-05-24T23:18:27: ---------------------------------------------------------------
+2024-05-24T23:19:08: Foreground service onStart
+2024-05-24T23:19:08: Start receive
+2024-05-24T23:19:08: Connecting request: 83A00120
+2024-05-24T23:19:08: Connecting request: 9F124324
+2024-05-24T23:19:08: Connecting: 83A00120
+2024-05-24T23:19:10: Connected: 83A00120
+2024-05-24T23:19:10: Connecting: 9F124324
+2024-05-24T23:19:11: Connected: 9F124324
+2024-05-24T23:20:51: Stop receive requested by user
+2024-05-24T23:20:51: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:20:51: Disconnecting request: 9F124324
+2024-05-24T23:20:51: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:20:51: Disconnecting request: 83A00120
+2024-05-24T23:20:51: Disconnected: 9F124324
+2024-05-24T23:20:51: Stop requested => closing stream and removing device
+2024-05-24T23:20:51: Disconnected: 83A00120
+2024-05-24T23:20:51: Stop requested => closing stream and removing device
+2024-05-24T23:20:51: Stopping service!
+2024-05-24T23:20:51: Foreground Service onDestroy
+2024-05-24T23:20:51: ---------------------------------------------------------------
+2024-05-24T23:21:05: Foreground service onStart
+2024-05-24T23:21:05: Start receive
+2024-05-24T23:21:05: Connecting request: 83A00120
+2024-05-24T23:21:05: Connecting request: 9F124324
+2024-05-24T23:21:05: Connecting: 83A00120
+2024-05-24T23:21:06: Connected: 83A00120
+2024-05-24T23:21:06: Connecting: 9F124324
+2024-05-24T23:21:07: Connected: 9F124324
+2024-05-24T23:22:40: Stop receive requested by user
+2024-05-24T23:22:40: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:22:40: Disconnecting request: 9F124324
+2024-05-24T23:22:40: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:22:40: Disconnecting request: 83A00120
+2024-05-24T23:22:40: Disconnected: 9F124324
+2024-05-24T23:22:40: Stop requested => closing stream and removing device
+2024-05-24T23:22:40: Disconnected: 83A00120
+2024-05-24T23:22:40: Stop requested => closing stream and removing device
+2024-05-24T23:22:40: Stopping service!
+2024-05-24T23:22:40: Foreground Service onDestroy
+2024-05-24T23:22:40: ---------------------------------------------------------------
+2024-05-24T23:22:54: Foreground service onStart
+2024-05-24T23:22:54: Start receive
+2024-05-24T23:22:54: Connecting request: 83A00120
+2024-05-24T23:22:54: Connecting request: 9F124324
+2024-05-24T23:22:54: Connecting: 83A00120
+2024-05-24T23:22:55: Connected: 83A00120
+2024-05-24T23:22:55: Connecting: 9F124324
+2024-05-24T23:22:56: Connected: 9F124324
+2024-05-24T23:24:23: Stop receive requested by user
+2024-05-24T23:24:23: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:24:23: Disconnecting request: 9F124324
+2024-05-24T23:24:23: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:24:23: Disconnecting request: 83A00120
+2024-05-24T23:24:23: Disconnected: 9F124324
+2024-05-24T23:24:23: Stop requested => closing stream and removing device
+2024-05-24T23:24:23: Disconnected: 83A00120
+2024-05-24T23:24:23: Stop requested => closing stream and removing device
+2024-05-24T23:24:23: Stopping service!
+2024-05-24T23:24:23: Foreground Service onDestroy
+2024-05-24T23:24:23: ---------------------------------------------------------------
+2024-05-24T23:25:28: Foreground service onStart
+2024-05-24T23:25:28: Start receive
+2024-05-24T23:25:28: Connecting request: 83A00120
+2024-05-24T23:25:28: Connecting request: 9F124324
+2024-05-24T23:25:28: Connecting: 83A00120
+2024-05-24T23:25:31: Connected: 83A00120
+2024-05-24T23:25:31: Connecting: 9F124324
+2024-05-24T23:25:32: Connected: 9F124324
+2024-05-24T23:27:02: Stop receive requested by user
+2024-05-24T23:27:02: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:27:02: Disconnecting request: 9F124324
+2024-05-24T23:27:02: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:27:02: Disconnecting request: 83A00120
+2024-05-24T23:27:02: Disconnected: 9F124324
+2024-05-24T23:27:02: Stop requested => closing stream and removing device
+2024-05-24T23:27:02: Disconnected: 83A00120
+2024-05-24T23:27:02: Stop requested => closing stream and removing device
+2024-05-24T23:27:02: Stopping service!
+2024-05-24T23:27:02: Foreground Service onDestroy
+2024-05-24T23:27:02: ---------------------------------------------------------------
+2024-05-24T23:27:16: Foreground service onStart
+2024-05-24T23:27:16: Start receive
+2024-05-24T23:27:16: Connecting request: 83A00120
+2024-05-24T23:27:16: Connecting request: 9F124324
+2024-05-24T23:27:16: Connecting: 83A00120
+2024-05-24T23:27:17: Connected: 83A00120
+2024-05-24T23:27:18: Connecting: 9F124324
+2024-05-24T23:27:19: Connected: 9F124324
+2024-05-24T23:28:46: Stop receive requested by user
+2024-05-24T23:28:46: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:28:46: Disconnecting request: 9F124324
+2024-05-24T23:28:46: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:28:46: Disconnecting request: 83A00120
+2024-05-24T23:28:46: Disconnected: 9F124324
+2024-05-24T23:28:46: Stop requested => closing stream and removing device
+2024-05-24T23:28:46: Disconnected: 83A00120
+2024-05-24T23:28:46: Stop requested => closing stream and removing device
+2024-05-24T23:28:46: Stopping service!
+2024-05-24T23:28:46: Foreground Service onDestroy
+2024-05-24T23:28:46: ---------------------------------------------------------------
+2024-05-24T23:29:53: Foreground service onStart
+2024-05-24T23:29:53: Start receive
+2024-05-24T23:29:53: Connecting request: 83A00120
+2024-05-24T23:29:53: Connecting request: 9F124324
+2024-05-24T23:29:53: Connecting: 83A00120
+2024-05-24T23:29:55: Connected: 83A00120
+2024-05-24T23:29:55: Connecting: 9F124324
+2024-05-24T23:29:56: Connected: 9F124324
+2024-05-24T23:31:29: Stop receive requested by user
+2024-05-24T23:31:29: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:31:29: Disconnecting request: 9F124324
+2024-05-24T23:31:29: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:31:29: Disconnecting request: 83A00120
+2024-05-24T23:31:29: Disconnected: 9F124324
+2024-05-24T23:31:29: Stop requested => closing stream and removing device
+2024-05-24T23:31:29: Disconnected: 83A00120
+2024-05-24T23:31:29: Stop requested => closing stream and removing device
+2024-05-24T23:31:29: Stopping service!
+2024-05-24T23:31:29: Foreground Service onDestroy
+2024-05-24T23:31:29: ---------------------------------------------------------------
+2024-05-24T23:31:41: Foreground service onStart
+2024-05-24T23:31:41: Start receive
+2024-05-24T23:31:41: Connecting request: 83A00120
+2024-05-24T23:31:41: Connecting request: 9F124324
+2024-05-24T23:31:41: Connecting: 83A00120
+2024-05-24T23:31:43: Connected: 83A00120
+2024-05-24T23:31:43: Connecting: 9F124324
+2024-05-24T23:31:44: Connected: 9F124324
+2024-05-24T23:33:18: Stop receive requested by user
+2024-05-24T23:33:18: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:33:18: Disconnecting request: 9F124324
+2024-05-24T23:33:18: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:33:18: Disconnecting request: 83A00120
+2024-05-24T23:33:18: Disconnected: 9F124324
+2024-05-24T23:33:18: Stop requested => closing stream and removing device
+2024-05-24T23:33:18: Disconnected: 83A00120
+2024-05-24T23:33:18: Stop requested => closing stream and removing device
+2024-05-24T23:33:18: Stopping service!
+2024-05-24T23:33:18: Foreground Service onDestroy
+2024-05-24T23:33:18: ---------------------------------------------------------------
+2024-05-24T23:33:29: Foreground service onStart
+2024-05-24T23:33:29: Start receive
+2024-05-24T23:33:29: Connecting request: 83A00120
+2024-05-24T23:33:29: Connecting request: 9F124324
+2024-05-24T23:33:29: Connecting: 83A00120
+2024-05-24T23:33:31: Connected: 83A00120
+2024-05-24T23:33:31: Connecting: 9F124324
+2024-05-24T23:33:32: Connected: 9F124324
+2024-05-24T23:35:00: Stop receive requested by user
+2024-05-24T23:35:00: Finalizing stream for: Polar Sense 9F124324
+2024-05-24T23:35:00: Disconnecting request: 9F124324
+2024-05-24T23:35:00: Finalizing stream for: Polar H10 83A00120
+2024-05-24T23:35:00: Disconnecting request: 83A00120
+2024-05-24T23:35:00: Disconnected: 9F124324
+2024-05-24T23:35:00: Stop requested => closing stream and removing device
+2024-05-24T23:35:00: Disconnected: 83A00120
+2024-05-24T23:35:00: Stop requested => closing stream and removing device
+2024-05-24T23:35:00: Stopping service!
+2024-05-24T23:35:00: Foreground Service onDestroy
+2024-05-24T23:35:00: ---------------------------------------------------------------
+2024-05-25T22:55:11: Foreground service onStart
+2024-05-25T22:55:11: Start receive
+2024-05-25T22:55:11: Connecting request: 83A00120
+2024-05-25T22:55:11: Connecting request: 9F124324
+2024-05-25T22:55:11: Connecting: 83A00120
+2024-05-25T22:55:15: Connected: 83A00120
+2024-05-25T22:55:15: Connecting: 9F124324
+2024-05-25T22:55:16: Connected: 9F124324
+2024-05-25T22:56:56: Stop receive requested by user
+2024-05-25T22:56:56: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T22:56:56: Disconnecting request: 9F124324
+2024-05-25T22:56:56: Finalizing stream for: Polar H10 83A00120
+2024-05-25T22:56:56: Disconnecting request: 83A00120
+2024-05-25T22:56:56: Disconnected: 9F124324
+2024-05-25T22:56:56: Stop requested => closing stream and removing device
+2024-05-25T22:56:56: Disconnected: 83A00120
+2024-05-25T22:56:56: Stop requested => closing stream and removing device
+2024-05-25T22:56:56: Stopping service!
+2024-05-25T22:56:56: Foreground Service onDestroy
+2024-05-25T22:56:56: ---------------------------------------------------------------
+2024-05-25T22:58:10: Foreground service onStart
+2024-05-25T22:58:10: Start receive
+2024-05-25T22:58:10: Connecting request: 83A00120
+2024-05-25T22:58:10: Connecting request: 9F124324
+2024-05-25T22:58:10: Connecting: 83A00120
+2024-05-25T22:58:12: Connected: 83A00120
+2024-05-25T22:58:12: Connecting: 9F124324
+2024-05-25T22:58:13: Connected: 9F124324
+2024-05-25T22:59:38: Stop receive requested by user
+2024-05-25T22:59:38: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T22:59:38: Disconnecting request: 9F124324
+2024-05-25T22:59:38: Finalizing stream for: Polar H10 83A00120
+2024-05-25T22:59:38: Disconnecting request: 83A00120
+2024-05-25T22:59:38: Disconnected: 9F124324
+2024-05-25T22:59:38: Stop requested => closing stream and removing device
+2024-05-25T22:59:38: Disconnected: 83A00120
+2024-05-25T22:59:38: Stop requested => closing stream and removing device
+2024-05-25T22:59:38: Stopping service!
+2024-05-25T22:59:38: Foreground Service onDestroy
+2024-05-25T22:59:38: ---------------------------------------------------------------
+2024-05-25T22:59:51: Foreground service onStart
+2024-05-25T22:59:51: Start receive
+2024-05-25T22:59:51: Connecting request: 83A00120
+2024-05-25T22:59:51: Connecting request: 9F124324
+2024-05-25T22:59:51: Connecting: 83A00120
+2024-05-25T22:59:53: Connected: 83A00120
+2024-05-25T22:59:53: Connecting: 9F124324
+2024-05-25T22:59:54: Connected: 9F124324
+2024-05-25T23:01:25: Stop receive requested by user
+2024-05-25T23:01:25: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T23:01:25: Disconnecting request: 9F124324
+2024-05-25T23:01:25: Finalizing stream for: Polar H10 83A00120
+2024-05-25T23:01:25: Disconnecting request: 83A00120
+2024-05-25T23:01:25: Disconnected: 9F124324
+2024-05-25T23:01:25: Stop requested => closing stream and removing device
+2024-05-25T23:01:25: Disconnected: 83A00120
+2024-05-25T23:01:25: Stop requested => closing stream and removing device
+2024-05-25T23:01:25: Stopping service!
+2024-05-25T23:01:25: Foreground Service onDestroy
+2024-05-25T23:01:25: ---------------------------------------------------------------
+2024-05-25T23:01:37: Foreground service onStart
+2024-05-25T23:01:37: Start receive
+2024-05-25T23:01:37: Connecting request: 83A00120
+2024-05-25T23:01:37: Connecting request: 9F124324
+2024-05-25T23:01:37: Connecting: 83A00120
+2024-05-25T23:01:39: Connected: 83A00120
+2024-05-25T23:01:39: Connecting: 9F124324
+2024-05-25T23:01:39: Connected: 9F124324
+2024-05-25T23:03:05: Stop receive requested by user
+2024-05-25T23:03:05: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T23:03:05: Disconnecting request: 9F124324
+2024-05-25T23:03:05: Finalizing stream for: Polar H10 83A00120
+2024-05-25T23:03:05: Disconnecting request: 83A00120
+2024-05-25T23:03:05: Disconnected: 9F124324
+2024-05-25T23:03:05: Stop requested => closing stream and removing device
+2024-05-25T23:03:05: Disconnected: 83A00120
+2024-05-25T23:03:05: Stop requested => closing stream and removing device
+2024-05-25T23:03:05: Stopping service!
+2024-05-25T23:03:05: Foreground Service onDestroy
+2024-05-25T23:03:05: ---------------------------------------------------------------
+2024-05-25T23:06:39: Foreground service onStart
+2024-05-25T23:06:39: Start receive
+2024-05-25T23:06:39: Connecting request: 83A00120
+2024-05-25T23:06:39: Connecting request: 9F124324
+2024-05-25T23:06:39: Connecting: 83A00120
+2024-05-25T23:06:41: Connected: 83A00120
+2024-05-25T23:06:41: Connecting: 9F124324
+2024-05-25T23:06:42: Connected: 9F124324
+2024-05-25T23:08:11: Stop receive requested by user
+2024-05-25T23:08:11: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T23:08:11: Disconnecting request: 9F124324
+2024-05-25T23:08:11: Finalizing stream for: Polar H10 83A00120
+2024-05-25T23:08:11: Disconnecting request: 83A00120
+2024-05-25T23:08:11: Disconnected: 9F124324
+2024-05-25T23:08:11: Stop requested => closing stream and removing device
+2024-05-25T23:08:11: Disconnected: 83A00120
+2024-05-25T23:08:11: Stop requested => closing stream and removing device
+2024-05-25T23:08:11: Stopping service!
+2024-05-25T23:08:11: Foreground Service onDestroy
+2024-05-25T23:08:11: ---------------------------------------------------------------
+2024-05-25T23:08:49: Foreground service onStart
+2024-05-25T23:08:49: Start receive
+2024-05-25T23:08:49: Connecting request: 83A00120
+2024-05-25T23:08:49: Connecting request: 9F124324
+2024-05-25T23:08:49: Connecting: 83A00120
+2024-05-25T23:08:51: Connected: 83A00120
+2024-05-25T23:08:51: Connecting: 9F124324
+2024-05-25T23:08:52: Connected: 9F124324
+2024-05-25T23:10:55: Stop receive requested by user
+2024-05-25T23:10:55: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T23:10:55: Disconnecting request: 9F124324
+2024-05-25T23:10:55: Finalizing stream for: Polar H10 83A00120
+2024-05-25T23:10:55: Disconnecting request: 83A00120
+2024-05-25T23:10:55: Disconnected: 9F124324
+2024-05-25T23:10:55: Stop requested => closing stream and removing device
+2024-05-25T23:10:55: Disconnected: 83A00120
+2024-05-25T23:10:55: Stop requested => closing stream and removing device
+2024-05-25T23:10:55: Stopping service!
+2024-05-25T23:10:55: Foreground Service onDestroy
+2024-05-25T23:10:55: ---------------------------------------------------------------
+2024-05-25T23:11:09: Foreground service onStart
+2024-05-25T23:11:09: Start receive
+2024-05-25T23:11:09: Connecting request: 83A00120
+2024-05-25T23:11:09: Connecting request: 9F124324
+2024-05-25T23:11:09: Connecting: 83A00120
+2024-05-25T23:11:11: Connected: 83A00120
+2024-05-25T23:11:11: Connecting: 9F124324
+2024-05-25T23:11:12: Connected: 9F124324
+2024-05-25T23:12:42: Stop receive requested by user
+2024-05-25T23:12:42: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T23:12:42: Disconnecting request: 9F124324
+2024-05-25T23:12:42: Finalizing stream for: Polar H10 83A00120
+2024-05-25T23:12:42: Disconnecting request: 83A00120
+2024-05-25T23:12:42: Disconnected: 9F124324
+2024-05-25T23:12:42: Stop requested => closing stream and removing device
+2024-05-25T23:12:42: Disconnected: 83A00120
+2024-05-25T23:12:42: Stop requested => closing stream and removing device
+2024-05-25T23:12:42: Stopping service!
+2024-05-25T23:12:42: Foreground Service onDestroy
+2024-05-25T23:12:42: ---------------------------------------------------------------
+2024-05-25T23:12:54: Foreground service onStart
+2024-05-25T23:12:54: Start receive
+2024-05-25T23:12:54: Connecting request: 83A00120
+2024-05-25T23:12:54: Connecting request: 9F124324
+2024-05-25T23:12:54: Connecting: 83A00120
+2024-05-25T23:12:55: Connected: 83A00120
+2024-05-25T23:12:55: Connecting: 9F124324
+2024-05-25T23:12:56: Connected: 9F124324
+2024-05-25T23:14:28: Stop receive requested by user
+2024-05-25T23:14:28: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T23:14:28: Disconnecting request: 9F124324
+2024-05-25T23:14:28: Finalizing stream for: Polar H10 83A00120
+2024-05-25T23:14:28: Disconnecting request: 83A00120
+2024-05-25T23:14:28: Disconnected: 9F124324
+2024-05-25T23:14:28: Stop requested => closing stream and removing device
+2024-05-25T23:14:28: Disconnected: 83A00120
+2024-05-25T23:14:28: Stop requested => closing stream and removing device
+2024-05-25T23:14:28: Stopping service!
+2024-05-25T23:14:28: Foreground Service onDestroy
+2024-05-25T23:14:28: ---------------------------------------------------------------
+2024-05-25T23:14:59: Foreground service onStart
+2024-05-25T23:14:59: Start receive
+2024-05-25T23:14:59: Connecting request: 83A00120
+2024-05-25T23:14:59: Connecting request: 9F124324
+2024-05-25T23:14:59: Connecting: 83A00120
+2024-05-25T23:15:01: Connected: 83A00120
+2024-05-25T23:15:01: Connecting: 9F124324
+2024-05-25T23:15:02: Connected: 9F124324
+2024-05-25T23:16:40: Stop receive requested by user
+2024-05-25T23:16:40: Finalizing stream for: Polar Sense 9F124324
+2024-05-25T23:16:40: Disconnecting request: 9F124324
+2024-05-25T23:16:40: Finalizing stream for: Polar H10 83A00120
+2024-05-25T23:16:40: Disconnecting request: 83A00120
+2024-05-25T23:16:40: Disconnected: 9F124324
+2024-05-25T23:16:40: Stop requested => closing stream and removing device
+2024-05-25T23:16:40: Disconnected: 83A00120
+2024-05-25T23:16:40: Stop requested => closing stream and removing device
+2024-05-25T23:16:40: Stopping service!
+2024-05-25T23:16:40: Foreground Service onDestroy
+2024-05-25T23:16:40: ---------------------------------------------------------------
+2024-05-26T22:07:31: Foreground service onStart
+2024-05-26T22:07:31: Start receive
+2024-05-26T22:07:31: Connecting request: 83A00120
+2024-05-26T22:07:31: Connecting request: 9F124324
+2024-05-26T22:07:31: Connecting: 83A00120
+2024-05-26T22:07:33: Connected: 83A00120
+2024-05-26T22:07:33: Connecting: 9F124324
+2024-05-26T22:07:34: Connected: 9F124324
+2024-05-26T22:09:52: Stop receive requested by user
+2024-05-26T22:09:52: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:09:52: Disconnecting request: 9F124324
+2024-05-26T22:09:52: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:09:52: Disconnecting request: 83A00120
+2024-05-26T22:09:52: Disconnected: 9F124324
+2024-05-26T22:09:52: Stop requested => closing stream and removing device
+2024-05-26T22:09:52: Disconnected: 83A00120
+2024-05-26T22:09:52: Stop requested => closing stream and removing device
+2024-05-26T22:09:52: Stopping service!
+2024-05-26T22:09:52: Foreground Service onDestroy
+2024-05-26T22:09:52: ---------------------------------------------------------------
+2024-05-26T22:11:13: Foreground service onStart
+2024-05-26T22:11:13: Start receive
+2024-05-26T22:11:13: Connecting request: 83A00120
+2024-05-26T22:11:13: Connecting request: 9F124324
+2024-05-26T22:11:13: Connecting: 83A00120
+2024-05-26T22:11:15: Connected: 83A00120
+2024-05-26T22:11:15: Connecting: 9F124324
+2024-05-26T22:11:16: Connected: 9F124324
+2024-05-26T22:13:04: Stop receive requested by user
+2024-05-26T22:13:04: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:13:04: Disconnecting request: 9F124324
+2024-05-26T22:13:04: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:13:04: Disconnecting request: 83A00120
+2024-05-26T22:13:04: Disconnected: 9F124324
+2024-05-26T22:13:04: Stop requested => closing stream and removing device
+2024-05-26T22:13:04: Disconnected: 83A00120
+2024-05-26T22:13:04: Stop requested => closing stream and removing device
+2024-05-26T22:13:04: Stopping service!
+2024-05-26T22:13:04: Foreground Service onDestroy
+2024-05-26T22:13:04: ---------------------------------------------------------------
+2024-05-26T22:13:21: Foreground service onStart
+2024-05-26T22:13:21: Start receive
+2024-05-26T22:13:21: Connecting request: 83A00120
+2024-05-26T22:13:22: Connecting request: 9F124324
+2024-05-26T22:13:22: Connecting: 83A00120
+2024-05-26T22:13:23: Connected: 83A00120
+2024-05-26T22:13:23: Connecting: 9F124324
+2024-05-26T22:13:24: Connected: 9F124324
+2024-05-26T22:14:57: Stop receive requested by user
+2024-05-26T22:14:57: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:14:57: Disconnecting request: 9F124324
+2024-05-26T22:14:57: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:14:57: Disconnecting request: 83A00120
+2024-05-26T22:14:57: Disconnected: 9F124324
+2024-05-26T22:14:57: Stop requested => closing stream and removing device
+2024-05-26T22:14:57: Disconnected: 83A00120
+2024-05-26T22:14:57: Stop requested => closing stream and removing device
+2024-05-26T22:14:57: Stopping service!
+2024-05-26T22:14:57: Foreground Service onDestroy
+2024-05-26T22:14:57: ---------------------------------------------------------------
+2024-05-26T22:15:12: Foreground service onStart
+2024-05-26T22:15:12: Start receive
+2024-05-26T22:15:12: Connecting request: 83A00120
+2024-05-26T22:15:12: Connecting request: 9F124324
+2024-05-26T22:15:12: Connecting: 83A00120
+2024-05-26T22:15:13: Connected: 83A00120
+2024-05-26T22:15:14: Connecting: 9F124324
+2024-05-26T22:15:14: Connected: 9F124324
+2024-05-26T22:16:46: Stop receive requested by user
+2024-05-26T22:16:46: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:16:46: Disconnecting request: 9F124324
+2024-05-26T22:16:46: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:16:46: Disconnecting request: 83A00120
+2024-05-26T22:16:46: Disconnected: 9F124324
+2024-05-26T22:16:46: Stop requested => closing stream and removing device
+2024-05-26T22:16:46: Disconnected: 83A00120
+2024-05-26T22:16:46: Stop requested => closing stream and removing device
+2024-05-26T22:16:46: Stopping service!
+2024-05-26T22:16:46: Foreground Service onDestroy
+2024-05-26T22:16:46: ---------------------------------------------------------------
+2024-05-26T22:20:05: Foreground service onStart
+2024-05-26T22:20:05: Start receive
+2024-05-26T22:20:05: Connecting request: 83A00120
+2024-05-26T22:20:05: Connecting request: 9F124324
+2024-05-26T22:20:05: Connecting: 83A00120
+2024-05-26T22:20:07: Connected: 83A00120
+2024-05-26T22:20:07: Connecting: 9F124324
+2024-05-26T22:20:08: Connected: 9F124324
+2024-05-26T22:21:42: Stop receive requested by user
+2024-05-26T22:21:42: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:21:42: Disconnecting request: 9F124324
+2024-05-26T22:21:42: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:21:42: Disconnecting request: 83A00120
+2024-05-26T22:21:42: Disconnected: 9F124324
+2024-05-26T22:21:42: Stop requested => closing stream and removing device
+2024-05-26T22:21:42: Disconnected: 83A00120
+2024-05-26T22:21:42: Stop requested => closing stream and removing device
+2024-05-26T22:21:42: Stopping service!
+2024-05-26T22:21:42: Foreground Service onDestroy
+2024-05-26T22:21:42: ---------------------------------------------------------------
+2024-05-26T22:21:56: Foreground service onStart
+2024-05-26T22:21:56: Start receive
+2024-05-26T22:21:56: Connecting request: 83A00120
+2024-05-26T22:21:56: Connecting request: 9F124324
+2024-05-26T22:21:56: Connecting: 83A00120
+2024-05-26T22:21:58: Connected: 83A00120
+2024-05-26T22:21:58: Connecting: 9F124324
+2024-05-26T22:21:58: Connected: 9F124324
+2024-05-26T22:23:43: Stop receive requested by user
+2024-05-26T22:23:43: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:23:43: Disconnecting request: 9F124324
+2024-05-26T22:23:43: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:23:43: Disconnecting request: 83A00120
+2024-05-26T22:23:43: Disconnected: 9F124324
+2024-05-26T22:23:43: Stop requested => closing stream and removing device
+2024-05-26T22:23:43: Disconnected: 83A00120
+2024-05-26T22:23:43: Stop requested => closing stream and removing device
+2024-05-26T22:23:43: Stopping service!
+2024-05-26T22:23:43: Foreground Service onDestroy
+2024-05-26T22:23:43: ---------------------------------------------------------------
+2024-05-26T22:28:16: Foreground service onStart
+2024-05-26T22:28:16: Start receive
+2024-05-26T22:28:16: Connecting request: 83A00120
+2024-05-26T22:28:16: Connecting request: 9F124324
+2024-05-26T22:28:16: Connecting: 83A00120
+2024-05-26T22:28:19: Connected: 83A00120
+2024-05-26T22:28:19: Connecting: 9F124324
+2024-05-26T22:28:20: Connected: 9F124324
+2024-05-26T22:29:57: Stop receive requested by user
+2024-05-26T22:29:57: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:29:57: Disconnecting request: 9F124324
+2024-05-26T22:29:57: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:29:57: Disconnecting request: 83A00120
+2024-05-26T22:29:57: Disconnected: 9F124324
+2024-05-26T22:29:57: Stop requested => closing stream and removing device
+2024-05-26T22:29:57: Disconnected: 83A00120
+2024-05-26T22:29:57: Stop requested => closing stream and removing device
+2024-05-26T22:29:57: Stopping service!
+2024-05-26T22:29:57: Foreground Service onDestroy
+2024-05-26T22:29:57: ---------------------------------------------------------------
+2024-05-26T22:30:09: Foreground service onStart
+2024-05-26T22:30:09: Start receive
+2024-05-26T22:30:09: Connecting request: 83A00120
+2024-05-26T22:30:09: Connecting request: 9F124324
+2024-05-26T22:30:09: Connecting: 83A00120
+2024-05-26T22:30:11: Connected: 83A00120
+2024-05-26T22:30:11: Connecting: 9F124324
+2024-05-26T22:30:12: Connected: 9F124324
+2024-05-26T22:31:57: Stop receive requested by user
+2024-05-26T22:31:57: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:31:57: Disconnecting request: 9F124324
+2024-05-26T22:31:57: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:31:57: Disconnecting request: 83A00120
+2024-05-26T22:31:57: Disconnected: 9F124324
+2024-05-26T22:31:57: Stop requested => closing stream and removing device
+2024-05-26T22:31:57: Disconnected: 83A00120
+2024-05-26T22:31:57: Stop requested => closing stream and removing device
+2024-05-26T22:31:57: Stopping service!
+2024-05-26T22:31:57: Foreground Service onDestroy
+2024-05-26T22:31:57: ---------------------------------------------------------------
+2024-05-26T22:32:11: Foreground service onStart
+2024-05-26T22:32:11: Start receive
+2024-05-26T22:32:11: Connecting request: 83A00120
+2024-05-26T22:32:11: Connecting request: 9F124324
+2024-05-26T22:32:11: Connecting: 83A00120
+2024-05-26T22:32:13: Connected: 83A00120
+2024-05-26T22:32:13: Connecting: 9F124324
+2024-05-26T22:32:14: Connected: 9F124324
+2024-05-26T22:33:39: Stop receive requested by user
+2024-05-26T22:33:39: Finalizing stream for: Polar Sense 9F124324
+2024-05-26T22:33:39: Disconnecting request: 9F124324
+2024-05-26T22:33:39: Finalizing stream for: Polar H10 83A00120
+2024-05-26T22:33:39: Disconnecting request: 83A00120
+2024-05-26T22:33:39: Disconnected: 9F124324
+2024-05-26T22:33:39: Stop requested => closing stream and removing device
+2024-05-26T22:33:39: Disconnected: 83A00120
+2024-05-26T22:33:39: Stop requested => closing stream and removing device
+2024-05-26T22:33:39: Stopping service!
+2024-05-26T22:33:39: Foreground Service onDestroy
+2024-05-26T22:33:39: ---------------------------------------------------------------
+2024-05-27T22:31:03: Foreground service onStart
+2024-05-27T22:31:03: Start receive
+2024-05-27T22:31:03: Connecting request: 83A00120
+2024-05-27T22:31:03: Connecting request: 9F124324
+2024-05-27T22:31:03: Connecting: 83A00120
+2024-05-27T22:31:06: Connected: 83A00120
+2024-05-27T22:31:06: Connecting: 9F124324
+2024-05-27T22:31:07: Connected: 9F124324
+2024-05-27T22:32:39: Stop receive requested by user
+2024-05-27T22:32:39: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:32:39: Disconnecting request: 9F124324
+2024-05-27T22:32:39: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:32:39: Disconnecting request: 83A00120
+2024-05-27T22:32:39: Disconnected: 9F124324
+2024-05-27T22:32:39: Stop requested => closing stream and removing device
+2024-05-27T22:32:39: Disconnected: 83A00120
+2024-05-27T22:32:39: Stop requested => closing stream and removing device
+2024-05-27T22:32:39: Stopping service!
+2024-05-27T22:32:39: Foreground Service onDestroy
+2024-05-27T22:32:39: ---------------------------------------------------------------
+2024-05-27T22:32:51: Foreground service onStart
+2024-05-27T22:32:51: Start receive
+2024-05-27T22:32:51: Connecting request: 83A00120
+2024-05-27T22:32:51: Connecting request: 9F124324
+2024-05-27T22:32:51: Connecting: 83A00120
+2024-05-27T22:32:53: Connected: 83A00120
+2024-05-27T22:32:53: Connecting: 9F124324
+2024-05-27T22:32:54: Connected: 9F124324
+2024-05-27T22:34:24: Stop receive requested by user
+2024-05-27T22:34:24: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:34:24: Disconnecting request: 9F124324
+2024-05-27T22:34:24: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:34:24: Disconnecting request: 83A00120
+2024-05-27T22:34:24: Disconnected: 9F124324
+2024-05-27T22:34:24: Stop requested => closing stream and removing device
+2024-05-27T22:34:24: Disconnected: 83A00120
+2024-05-27T22:34:24: Stop requested => closing stream and removing device
+2024-05-27T22:34:24: Stopping service!
+2024-05-27T22:34:24: Foreground Service onDestroy
+2024-05-27T22:34:24: ---------------------------------------------------------------
+2024-05-27T22:34:39: Foreground service onStart
+2024-05-27T22:34:39: Start receive
+2024-05-27T22:34:39: Connecting request: 83A00120
+2024-05-27T22:34:39: Connecting request: 9F124324
+2024-05-27T22:34:39: Connecting: 83A00120
+2024-05-27T22:34:41: Connected: 83A00120
+2024-05-27T22:34:41: Connecting: 9F124324
+2024-05-27T22:34:42: Connected: 9F124324
+2024-05-27T22:36:11: Stop receive requested by user
+2024-05-27T22:36:11: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:36:11: Disconnecting request: 9F124324
+2024-05-27T22:36:11: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:36:11: Disconnecting request: 83A00120
+2024-05-27T22:36:11: Disconnected: 9F124324
+2024-05-27T22:36:11: Stop requested => closing stream and removing device
+2024-05-27T22:36:11: Disconnected: 83A00120
+2024-05-27T22:36:11: Stop requested => closing stream and removing device
+2024-05-27T22:36:11: Stopping service!
+2024-05-27T22:36:11: Foreground Service onDestroy
+2024-05-27T22:36:11: ---------------------------------------------------------------
+2024-05-27T22:37:38: Foreground service onStart
+2024-05-27T22:37:38: Start receive
+2024-05-27T22:37:38: Connecting request: 83A00120
+2024-05-27T22:37:38: Connecting request: 9F124324
+2024-05-27T22:37:38: Connecting: 83A00120
+2024-05-27T22:37:40: Connected: 83A00120
+2024-05-27T22:37:40: Connecting: 9F124324
+2024-05-27T22:37:41: Connected: 9F124324
+2024-05-27T22:39:28: Stop receive requested by user
+2024-05-27T22:39:28: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:39:28: Disconnecting request: 9F124324
+2024-05-27T22:39:28: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:39:28: Disconnecting request: 83A00120
+2024-05-27T22:39:28: Disconnected: 9F124324
+2024-05-27T22:39:28: Stop requested => closing stream and removing device
+2024-05-27T22:39:28: Disconnected: 83A00120
+2024-05-27T22:39:28: Stop requested => closing stream and removing device
+2024-05-27T22:39:28: Stopping service!
+2024-05-27T22:39:28: Foreground Service onDestroy
+2024-05-27T22:39:28: ---------------------------------------------------------------
+2024-05-27T22:39:41: Foreground service onStart
+2024-05-27T22:39:41: Start receive
+2024-05-27T22:39:41: Connecting request: 83A00120
+2024-05-27T22:39:41: Connecting request: 9F124324
+2024-05-27T22:39:41: Connecting: 83A00120
+2024-05-27T22:39:42: Connected: 83A00120
+2024-05-27T22:39:42: Connecting: 9F124324
+2024-05-27T22:39:43: Connected: 9F124324
+2024-05-27T22:41:12: Stop receive requested by user
+2024-05-27T22:41:12: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:41:12: Disconnecting request: 9F124324
+2024-05-27T22:41:12: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:41:12: Disconnecting request: 83A00120
+2024-05-27T22:41:12: Disconnected: 9F124324
+2024-05-27T22:41:12: Stop requested => closing stream and removing device
+2024-05-27T22:41:12: Disconnected: 83A00120
+2024-05-27T22:41:12: Stop requested => closing stream and removing device
+2024-05-27T22:41:12: Stopping service!
+2024-05-27T22:41:12: Foreground Service onDestroy
+2024-05-27T22:41:12: ---------------------------------------------------------------
+2024-05-27T22:41:24: Foreground service onStart
+2024-05-27T22:41:24: Start receive
+2024-05-27T22:41:24: Connecting request: 83A00120
+2024-05-27T22:41:24: Connecting request: 9F124324
+2024-05-27T22:41:24: Connecting: 83A00120
+2024-05-27T22:41:26: Connected: 83A00120
+2024-05-27T22:41:26: Connecting: 9F124324
+2024-05-27T22:41:27: Connected: 9F124324
+2024-05-27T22:43:17: Stop receive requested by user
+2024-05-27T22:43:17: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:43:17: Disconnecting request: 9F124324
+2024-05-27T22:43:17: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:43:17: Disconnecting request: 83A00120
+2024-05-27T22:43:17: Disconnected: 9F124324
+2024-05-27T22:43:17: Stop requested => closing stream and removing device
+2024-05-27T22:43:17: Disconnected: 83A00120
+2024-05-27T22:43:17: Stop requested => closing stream and removing device
+2024-05-27T22:43:17: Stopping service!
+2024-05-27T22:43:17: Foreground Service onDestroy
+2024-05-27T22:43:17: ---------------------------------------------------------------
+2024-05-27T22:45:30: Foreground service onStart
+2024-05-27T22:45:30: Start receive
+2024-05-27T22:45:30: Connecting request: 83A00120
+2024-05-27T22:45:30: Connecting request: 9F124324
+2024-05-27T22:45:30: Connecting: 83A00120
+2024-05-27T22:45:32: Connected: 83A00120
+2024-05-27T22:45:32: Connecting: 9F124324
+2024-05-27T22:45:33: Connected: 9F124324
+2024-05-27T22:47:06: Stop receive requested by user
+2024-05-27T22:47:06: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:47:06: Disconnecting request: 9F124324
+2024-05-27T22:47:06: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:47:06: Disconnecting request: 83A00120
+2024-05-27T22:47:06: Disconnected: 9F124324
+2024-05-27T22:47:06: Stop requested => closing stream and removing device
+2024-05-27T22:47:06: Disconnected: 83A00120
+2024-05-27T22:47:06: Stop requested => closing stream and removing device
+2024-05-27T22:47:06: Stopping service!
+2024-05-27T22:47:06: Foreground Service onDestroy
+2024-05-27T22:47:06: ---------------------------------------------------------------
+2024-05-27T22:47:24: Foreground service onStart
+2024-05-27T22:47:24: Start receive
+2024-05-27T22:47:24: Connecting request: 83A00120
+2024-05-27T22:47:24: Connecting request: 9F124324
+2024-05-27T22:47:24: Connecting: 83A00120
+2024-05-27T22:47:25: Connected: 83A00120
+2024-05-27T22:47:25: Connecting: 9F124324
+2024-05-27T22:47:26: Connected: 9F124324
+2024-05-27T22:49:08: Stop receive requested by user
+2024-05-27T22:49:08: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:49:08: Disconnecting request: 9F124324
+2024-05-27T22:49:08: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:49:08: Disconnecting request: 83A00120
+2024-05-27T22:49:08: Disconnected: 9F124324
+2024-05-27T22:49:08: Stop requested => closing stream and removing device
+2024-05-27T22:49:08: Disconnected: 83A00120
+2024-05-27T22:49:08: Stop requested => closing stream and removing device
+2024-05-27T22:49:08: Stopping service!
+2024-05-27T22:49:08: Foreground Service onDestroy
+2024-05-27T22:49:08: ---------------------------------------------------------------
+2024-05-27T22:49:20: Foreground service onStart
+2024-05-27T22:49:20: Start receive
+2024-05-27T22:49:20: Connecting request: 83A00120
+2024-05-27T22:49:20: Connecting request: 9F124324
+2024-05-27T22:49:20: Connecting: 83A00120
+2024-05-27T22:49:22: Connected: 83A00120
+2024-05-27T22:49:22: Connecting: 9F124324
+2024-05-27T22:49:23: Connected: 9F124324
+2024-05-27T22:50:59: Stop receive requested by user
+2024-05-27T22:50:59: Finalizing stream for: Polar Sense 9F124324
+2024-05-27T22:50:59: Disconnecting request: 9F124324
+2024-05-27T22:50:59: Finalizing stream for: Polar H10 83A00120
+2024-05-27T22:50:59: Disconnecting request: 83A00120
+2024-05-27T22:50:59: Disconnected: 9F124324
+2024-05-27T22:50:59: Stop requested => closing stream and removing device
+2024-05-27T22:50:59: Disconnected: 83A00120
+2024-05-27T22:50:59: Stop requested => closing stream and removing device
+2024-05-27T22:50:59: Stopping service!
+2024-05-27T22:50:59: Foreground Service onDestroy
+2024-05-27T22:50:59: ---------------------------------------------------------------

@@ -1,0 +1,1311 @@
+2024-05-02T10:00:12: onResume
+2024-05-02T10:00:14: onResume
+2024-05-02T10:00:16: selected: []
+2024-05-02T10:00:47: selected: []
+2024-05-02T10:00:59: selected: []
+2024-05-02T10:01:01: selected: []
+2024-05-02T10:01:09: selected: []
+2024-05-02T10:01:29: selected: null
+2024-05-02T10:02:22: selected: [com.polar.sdk.api.model.PolarDeviceInfo@297e4fe, com.polar.sdk.api.model.PolarDeviceInfo@ce6145f]
+2024-05-02T10:02:22: Recording started!
+2024-05-02T10:02:22: onServiceConnected
+2024-05-02T10:02:22: Adding view for:9F124324
+2024-05-02T10:02:22: Adding view for:83A00120
+2024-05-02T10:02:52: Recording stopped!
+2024-05-02T10:02:52: Unbinding service
+2024-05-02T10:02:54: onResume
+2024-05-02T10:02:54: Service running! Trying to bind!
+2024-05-02T10:02:54: onServiceConnected
+2024-05-02T10:02:54: Adding view for:83A00120
+2024-05-02T10:03:07: Recording stopped!
+2024-05-02T10:03:07: Unbinding service
+2024-05-02T10:03:21: selected: []
+2024-05-02T10:03:26: onDestroy
+2024-05-02T10:03:28: onResume
+2024-05-02T10:03:28: Service running! Trying to bind!
+2024-05-02T10:03:28: onServiceConnected
+2024-05-02T10:03:28: Adding view for:83A00120
+2024-05-02T10:03:30: Recording stopped!
+2024-05-02T10:03:30: Unbinding service
+2024-05-02T10:03:34: onDestroy
+2024-05-02T10:03:35: onResume
+2024-05-02T10:03:35: Service running! Trying to bind!
+2024-05-02T10:03:35: onServiceConnected
+2024-05-02T10:03:35: Adding view for:83A00120
+2024-05-02T10:03:36: Recording stopped!
+2024-05-02T10:03:36: Unbinding service
+2024-05-02T10:03:55: selected: null
+2024-05-02T10:03:57: selected: null
+2024-05-02T10:03:58: selected: null
+2024-05-02T10:04:05: selected: null
+2024-05-02T10:04:27: selected: null
+2024-05-02T10:04:28: selected: null
+2024-05-02T10:04:29: selected: null
+2024-05-02T10:04:30: selected: null
+2024-05-02T10:04:35: selected: null
+2024-05-02T10:04:37: selected: null
+2024-05-02T10:04:38: selected: null
+2024-05-02T10:04:40: onDestroy
+2024-05-02T10:04:55: onResume
+2024-05-02T10:04:55: Service running! Trying to bind!
+2024-05-02T10:04:55: onServiceConnected
+2024-05-02T10:04:55: Adding view for:83A00120
+2024-05-02T10:05:00: Recording stopped!
+2024-05-02T10:05:00: Unbinding service
+2024-05-02T10:05:03: selected: []
+2024-05-02T10:07:00: onResume
+2024-05-02T10:07:00: Service running! Trying to bind!
+2024-05-02T10:07:00: onServiceConnected
+2024-05-02T10:07:00: Adding view for:83A00120
+2024-05-02T10:07:03: Recording stopped!
+2024-05-02T10:07:03: Unbinding service
+2024-05-02T10:07:06: onDestroy
+2024-05-02T10:07:07: onResume
+2024-05-02T10:07:07: Service running! Trying to bind!
+2024-05-02T10:07:07: onServiceConnected
+2024-05-02T10:07:07: Adding view for:83A00120
+2024-05-02T10:07:10: onDestroy
+2024-05-02T10:07:38: onResume
+2024-05-02T10:07:38: Service running! Trying to bind!
+2024-05-02T10:07:38: onServiceConnected
+2024-05-02T10:07:38: Adding view for:83A00120
+2024-05-02T10:07:45: Recording stopped!
+2024-05-02T10:07:45: Unbinding service
+2024-05-02T10:07:57: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c040f64, com.polar.sdk.api.model.PolarDeviceInfo@5c335cd]
+2024-05-02T10:07:57: Recording started!
+2024-05-02T10:07:57: onServiceConnected
+2024-05-02T10:07:57: Adding view for:9F124324
+2024-05-02T10:07:57: Adding view for:83A00120
+2024-05-02T10:08:37: onDestroy
+2024-05-02T10:08:41: onResume
+2024-05-02T10:08:41: Service running! Trying to bind!
+2024-05-02T10:08:41: onServiceConnected
+2024-05-02T10:08:41: Adding view for:9F124324
+2024-05-02T10:08:41: Adding view for:83A00120
+2024-05-02T10:08:44: Recording stopped!
+2024-05-02T10:08:44: Unbinding service
+2024-05-02T10:09:43: onResume
+2024-05-02T10:09:48: selected: null
+2024-05-02T10:10:01: selected: [com.polar.sdk.api.model.PolarDeviceInfo@17f3c72, com.polar.sdk.api.model.PolarDeviceInfo@9c3a8c3]
+2024-05-02T10:10:01: Recording started!
+2024-05-02T10:10:01: onServiceConnected
+2024-05-02T10:10:01: Adding view for:9F124324
+2024-05-02T10:10:01: Adding view for:83A00120
+2024-05-02T10:12:09: Recording stopped!
+2024-05-02T10:12:09: Unbinding service
+2024-05-02T10:12:12: onResume
+2024-05-02T10:14:41: onResume
+2024-05-02T10:24:02: onResume
+2024-05-02T10:24:49: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d01149d, com.polar.sdk.api.model.PolarDeviceInfo@c2bcd12]
+2024-05-02T10:24:49: Recording started!
+2024-05-02T10:24:49: onServiceConnected
+2024-05-02T10:24:49: Adding view for:9F124324
+2024-05-02T10:24:49: Adding view for:83A00120
+2024-05-02T10:24:59: onResume
+2024-05-02T10:25:06: selected: [com.polar.sdk.api.model.PolarDeviceInfo@54b3604, com.polar.sdk.api.model.PolarDeviceInfo@69367ed]
+2024-05-02T10:25:06: Recording started!
+2024-05-02T10:25:06: onServiceConnected
+2024-05-02T10:25:06: Adding view for:9F124324
+2024-05-02T10:25:06: Adding view for:83A00120
+2024-05-02T10:26:35: Recording stopped!
+2024-05-02T10:26:36: Unbinding service
+2024-05-02T10:26:39: onResume
+2024-05-02T17:47:55: onResume
+2024-05-02T17:47:59: selected: []
+2024-05-02T17:48:09: onResume
+2024-05-02T17:48:11: selected: []
+2024-05-02T17:48:13: selected: []
+2024-05-02T17:48:21: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c729e2c, com.polar.sdk.api.model.PolarDeviceInfo@b06f0f5]
+2024-05-02T17:48:21: Recording started!
+2024-05-02T17:48:21: onServiceConnected
+2024-05-02T17:48:21: Adding view for:9F124324
+2024-05-02T17:48:21: Adding view for:83A00120
+2024-05-02T17:50:27: Recording stopped!
+2024-05-02T17:50:27: Unbinding service
+2024-05-02T17:57:55: onResume
+2024-05-02T17:58:30: selected: [com.polar.sdk.api.model.PolarDeviceInfo@1577347, com.polar.sdk.api.model.PolarDeviceInfo@745e774]
+2024-05-02T17:58:30: Recording started!
+2024-05-02T17:58:30: onServiceConnected
+2024-05-02T17:58:30: Adding view for:9F124324
+2024-05-02T17:58:30: Adding view for:83A00120
+2024-05-02T17:58:31: onResume
+2024-05-02T17:58:34: selected: [com.polar.sdk.api.model.PolarDeviceInfo@a75a85e, com.polar.sdk.api.model.PolarDeviceInfo@419843f]
+2024-05-02T17:58:34: Recording started!
+2024-05-02T17:58:34: onServiceConnected
+2024-05-02T17:58:34: Adding view for:9F124324
+2024-05-02T17:58:34: Adding view for:83A00120
+2024-05-02T17:59:44: Recording stopped!
+2024-05-02T17:59:44: Unbinding service
+2024-05-03T09:56:36: onResume
+2024-05-03T09:57:05: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c2bcd12, com.polar.sdk.api.model.PolarDeviceInfo@50dfce3]
+2024-05-03T09:57:05: Recording started!
+2024-05-03T09:57:05: onServiceConnected
+2024-05-03T09:57:05: Adding view for:9F124324
+2024-05-03T09:57:05: Adding view for:83A00120
+2024-05-03T09:58:15: Recording stopped!
+2024-05-03T09:58:15: Unbinding service
+2024-05-03T10:09:34: onResume
+2024-05-03T10:09:38: selected: [com.polar.sdk.api.model.PolarDeviceInfo@1577347, com.polar.sdk.api.model.PolarDeviceInfo@745e774]
+2024-05-03T10:09:38: Recording started!
+2024-05-03T10:09:38: onServiceConnected
+2024-05-03T10:09:38: Adding view for:9F124324
+2024-05-03T10:09:38: Adding view for:83A00120
+2024-05-03T10:09:42: onResume
+2024-05-03T10:09:46: selected: null
+2024-05-03T10:09:59: onResume
+2024-05-03T10:10:01: selected: [com.polar.sdk.api.model.PolarDeviceInfo@32be956, com.polar.sdk.api.model.PolarDeviceInfo@94ebdd7]
+2024-05-03T10:10:01: Recording started!
+2024-05-03T10:10:01: onServiceConnected
+2024-05-03T10:10:01: Adding view for:9F124324
+2024-05-03T10:10:01: Adding view for:83A00120
+2024-05-03T10:11:15: Recording stopped!
+2024-05-03T10:11:16: Unbinding service
+2024-05-03T10:11:36: onResume
+2024-05-03T15:54:41: onResume
+2024-05-03T15:54:57: onResume
+2024-05-03T15:55:00: selected: [com.polar.sdk.api.model.PolarDeviceInfo@1d28f4]
+2024-05-03T15:55:00: Recording started!
+2024-05-03T15:55:00: onServiceConnected
+2024-05-03T15:55:00: Adding view for:9F124324
+2024-05-03T15:56:37: Recording stopped!
+2024-05-03T15:56:37: Unbinding service
+2024-05-03T15:56:41: onResume
+2024-05-03T15:56:51: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d048b3]
+2024-05-03T15:56:51: Recording started!
+2024-05-03T15:56:51: onServiceConnected
+2024-05-03T15:56:51: Adding view for:9F124324
+2024-05-03T16:06:01: Recording stopped!
+2024-05-03T16:06:01: Unbinding service
+2024-05-03T16:07:41: onResume
+2024-05-03T16:07:45: selected: [com.polar.sdk.api.model.PolarDeviceInfo@46a2834, com.polar.sdk.api.model.PolarDeviceInfo@5ab265d]
+2024-05-03T16:07:45: Recording started!
+2024-05-03T16:07:45: onServiceConnected
+2024-05-03T16:07:45: Adding view for:9F124324
+2024-05-03T16:07:45: Adding view for:83A00120
+2024-05-03T16:09:25: Recording stopped!
+2024-05-03T16:09:25: Unbinding service
+2024-05-03T16:09:50: onResume
+2024-05-03T17:23:36: onResume
+2024-05-03T17:23:42: selected: [com.polar.sdk.api.model.PolarDeviceInfo@745e774, com.polar.sdk.api.model.PolarDeviceInfo@d01149d]
+2024-05-03T17:23:42: Recording started!
+2024-05-03T17:23:42: onServiceConnected
+2024-05-03T17:23:42: Adding view for:9F124324
+2024-05-03T17:23:42: Adding view for:83A00120
+2024-05-03T17:26:05: Recording stopped!
+2024-05-03T17:26:05: Unbinding service
+2024-05-03T17:26:34: onResume
+2024-05-04T09:21:24: onResume
+2024-05-04T09:21:33: onResume
+2024-05-04T09:21:39: selected: [com.polar.sdk.api.model.PolarDeviceInfo@e9da217, com.polar.sdk.api.model.PolarDeviceInfo@54b3604]
+2024-05-04T09:21:39: Recording started!
+2024-05-04T09:21:39: onServiceConnected
+2024-05-04T09:21:39: Adding view for:9F124324
+2024-05-04T09:21:39: Adding view for:83A00120
+2024-05-04T09:23:41: Recording stopped!
+2024-05-04T09:23:41: Unbinding service
+2024-05-04T09:29:41: onResume
+2024-05-04T09:29:45: selected: [com.polar.sdk.api.model.PolarDeviceInfo@7e126c8, com.polar.sdk.api.model.PolarDeviceInfo@b5ea361]
+2024-05-04T09:29:45: Recording started!
+2024-05-04T09:29:45: onServiceConnected
+2024-05-04T09:29:45: Adding view for:9F124324
+2024-05-04T09:29:45: Adding view for:83A00120
+2024-05-04T09:29:48: onResume
+2024-05-04T09:29:51: selected: [com.polar.sdk.api.model.PolarDeviceInfo@50dfce3, com.polar.sdk.api.model.PolarDeviceInfo@49406e0]
+2024-05-04T09:29:51: Recording started!
+2024-05-04T09:29:51: onServiceConnected
+2024-05-04T09:29:51: Adding view for:9F124324
+2024-05-04T09:29:51: Adding view for:83A00120
+2024-05-04T09:31:14: Recording stopped!
+2024-05-04T09:31:14: Unbinding service
+2024-05-04T09:31:42: onResume
+2024-05-06T14:35:03: onResume
+2024-05-06T14:35:24: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c2bcd12, com.polar.sdk.api.model.PolarDeviceInfo@50dfce3]
+2024-05-06T14:35:24: Recording started!
+2024-05-06T14:35:24: onServiceConnected
+2024-05-06T14:35:24: Adding view for:9F124324
+2024-05-06T14:35:24: Adding view for:83A00120
+2024-05-06T14:37:51: Recording stopped!
+2024-05-06T14:37:51: Unbinding service
+2024-05-06T14:41:39: onResume
+2024-05-06T14:41:45: onResume
+2024-05-06T14:41:47: selected: null
+2024-05-06T14:41:52: selected: null
+2024-05-06T14:42:47: onResume
+2024-05-06T14:42:49: onResume
+2024-05-06T14:42:52: selected: [com.polar.sdk.api.model.PolarDeviceInfo@a75a85e, com.polar.sdk.api.model.PolarDeviceInfo@419843f]
+2024-05-06T14:42:52: Recording started!
+2024-05-06T14:42:52: onServiceConnected
+2024-05-06T14:42:52: Adding view for:9F124324
+2024-05-06T14:42:52: Adding view for:83A00120
+2024-05-06T14:44:48: Recording stopped!
+2024-05-06T14:44:48: Unbinding service
+2024-05-07T14:02:33: onResume
+2024-05-08T19:04:28: onResume
+2024-05-08T19:04:31: selected: [com.polar.sdk.api.model.PolarDeviceInfo@49406e0, com.polar.sdk.api.model.PolarDeviceInfo@e5f5d99]
+2024-05-08T19:04:31: Recording started!
+2024-05-08T19:04:31: onServiceConnected
+2024-05-08T19:04:31: Adding view for:9F124324
+2024-05-08T19:04:31: Adding view for:83A00120
+2024-05-08T19:06:18: Recording stopped!
+2024-05-08T19:06:18: Unbinding service
+2024-05-08T19:06:39: onResume
+2024-05-08T19:07:08: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b194e86, com.polar.sdk.api.model.PolarDeviceInfo@1577347]
+2024-05-08T19:07:08: Recording started!
+2024-05-08T19:07:08: onServiceConnected
+2024-05-08T19:07:08: Adding view for:9F124324
+2024-05-08T19:07:08: Adding view for:83A00120
+2024-05-08T19:08:58: Recording stopped!
+2024-05-08T19:08:58: Unbinding service
+2024-05-08T19:09:36: onResume
+2024-05-08T19:13:45: onResume
+2024-05-08T19:13:50: selected: [com.polar.sdk.api.model.PolarDeviceInfo@50dfce3, com.polar.sdk.api.model.PolarDeviceInfo@49406e0]
+2024-05-08T19:13:50: Recording started!
+2024-05-08T19:13:50: onServiceConnected
+2024-05-08T19:13:50: Adding view for:9F124324
+2024-05-08T19:13:50: Adding view for:83A00120
+2024-05-08T19:15:21: Recording stopped!
+2024-05-08T19:15:21: Unbinding service
+2024-05-08T19:15:22: onResume
+2024-05-08T19:15:42: onResume
+2024-05-08T19:16:45: onResume
+2024-05-11T14:38:28: onResume
+2024-05-11T14:38:31: selected: [com.polar.sdk.api.model.PolarDeviceInfo@50dfce3, com.polar.sdk.api.model.PolarDeviceInfo@49406e0]
+2024-05-11T14:38:31: Recording started!
+2024-05-11T14:38:31: onServiceConnected
+2024-05-11T14:38:31: Adding view for:9F124324
+2024-05-11T14:38:31: Adding view for:83A00120
+2024-05-11T14:40:44: Recording stopped!
+2024-05-11T14:40:44: Unbinding service
+2024-05-11T14:54:49: onResume
+2024-05-11T14:54:56: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b194e86, com.polar.sdk.api.model.PolarDeviceInfo@1577347]
+2024-05-11T14:54:56: Recording started!
+2024-05-11T14:54:56: onServiceConnected
+2024-05-11T14:54:56: Adding view for:9F124324
+2024-05-11T14:54:56: Adding view for:83A00120
+2024-05-11T14:54:58: onResume
+2024-05-11T14:54:58: Service running! Trying to bind!
+2024-05-11T14:54:58: onServiceConnected
+2024-05-11T14:54:58: Adding view for:9F124324
+2024-05-11T14:54:58: Adding view for:83A00120
+2024-05-11T14:55:01: onResume
+2024-05-11T14:55:01: Service running! Trying to bind!
+2024-05-11T14:55:01: Recording stopped!
+2024-05-11T14:55:01: Unbinding service
+2024-05-11T14:55:03: onResume
+2024-05-11T14:55:03: Service running! Trying to bind!
+2024-05-11T14:55:03: onServiceConnected
+2024-05-11T14:55:03: Adding view for:83A00120
+2024-05-11T14:55:04: Recording stopped!
+2024-05-11T14:55:04: Unbinding service
+2024-05-11T14:55:07: onDestroy
+2024-05-11T14:55:25: onResume
+2024-05-11T14:55:25: Service running! Trying to bind!
+2024-05-11T14:55:25: onServiceConnected
+2024-05-11T14:55:25: Adding view for:83A00120
+2024-05-11T14:55:35: Recording stopped!
+2024-05-11T14:55:35: Unbinding service
+2024-05-11T14:55:39: onDestroy
+2024-05-11T14:55:55: onResume
+2024-05-11T14:55:55: Service running! Trying to bind!
+2024-05-11T14:55:55: onServiceConnected
+2024-05-11T14:55:55: Adding view for:83A00120
+2024-05-11T14:55:58: onDestroy
+2024-05-11T14:56:04: onResume
+2024-05-11T14:56:33: onResume
+2024-05-11T14:56:47: onResume
+2024-05-11T14:56:50: selected: [com.polar.sdk.api.model.PolarDeviceInfo@a75a85e, com.polar.sdk.api.model.PolarDeviceInfo@419843f]
+2024-05-11T14:56:50: Recording started!
+2024-05-11T14:56:50: onServiceConnected
+2024-05-11T14:56:50: Adding view for:9F124324
+2024-05-11T14:56:50: Adding view for:83A00120
+2024-05-11T14:58:12: Recording stopped!
+2024-05-11T14:58:12: Unbinding service
+2024-05-13T13:14:40: onResume
+2024-05-13T13:14:44: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c2bcd12, com.polar.sdk.api.model.PolarDeviceInfo@50dfce3]
+2024-05-13T13:14:44: Recording started!
+2024-05-13T13:14:44: onServiceConnected
+2024-05-13T13:14:44: Adding view for:9F124324
+2024-05-13T13:14:44: Adding view for:83A00120
+2024-05-13T13:17:11: Recording stopped!
+2024-05-13T13:17:11: Unbinding service
+2024-05-13T13:17:14: onResume
+2024-05-13T13:20:04: onResume
+2024-05-13T13:21:30: selected: [com.polar.sdk.api.model.PolarDeviceInfo@49b93a0, com.polar.sdk.api.model.PolarDeviceInfo@af8cb59]
+2024-05-13T13:21:30: Recording started!
+2024-05-13T13:21:30: onServiceConnected
+2024-05-13T13:21:30: Adding view for:9F124324
+2024-05-13T13:21:30: Adding view for:83A00120
+2024-05-13T13:28:21: Recording stopped!
+2024-05-13T13:28:21: Unbinding service
+2024-05-13T13:28:25: selected: [com.polar.sdk.api.model.PolarDeviceInfo@6678178, com.polar.sdk.api.model.PolarDeviceInfo@e54e051]
+2024-05-13T13:28:25: Recording started!
+2024-05-13T13:28:25: onServiceConnected
+2024-05-13T13:28:25: Adding view for:9F124324
+2024-05-13T13:28:25: Adding view for:83A00120
+2024-05-13T13:30:03: Recording stopped!
+2024-05-13T13:30:03: Unbinding service
+2024-05-13T13:30:41: onResume
+2024-05-13T16:51:37: onResume
+2024-05-13T16:51:50: selected: [com.polar.sdk.api.model.PolarDeviceInfo@1577347, com.polar.sdk.api.model.PolarDeviceInfo@745e774]
+2024-05-13T16:51:50: Recording started!
+2024-05-13T16:51:50: onServiceConnected
+2024-05-13T16:51:50: Adding view for:9F124324
+2024-05-13T16:51:50: Adding view for:83A00120
+2024-05-13T16:54:16: Recording stopped!
+2024-05-13T16:54:16: Unbinding service
+2024-05-13T22:16:53: onResume
+2024-05-13T22:17:11: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c2bcd12, com.polar.sdk.api.model.PolarDeviceInfo@50dfce3]
+2024-05-13T22:17:11: Recording started!
+2024-05-13T22:17:11: onServiceConnected
+2024-05-13T22:17:11: Adding view for:9F124324
+2024-05-13T22:17:11: Adding view for:83A00120
+2024-05-13T22:18:52: Recording stopped!
+2024-05-13T22:18:52: Unbinding service
+2024-05-14T11:22:03: onResume
+2024-05-14T11:22:10: selected: [com.polar.sdk.api.model.PolarDeviceInfo@50dfce3, com.polar.sdk.api.model.PolarDeviceInfo@49406e0]
+2024-05-14T11:22:10: Recording started!
+2024-05-14T11:22:10: onServiceConnected
+2024-05-14T11:22:10: Adding view for:9F124324
+2024-05-14T11:22:10: Adding view for:83A00120
+2024-05-14T11:23:51: Recording stopped!
+2024-05-14T11:23:51: Unbinding service
+2024-05-14T12:07:21: onResume
+2024-05-14T12:07:26: onResume
+2024-05-14T12:07:43: selected: [com.polar.sdk.api.model.PolarDeviceInfo@580adbe, com.polar.sdk.api.model.PolarDeviceInfo@bae0e1f]
+2024-05-14T12:07:43: Recording started!
+2024-05-14T12:07:43: onServiceConnected
+2024-05-14T12:07:43: Adding view for:9F124324
+2024-05-14T12:07:43: Adding view for:83A00120
+2024-05-14T12:09:05: Recording stopped!
+2024-05-14T12:09:05: Unbinding service
+2024-05-14T12:10:04: onResume
+2024-05-14T12:10:08: selected: [com.polar.sdk.api.model.PolarDeviceInfo@49406e0, com.polar.sdk.api.model.PolarDeviceInfo@e5f5d99]
+2024-05-14T12:10:08: Recording started!
+2024-05-14T12:10:08: onServiceConnected
+2024-05-14T12:10:08: Adding view for:9F124324
+2024-05-14T12:10:08: Adding view for:83A00120
+2024-05-14T12:11:18: Recording stopped!
+2024-05-14T12:11:18: Unbinding service
+2024-05-14T12:11:55: onResume
+2024-05-14T12:11:59: selected: [com.polar.sdk.api.model.PolarDeviceInfo@cfcc4a3, com.polar.sdk.api.model.PolarDeviceInfo@49b93a0]
+2024-05-14T12:11:59: Recording started!
+2024-05-14T12:11:59: onServiceConnected
+2024-05-14T12:11:59: Adding view for:9F124324
+2024-05-14T12:11:59: Adding view for:83A00120
+2024-05-14T12:14:05: Recording stopped!
+2024-05-14T12:14:05: Unbinding service
+2024-05-14T12:14:07: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c4174c0, com.polar.sdk.api.model.PolarDeviceInfo@5f165f9]
+2024-05-14T12:14:07: Recording started!
+2024-05-14T12:14:07: onServiceConnected
+2024-05-14T12:14:07: Adding view for:9F124324
+2024-05-14T12:14:07: Adding view for:83A00120
+2024-05-14T12:15:31: Recording stopped!
+2024-05-14T12:15:31: Unbinding service
+2024-05-15T21:50:30: onResume
+2024-05-15T21:51:34: selected: [com.polar.sdk.api.model.PolarDeviceInfo@e5f5d99, com.polar.sdk.api.model.PolarDeviceInfo@a75a85e]
+2024-05-15T21:51:34: Recording started!
+2024-05-15T21:51:34: onServiceConnected
+2024-05-15T21:51:34: Adding view for:9F124324
+2024-05-15T21:51:34: Adding view for:83A00120
+2024-05-15T21:53:52: Recording stopped!
+2024-05-15T21:53:52: Unbinding service
+2024-05-15T21:55:03: onResume
+2024-05-15T21:55:06: selected: [com.polar.sdk.api.model.PolarDeviceInfo@41c409, com.polar.sdk.api.model.PolarDeviceInfo@db1660e]
+2024-05-15T21:55:06: Recording started!
+2024-05-15T21:55:06: onServiceConnected
+2024-05-15T21:55:06: Adding view for:9F124324
+2024-05-15T21:55:06: Adding view for:83A00120
+2024-05-15T21:56:38: Recording stopped!
+2024-05-15T21:56:38: Unbinding service
+2024-05-15T21:57:49: onResume
+2024-05-15T21:57:51: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d0e7126, com.polar.sdk.api.model.PolarDeviceInfo@f03f167]
+2024-05-15T21:57:51: Recording started!
+2024-05-15T21:57:51: onServiceConnected
+2024-05-15T21:57:51: Adding view for:9F124324
+2024-05-15T21:57:51: Adding view for:83A00120
+2024-05-15T21:59:36: Recording stopped!
+2024-05-15T21:59:36: Unbinding service
+2024-05-15T22:01:00: onResume
+2024-05-15T22:01:02: selected: [com.polar.sdk.api.model.PolarDeviceInfo@168d19f, com.polar.sdk.api.model.PolarDeviceInfo@979e2ec]
+2024-05-15T22:01:02: Recording started!
+2024-05-15T22:01:02: onServiceConnected
+2024-05-15T22:01:02: Adding view for:9F124324
+2024-05-15T22:01:02: Adding view for:83A00120
+2024-05-15T22:02:27: Recording stopped!
+2024-05-15T22:02:27: Unbinding service
+2024-05-15T22:02:42: onResume
+2024-05-15T22:02:43: selected: [com.polar.sdk.api.model.PolarDeviceInfo@fef4ea1, com.polar.sdk.api.model.PolarDeviceInfo@45fb8c6]
+2024-05-15T22:02:43: Recording started!
+2024-05-15T22:02:43: onServiceConnected
+2024-05-15T22:02:43: Adding view for:9F124324
+2024-05-15T22:02:43: Adding view for:83A00120
+2024-05-15T22:04:12: Recording stopped!
+2024-05-15T22:04:12: Unbinding service
+2024-05-15T22:04:30: onResume
+2024-05-15T22:04:32: selected: [com.polar.sdk.api.model.PolarDeviceInfo@fcac560, com.polar.sdk.api.model.PolarDeviceInfo@9b97a19]
+2024-05-15T22:04:32: Recording started!
+2024-05-15T22:04:32: onServiceConnected
+2024-05-15T22:04:32: Adding view for:9F124324
+2024-05-15T22:04:32: Adding view for:83A00120
+2024-05-15T22:05:53: Recording stopped!
+2024-05-15T22:05:53: Unbinding service
+2024-05-16T23:14:34: onResume
+2024-05-16T23:14:39: selected: [com.polar.sdk.api.model.PolarDeviceInfo@49406e0, com.polar.sdk.api.model.PolarDeviceInfo@e5f5d99]
+2024-05-16T23:14:39: Recording started!
+2024-05-16T23:14:40: onServiceConnected
+2024-05-16T23:14:40: Adding view for:9F124324
+2024-05-16T23:14:40: Adding view for:83A00120
+2024-05-16T23:15:57: Recording stopped!
+2024-05-16T23:15:57: Unbinding service
+2024-05-16T23:16:53: onResume
+2024-05-16T23:16:55: selected: [com.polar.sdk.api.model.PolarDeviceInfo@456c1a9, com.polar.sdk.api.model.PolarDeviceInfo@9a8232e]
+2024-05-16T23:16:55: Recording started!
+2024-05-16T23:16:55: onServiceConnected
+2024-05-16T23:16:55: Adding view for:9F124324
+2024-05-16T23:16:55: Adding view for:83A00120
+2024-05-16T23:18:18: Recording stopped!
+2024-05-16T23:18:18: Unbinding service
+2024-05-16T23:18:32: onResume
+2024-05-16T23:18:34: selected: [com.polar.sdk.api.model.PolarDeviceInfo@e725ca5, com.polar.sdk.api.model.PolarDeviceInfo@b89e87a]
+2024-05-16T23:18:34: Recording started!
+2024-05-16T23:18:34: onServiceConnected
+2024-05-16T23:18:34: Adding view for:9F124324
+2024-05-16T23:18:34: Adding view for:83A00120
+2024-05-16T23:20:01: Recording stopped!
+2024-05-16T23:20:01: Unbinding service
+2024-05-16T23:21:23: onResume
+2024-05-16T23:21:24: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b46b912, com.polar.sdk.api.model.PolarDeviceInfo@f6c78e3]
+2024-05-16T23:21:24: Recording started!
+2024-05-16T23:21:24: onServiceConnected
+2024-05-16T23:21:24: Adding view for:9F124324
+2024-05-16T23:21:24: Adding view for:83A00120
+2024-05-16T23:22:56: Recording stopped!
+2024-05-16T23:22:56: Unbinding service
+2024-05-16T23:23:09: onResume
+2024-05-16T23:23:12: selected: [com.polar.sdk.api.model.PolarDeviceInfo@2a9f411, com.polar.sdk.api.model.PolarDeviceInfo@e04976]
+2024-05-16T23:23:12: Recording started!
+2024-05-16T23:23:12: onServiceConnected
+2024-05-16T23:23:12: Adding view for:9F124324
+2024-05-16T23:23:12: Adding view for:83A00120
+2024-05-16T23:23:18: onResume
+2024-05-16T23:23:18: Service running! Trying to bind!
+2024-05-16T23:24:42: Recording stopped!
+2024-05-16T23:24:42: Unbinding service
+2024-05-16T23:24:59: onResume
+2024-05-16T23:25:01: selected: [com.polar.sdk.api.model.PolarDeviceInfo@8ef8187, com.polar.sdk.api.model.PolarDeviceInfo@cdb78b4]
+2024-05-16T23:25:01: Recording started!
+2024-05-16T23:25:01: onServiceConnected
+2024-05-16T23:25:01: Adding view for:9F124324
+2024-05-16T23:25:01: Adding view for:83A00120
+2024-05-16T23:26:28: Recording stopped!
+2024-05-16T23:26:28: Unbinding service
+2024-05-17T13:09:44: onResume
+2024-05-17T13:09:50: onResume
+2024-05-17T13:09:56: selected: [com.polar.sdk.api.model.PolarDeviceInfo@4bba622, com.polar.sdk.api.model.PolarDeviceInfo@d048b3]
+2024-05-17T13:09:56: Recording started!
+2024-05-17T13:09:56: onServiceConnected
+2024-05-17T13:09:56: Adding view for:9F124324
+2024-05-17T13:09:56: Adding view for:83A00120
+2024-05-17T13:11:27: Recording stopped!
+2024-05-17T13:11:27: Unbinding service
+2024-05-17T13:12:30: onResume
+2024-05-17T13:12:32: selected: [com.polar.sdk.api.model.PolarDeviceInfo@77a38a8, com.polar.sdk.api.model.PolarDeviceInfo@63d7fc1]
+2024-05-17T13:12:32: Recording started!
+2024-05-17T13:12:32: onServiceConnected
+2024-05-17T13:12:32: Adding view for:9F124324
+2024-05-17T13:12:32: Adding view for:83A00120
+2024-05-17T13:14:02: Recording stopped!
+2024-05-17T13:14:02: Unbinding service
+2024-05-17T13:14:15: onResume
+2024-05-17T13:14:18: selected: [com.polar.sdk.api.model.PolarDeviceInfo@91afb00, com.polar.sdk.api.model.PolarDeviceInfo@af70f39]
+2024-05-17T13:14:18: Recording started!
+2024-05-17T13:14:18: onServiceConnected
+2024-05-17T13:14:18: Adding view for:9F124324
+2024-05-17T13:14:18: Adding view for:83A00120
+2024-05-17T13:15:46: Recording stopped!
+2024-05-17T13:15:46: Unbinding service
+2024-05-17T13:18:21: onResume
+2024-05-17T13:18:24: selected: [com.polar.sdk.api.model.PolarDeviceInfo@e51bdb1, com.polar.sdk.api.model.PolarDeviceInfo@87fe296]
+2024-05-17T13:18:24: Recording started!
+2024-05-17T13:18:24: onServiceConnected
+2024-05-17T13:18:24: Adding view for:9F124324
+2024-05-17T13:18:24: Adding view for:83A00120
+2024-05-17T13:19:58: Recording stopped!
+2024-05-17T13:19:58: Unbinding service
+2024-05-17T13:20:11: onResume
+2024-05-17T13:20:13: selected: [com.polar.sdk.api.model.PolarDeviceInfo@eea07dc, com.polar.sdk.api.model.PolarDeviceInfo@83290e5]
+2024-05-17T13:20:13: Recording started!
+2024-05-17T13:20:13: onServiceConnected
+2024-05-17T13:20:13: Adding view for:9F124324
+2024-05-17T13:20:13: Adding view for:83A00120
+2024-05-17T13:21:47: Recording stopped!
+2024-05-17T13:21:47: Unbinding service
+2024-05-17T13:21:58: onResume
+2024-05-17T13:22:03: selected: [com.polar.sdk.api.model.PolarDeviceInfo@7716cdd, com.polar.sdk.api.model.PolarDeviceInfo@a64e052]
+2024-05-17T13:22:03: Recording started!
+2024-05-17T13:22:03: onServiceConnected
+2024-05-17T13:22:03: Adding view for:9F124324
+2024-05-17T13:22:03: Adding view for:83A00120
+2024-05-17T13:23:30: Recording stopped!
+2024-05-17T13:23:30: Unbinding service
+2024-05-18T15:03:59: onResume
+2024-05-18T15:04:08: selected: [com.polar.sdk.api.model.PolarDeviceInfo@1577347, com.polar.sdk.api.model.PolarDeviceInfo@745e774]
+2024-05-18T15:04:08: Recording started!
+2024-05-18T15:04:08: onServiceConnected
+2024-05-18T15:04:08: Adding view for:9F124324
+2024-05-18T15:04:08: Adding view for:83A00120
+2024-05-18T15:06:20: Recording stopped!
+2024-05-18T15:06:20: Unbinding service
+2024-05-18T15:07:10: onResume
+2024-05-18T15:07:12: selected: [com.polar.sdk.api.model.PolarDeviceInfo@48554d9, com.polar.sdk.api.model.PolarDeviceInfo@5756e9e]
+2024-05-18T15:07:12: Recording started!
+2024-05-18T15:07:12: onServiceConnected
+2024-05-18T15:07:12: Adding view for:9F124324
+2024-05-18T15:07:12: Adding view for:83A00120
+2024-05-18T15:08:44: Recording stopped!
+2024-05-18T15:08:44: Unbinding service
+2024-05-18T15:08:56: onResume
+2024-05-18T15:08:58: selected: [com.polar.sdk.api.model.PolarDeviceInfo@f4761db, com.polar.sdk.api.model.PolarDeviceInfo@b979478]
+2024-05-18T15:08:58: Recording started!
+2024-05-18T15:08:58: onServiceConnected
+2024-05-18T15:08:58: Adding view for:9F124324
+2024-05-18T15:08:58: Adding view for:83A00120
+2024-05-18T15:10:30: Recording stopped!
+2024-05-18T15:10:30: Unbinding service
+2024-05-18T15:10:52: onResume
+2024-05-18T15:10:54: selected: [com.polar.sdk.api.model.PolarDeviceInfo@ee57ccd, com.polar.sdk.api.model.PolarDeviceInfo@74ac982]
+2024-05-18T15:10:54: Recording started!
+2024-05-18T15:10:54: onServiceConnected
+2024-05-18T15:10:54: Adding view for:9F124324
+2024-05-18T15:10:54: Adding view for:83A00120
+2024-05-18T15:12:24: Recording stopped!
+2024-05-18T15:12:24: Unbinding service
+2024-05-18T15:12:44: onResume
+2024-05-18T15:12:46: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d6fc828, com.polar.sdk.api.model.PolarDeviceInfo@e849941]
+2024-05-18T15:12:46: Recording started!
+2024-05-18T15:12:46: onServiceConnected
+2024-05-18T15:12:46: Adding view for:9F124324
+2024-05-18T15:12:46: Adding view for:83A00120
+2024-05-18T15:14:17: Recording stopped!
+2024-05-18T15:14:17: Unbinding service
+2024-05-18T15:14:30: onResume
+2024-05-18T15:14:42: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b4858b9, com.polar.sdk.api.model.PolarDeviceInfo@ec54fe]
+2024-05-18T15:14:42: Recording started!
+2024-05-18T15:14:42: onServiceConnected
+2024-05-18T15:14:42: Adding view for:9F124324
+2024-05-18T15:14:42: Adding view for:83A00120
+2024-05-18T15:16:14: Recording stopped!
+2024-05-18T15:16:14: Unbinding service
+2024-05-18T15:16:36: onResume
+2024-05-18T15:16:38: selected: [com.polar.sdk.api.model.PolarDeviceInfo@2f2772d, com.polar.sdk.api.model.PolarDeviceInfo@b5aa462]
+2024-05-18T15:16:38: Recording started!
+2024-05-18T15:16:39: onServiceConnected
+2024-05-18T15:16:39: Adding view for:9F124324
+2024-05-18T15:16:39: Adding view for:83A00120
+2024-05-18T15:30:18: Recording stopped!
+2024-05-18T15:30:18: Unbinding service
+2024-05-20T22:18:31: onResume
+2024-05-20T22:18:35: selected: [com.polar.sdk.api.model.PolarDeviceInfo@87ddbd2, com.polar.sdk.api.model.PolarDeviceInfo@cfcc4a3]
+2024-05-20T22:18:35: Recording started!
+2024-05-20T22:18:36: onServiceConnected
+2024-05-20T22:18:36: Adding view for:9F124324
+2024-05-20T22:18:36: Adding view for:83A00120
+2024-05-20T22:20:40: Recording stopped!
+2024-05-20T22:20:40: Unbinding service
+2024-05-20T22:21:48: onResume
+2024-05-20T22:21:49: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b23991c, com.polar.sdk.api.model.PolarDeviceInfo@e76e925]
+2024-05-20T22:21:49: Recording started!
+2024-05-20T22:21:49: onServiceConnected
+2024-05-20T22:21:49: Adding view for:9F124324
+2024-05-20T22:21:49: Adding view for:83A00120
+2024-05-20T22:23:28: Recording stopped!
+2024-05-20T22:23:28: Unbinding service
+2024-05-20T22:23:38: onResume
+2024-05-20T22:23:40: selected: [com.polar.sdk.api.model.PolarDeviceInfo@80c02d5, com.polar.sdk.api.model.PolarDeviceInfo@bb84aea]
+2024-05-20T22:23:40: Recording started!
+2024-05-20T22:23:40: onServiceConnected
+2024-05-20T22:23:40: Adding view for:9F124324
+2024-05-20T22:23:40: Adding view for:83A00120
+2024-05-20T22:25:14: Recording stopped!
+2024-05-20T22:25:14: Unbinding service
+2024-05-20T22:27:08: onResume
+2024-05-20T22:27:09: selected: [com.polar.sdk.api.model.PolarDeviceInfo@cb71264, com.polar.sdk.api.model.PolarDeviceInfo@ee57ccd]
+2024-05-20T22:27:09: Recording started!
+2024-05-20T22:27:09: onServiceConnected
+2024-05-20T22:27:09: Adding view for:9F124324
+2024-05-20T22:27:09: Adding view for:83A00120
+2024-05-20T22:28:52: Recording stopped!
+2024-05-20T22:28:52: Unbinding service
+2024-05-20T22:29:07: onResume
+2024-05-20T22:29:08: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b36564b, com.polar.sdk.api.model.PolarDeviceInfo@d6fc828]
+2024-05-20T22:29:08: Recording started!
+2024-05-20T22:29:08: onServiceConnected
+2024-05-20T22:29:08: Adding view for:9F124324
+2024-05-20T22:29:08: Adding view for:83A00120
+2024-05-20T22:30:39: Recording stopped!
+2024-05-20T22:30:39: Unbinding service
+2024-05-20T22:30:52: onResume
+2024-05-20T22:30:54: selected: [com.polar.sdk.api.model.PolarDeviceInfo@f9c45f, com.polar.sdk.api.model.PolarDeviceInfo@4a7beac]
+2024-05-20T22:30:54: Recording started!
+2024-05-20T22:30:54: onServiceConnected
+2024-05-20T22:30:54: Adding view for:9F124324
+2024-05-20T22:30:54: Adding view for:83A00120
+2024-05-20T22:32:27: Recording stopped!
+2024-05-20T22:32:27: Unbinding service
+2024-05-20T22:35:37: onResume
+2024-05-20T22:35:39: selected: [com.polar.sdk.api.model.PolarDeviceInfo@5cf2984, com.polar.sdk.api.model.PolarDeviceInfo@7f3156d]
+2024-05-20T22:35:39: Recording started!
+2024-05-20T22:35:39: onServiceConnected
+2024-05-20T22:35:39: Adding view for:9F124324
+2024-05-20T22:35:39: Adding view for:83A00120
+2024-05-20T22:37:17: Recording stopped!
+2024-05-20T22:37:17: Unbinding service
+2024-05-20T22:37:31: onResume
+2024-05-20T22:37:32: selected: [com.polar.sdk.api.model.PolarDeviceInfo@42b39cf, com.polar.sdk.api.model.PolarDeviceInfo@71edf5c]
+2024-05-20T22:37:32: Recording started!
+2024-05-20T22:37:32: onServiceConnected
+2024-05-20T22:37:32: Adding view for:9F124324
+2024-05-20T22:37:32: Adding view for:83A00120
+2024-05-20T22:39:02: Recording stopped!
+2024-05-20T22:39:02: Unbinding service
+2024-05-20T22:39:14: onResume
+2024-05-20T22:39:15: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b2ab707, com.polar.sdk.api.model.PolarDeviceInfo@b5e4034]
+2024-05-20T22:39:15: Recording started!
+2024-05-20T22:39:15: onServiceConnected
+2024-05-20T22:39:15: Adding view for:9F124324
+2024-05-20T22:39:15: Adding view for:83A00120
+2024-05-20T22:40:46: Recording stopped!
+2024-05-20T22:40:46: Unbinding service
+2024-05-21T20:46:37: onResume
+2024-05-21T20:47:25: selected: [com.polar.sdk.api.model.PolarDeviceInfo@745e774, com.polar.sdk.api.model.PolarDeviceInfo@d01149d]
+2024-05-21T20:47:25: Recording started!
+2024-05-21T20:47:25: onServiceConnected
+2024-05-21T20:47:25: Adding view for:9F124324
+2024-05-21T20:47:25: Adding view for:83A00120
+2024-05-21T20:49:16: Recording stopped!
+2024-05-21T20:49:16: Unbinding service
+2024-05-21T20:50:47: onResume
+2024-05-21T20:50:49: selected: [com.polar.sdk.api.model.PolarDeviceInfo@230cf65, com.polar.sdk.api.model.PolarDeviceInfo@b17443a]
+2024-05-21T20:50:49: Recording started!
+2024-05-21T20:50:49: onServiceConnected
+2024-05-21T20:50:49: Adding view for:9F124324
+2024-05-21T20:50:49: Adding view for:83A00120
+2024-05-21T20:52:20: Recording stopped!
+2024-05-21T20:52:20: Unbinding service
+2024-05-21T20:52:46: onResume
+2024-05-21T20:52:47: selected: [com.polar.sdk.api.model.PolarDeviceInfo@45caca0, com.polar.sdk.api.model.PolarDeviceInfo@bce7059]
+2024-05-21T20:52:47: Recording started!
+2024-05-21T20:52:47: onServiceConnected
+2024-05-21T20:52:47: Adding view for:9F124324
+2024-05-21T20:52:47: Adding view for:83A00120
+2024-05-21T20:54:18: Recording stopped!
+2024-05-21T20:54:19: Unbinding service
+2024-05-21T20:56:59: onResume
+2024-05-21T20:57:04: selected: [com.polar.sdk.api.model.PolarDeviceInfo@efc586a, com.polar.sdk.api.model.PolarDeviceInfo@5e215b]
+2024-05-21T20:57:04: Recording started!
+2024-05-21T20:57:04: onServiceConnected
+2024-05-21T20:57:04: Adding view for:9F124324
+2024-05-21T20:57:04: Adding view for:83A00120
+2024-05-21T20:58:42: Recording stopped!
+2024-05-21T20:58:42: Unbinding service
+2024-05-21T20:58:51: onResume
+2024-05-21T20:58:53: selected: [com.polar.sdk.api.model.PolarDeviceInfo@648526f, com.polar.sdk.api.model.PolarDeviceInfo@6c31b7c]
+2024-05-21T20:58:53: Recording started!
+2024-05-21T20:58:53: onServiceConnected
+2024-05-21T20:58:53: Adding view for:9F124324
+2024-05-21T20:58:53: Adding view for:83A00120
+2024-05-21T21:00:26: Recording stopped!
+2024-05-21T21:00:26: Unbinding service
+2024-05-21T21:00:52: onResume
+2024-05-21T21:00:54: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c4a2bfd, com.polar.sdk.api.model.PolarDeviceInfo@7aa00f2]
+2024-05-21T21:00:54: Recording started!
+2024-05-21T21:00:54: onServiceConnected
+2024-05-21T21:00:54: Adding view for:9F124324
+2024-05-21T21:00:54: Adding view for:83A00120
+2024-05-21T21:02:27: Recording stopped!
+2024-05-21T21:02:27: Unbinding service
+2024-05-21T21:05:24: onResume
+2024-05-21T21:05:26: selected: [com.polar.sdk.api.model.PolarDeviceInfo@35daf5, com.polar.sdk.api.model.PolarDeviceInfo@e23108a]
+2024-05-21T21:05:26: Recording started!
+2024-05-21T21:05:27: onServiceConnected
+2024-05-21T21:05:27: Adding view for:9F124324
+2024-05-21T21:05:27: Adding view for:83A00120
+2024-05-21T21:07:08: Recording stopped!
+2024-05-21T21:07:08: Unbinding service
+2024-05-21T21:07:21: onResume
+2024-05-21T21:07:22: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d0998ed, com.polar.sdk.api.model.PolarDeviceInfo@dfc8322]
+2024-05-21T21:07:22: Recording started!
+2024-05-21T21:07:23: onServiceConnected
+2024-05-21T21:07:23: Adding view for:9F124324
+2024-05-21T21:07:23: Adding view for:83A00120
+2024-05-21T21:08:56: Recording stopped!
+2024-05-21T21:08:56: Unbinding service
+2024-05-21T21:09:31: onResume
+2024-05-21T21:09:32: selected: [com.polar.sdk.api.model.PolarDeviceInfo@5e1a686, com.polar.sdk.api.model.PolarDeviceInfo@374eb47]
+2024-05-21T21:09:32: Recording started!
+2024-05-21T21:09:32: onServiceConnected
+2024-05-21T21:09:32: Adding view for:9F124324
+2024-05-21T21:09:32: Adding view for:83A00120
+2024-05-21T21:11:02: Recording stopped!
+2024-05-21T21:11:02: Unbinding service
+2024-05-22T19:30:14: onResume
+2024-05-22T19:30:18: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d01149d, com.polar.sdk.api.model.PolarDeviceInfo@c2bcd12]
+2024-05-22T19:30:18: Recording started!
+2024-05-22T19:30:18: onServiceConnected
+2024-05-22T19:30:18: Adding view for:9F124324
+2024-05-22T19:30:18: Adding view for:83A00120
+2024-05-22T19:32:57: Recording stopped!
+2024-05-22T19:32:57: Unbinding service
+2024-05-22T19:35:39: onResume
+2024-05-22T19:35:40: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b073d6a, com.polar.sdk.api.model.PolarDeviceInfo@c7a25b]
+2024-05-22T19:35:40: Recording started!
+2024-05-22T19:35:41: onServiceConnected
+2024-05-22T19:35:41: Adding view for:9F124324
+2024-05-22T19:35:41: Adding view for:83A00120
+2024-05-22T19:37:25: Recording stopped!
+2024-05-22T19:37:25: Unbinding service
+2024-05-22T19:37:37: onResume
+2024-05-22T19:37:38: selected: [com.polar.sdk.api.model.PolarDeviceInfo@2ffe64e, com.polar.sdk.api.model.PolarDeviceInfo@d75036f]
+2024-05-22T19:37:38: Recording started!
+2024-05-22T19:37:39: onServiceConnected
+2024-05-22T19:37:39: Adding view for:9F124324
+2024-05-22T19:37:39: Adding view for:83A00120
+2024-05-22T19:39:30: Recording stopped!
+2024-05-22T19:39:30: Unbinding service
+2024-05-22T19:41:16: onResume
+2024-05-22T19:41:18: selected: [com.polar.sdk.api.model.PolarDeviceInfo@483f4a7, com.polar.sdk.api.model.PolarDeviceInfo@e43d54]
+2024-05-22T19:41:18: Recording started!
+2024-05-22T19:41:18: onServiceConnected
+2024-05-22T19:41:18: Adding view for:9F124324
+2024-05-22T19:41:18: Adding view for:83A00120
+2024-05-22T19:43:04: Recording stopped!
+2024-05-22T19:43:04: Unbinding service
+2024-05-22T19:43:14: onResume
+2024-05-22T19:43:15: selected: [com.polar.sdk.api.model.PolarDeviceInfo@959758a, com.polar.sdk.api.model.PolarDeviceInfo@fa347fb]
+2024-05-22T19:43:15: Recording started!
+2024-05-22T19:43:16: onServiceConnected
+2024-05-22T19:43:16: Adding view for:9F124324
+2024-05-22T19:43:16: Adding view for:83A00120
+2024-05-22T19:44:42: Recording stopped!
+2024-05-22T19:44:42: Unbinding service
+2024-05-22T19:44:55: onResume
+2024-05-22T19:44:57: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c0d82b3, com.polar.sdk.api.model.PolarDeviceInfo@9056070]
+2024-05-22T19:44:57: Recording started!
+2024-05-22T19:44:57: onServiceConnected
+2024-05-22T19:44:57: Adding view for:9F124324
+2024-05-22T19:44:57: Adding view for:83A00120
+2024-05-22T19:46:26: Recording stopped!
+2024-05-22T19:46:26: Unbinding service
+2024-05-22T19:48:02: onResume
+2024-05-22T19:48:03: selected: [com.polar.sdk.api.model.PolarDeviceInfo@f985dba, com.polar.sdk.api.model.PolarDeviceInfo@84ac46b]
+2024-05-22T19:48:03: Recording started!
+2024-05-22T19:48:04: onServiceConnected
+2024-05-22T19:48:04: Adding view for:9F124324
+2024-05-22T19:48:04: Adding view for:83A00120
+2024-05-22T19:49:34: Recording stopped!
+2024-05-22T19:49:34: Unbinding service
+2024-05-22T19:49:47: onResume
+2024-05-22T19:49:48: selected: [com.polar.sdk.api.model.PolarDeviceInfo@211ed23, com.polar.sdk.api.model.PolarDeviceInfo@3f4d220]
+2024-05-22T19:49:48: Recording started!
+2024-05-22T19:49:48: onServiceConnected
+2024-05-22T19:49:48: Adding view for:9F124324
+2024-05-22T19:49:48: Adding view for:83A00120
+2024-05-22T19:51:22: Recording stopped!
+2024-05-22T19:51:22: Unbinding service
+2024-05-22T19:51:34: onResume
+2024-05-22T19:51:36: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b922b6, com.polar.sdk.api.model.PolarDeviceInfo@62b6bb7]
+2024-05-22T19:51:36: Recording started!
+2024-05-22T19:51:36: onServiceConnected
+2024-05-22T19:51:36: Adding view for:9F124324
+2024-05-22T19:51:36: Adding view for:83A00120
+2024-05-22T19:53:06: Recording stopped!
+2024-05-22T19:53:06: Unbinding service
+2024-05-22T21:30:41: onResume
+2024-05-22T21:31:58: onResume
+2024-05-22T21:40:41: onResume
+2024-05-22T21:40:53: selected: []
+2024-05-22T21:41:01: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d0be60d]
+2024-05-22T21:41:01: Recording started!
+2024-05-22T21:41:01: onServiceConnected
+2024-05-22T21:41:01: Adding view for:83A00120
+2024-05-22T21:41:14: Recording stopped!
+2024-05-22T21:41:14: Unbinding service
+2024-05-22T21:41:17: selected: [com.polar.sdk.api.model.PolarDeviceInfo@af42ba6]
+2024-05-22T21:41:17: Recording started!
+2024-05-22T21:41:17: onServiceConnected
+2024-05-22T21:41:17: Adding view for:83A00120
+2024-05-22T21:41:36: Recording stopped!
+2024-05-22T21:41:36: Unbinding service
+2024-05-22T22:49:50: onResume
+2024-05-22T22:55:16: selected: [com.polar.sdk.api.model.PolarDeviceInfo@acecce7]
+2024-05-22T22:55:16: Recording started!
+2024-05-22T22:55:16: onServiceConnected
+2024-05-22T22:55:16: Adding view for:9F124324
+2024-05-22T22:56:03: Recording stopped!
+2024-05-22T22:56:03: Unbinding service
+2024-05-22T22:56:09: onResume
+2024-05-22T22:56:19: onResume
+2024-05-22T22:56:23: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c70793e]
+2024-05-22T22:56:23: Recording started!
+2024-05-22T22:56:23: onServiceConnected
+2024-05-22T22:56:23: Adding view for:9F124324
+2024-05-22T22:56:45: Recording stopped!
+2024-05-22T22:56:45: Unbinding service
+2024-05-22T22:56:46: onResume
+2024-05-22T22:59:03: onResume
+2024-05-22T23:09:39: onResume
+2024-05-23T22:18:04: onResume
+2024-05-23T22:18:12: onResume
+2024-05-23T22:18:23: onResume
+2024-05-23T22:18:29: selected: null
+2024-05-23T22:19:26: selected: [com.polar.sdk.api.model.PolarDeviceInfo@63b0475, com.polar.sdk.api.model.PolarDeviceInfo@9fabc0a]
+2024-05-23T22:19:26: Recording started!
+2024-05-23T22:19:26: onServiceConnected
+2024-05-23T22:19:26: Adding view for:9F124324
+2024-05-23T22:19:26: Adding view for:83A00120
+2024-05-23T22:21:01: Recording stopped!
+2024-05-23T22:21:01: Unbinding service
+2024-05-23T22:22:24: onResume
+2024-05-23T22:22:26: selected: [com.polar.sdk.api.model.PolarDeviceInfo@1537837, com.polar.sdk.api.model.PolarDeviceInfo@b521a4]
+2024-05-23T22:22:26: Recording started!
+2024-05-23T22:22:26: onServiceConnected
+2024-05-23T22:22:26: Adding view for:9F124324
+2024-05-23T22:22:26: Adding view for:83A00120
+2024-05-23T22:23:59: Recording stopped!
+2024-05-23T22:23:59: Unbinding service
+2024-05-23T22:24:10: onResume
+2024-05-23T22:24:12: selected: [com.polar.sdk.api.model.PolarDeviceInfo@4e2f45a, com.polar.sdk.api.model.PolarDeviceInfo@2b1a68b]
+2024-05-23T22:24:12: Recording started!
+2024-05-23T22:24:12: onServiceConnected
+2024-05-23T22:24:12: Adding view for:9F124324
+2024-05-23T22:24:12: Adding view for:83A00120
+2024-05-23T22:25:48: Recording stopped!
+2024-05-23T22:25:48: Unbinding service
+2024-05-23T22:25:50: onResume
+2024-05-23T22:25:58: onResume
+2024-05-23T22:26:00: selected: [com.polar.sdk.api.model.PolarDeviceInfo@785a031, com.polar.sdk.api.model.PolarDeviceInfo@19a5316]
+2024-05-23T22:26:00: Recording started!
+2024-05-23T22:26:00: onServiceConnected
+2024-05-23T22:26:00: Adding view for:9F124324
+2024-05-23T22:26:00: Adding view for:83A00120
+2024-05-23T22:27:38: Recording stopped!
+2024-05-23T22:27:38: Unbinding service
+2024-05-23T22:27:48: onResume
+2024-05-23T22:27:49: selected: [com.polar.sdk.api.model.PolarDeviceInfo@82d26e2, com.polar.sdk.api.model.PolarDeviceInfo@1de9a73]
+2024-05-23T22:27:49: Recording started!
+2024-05-23T22:27:50: onServiceConnected
+2024-05-23T22:27:50: Adding view for:9F124324
+2024-05-23T22:27:50: Adding view for:83A00120
+2024-05-23T22:29:28: Recording stopped!
+2024-05-23T22:29:28: Unbinding service
+2024-05-23T22:29:40: onResume
+2024-05-23T22:29:41: selected: [com.polar.sdk.api.model.PolarDeviceInfo@adb2088, com.polar.sdk.api.model.PolarDeviceInfo@4667a21]
+2024-05-23T22:29:41: Recording started!
+2024-05-23T22:29:42: onServiceConnected
+2024-05-23T22:29:42: Adding view for:9F124324
+2024-05-23T22:29:42: Adding view for:83A00120
+2024-05-23T22:31:18: Recording stopped!
+2024-05-23T22:31:18: Unbinding service
+2024-05-23T22:32:38: onResume
+2024-05-23T22:32:39: selected: [com.polar.sdk.api.model.PolarDeviceInfo@721a512, com.polar.sdk.api.model.PolarDeviceInfo@78af4e3]
+2024-05-23T22:32:39: Recording started!
+2024-05-23T22:32:40: onServiceConnected
+2024-05-23T22:32:40: Adding view for:9F124324
+2024-05-23T22:32:40: Adding view for:83A00120
+2024-05-23T22:34:14: Recording stopped!
+2024-05-23T22:34:14: Unbinding service
+2024-05-23T22:34:24: onResume
+2024-05-23T22:34:25: selected: [com.polar.sdk.api.model.PolarDeviceInfo@7815c9b, com.polar.sdk.api.model.PolarDeviceInfo@72dd838]
+2024-05-23T22:34:25: Recording started!
+2024-05-23T22:34:26: onServiceConnected
+2024-05-23T22:34:26: Adding view for:9F124324
+2024-05-23T22:34:26: Adding view for:83A00120
+2024-05-23T22:35:57: Recording stopped!
+2024-05-23T22:35:57: Unbinding service
+2024-05-23T22:36:09: onResume
+2024-05-23T22:36:13: selected: [com.polar.sdk.api.model.PolarDeviceInfo@42c2f42, com.polar.sdk.api.model.PolarDeviceInfo@c426b53]
+2024-05-23T22:36:13: Recording started!
+2024-05-23T22:36:13: onServiceConnected
+2024-05-23T22:36:13: Adding view for:9F124324
+2024-05-23T22:36:13: Adding view for:83A00120
+2024-05-23T22:37:48: Recording stopped!
+2024-05-23T22:37:48: Unbinding service
+2024-05-23T22:40:02: onResume
+2024-05-23T22:40:12: selected: [com.polar.sdk.api.model.PolarDeviceInfo@2ae71df, com.polar.sdk.api.model.PolarDeviceInfo@c729e2c]
+2024-05-23T22:40:12: Recording started!
+2024-05-23T22:40:12: onServiceConnected
+2024-05-23T22:40:12: Adding view for:9F124324
+2024-05-23T22:40:12: Adding view for:83A00120
+2024-05-23T22:41:16: onResume
+2024-05-23T22:41:16: Service running! Trying to bind!
+2024-05-23T22:41:18: Recording stopped!
+2024-05-23T22:41:18: Unbinding service
+2024-05-24T22:51:21: onResume
+2024-05-24T22:51:26: selected: [com.polar.sdk.api.model.PolarDeviceInfo@83ea7a5, com.polar.sdk.api.model.PolarDeviceInfo@85fd77a]
+2024-05-24T22:51:26: Recording started!
+2024-05-24T22:51:26: onServiceConnected
+2024-05-24T22:51:26: Adding view for:9F124324
+2024-05-24T22:51:26: Adding view for:83A00120
+2024-05-24T22:52:23: onResume
+2024-05-24T22:52:23: Service running! Trying to bind!
+2024-05-24T22:53:30: Recording stopped!
+2024-05-24T22:53:30: Unbinding service
+2024-05-24T22:54:59: onResume
+2024-05-24T22:55:04: selected: [com.polar.sdk.api.model.PolarDeviceInfo@6e86d7f, com.polar.sdk.api.model.PolarDeviceInfo@18d814c]
+2024-05-24T22:55:04: Recording started!
+2024-05-24T22:55:04: onServiceConnected
+2024-05-24T22:55:04: Adding view for:9F124324
+2024-05-24T22:55:04: Adding view for:83A00120
+2024-05-24T22:56:41: Recording stopped!
+2024-05-24T22:56:41: Unbinding service
+2024-05-24T22:56:54: onResume
+2024-05-24T22:56:56: selected: [com.polar.sdk.api.model.PolarDeviceInfo@bb84aea, com.polar.sdk.api.model.PolarDeviceInfo@f4761db]
+2024-05-24T22:56:56: Recording started!
+2024-05-24T22:56:56: onServiceConnected
+2024-05-24T22:56:56: Adding view for:9F124324
+2024-05-24T22:56:56: Adding view for:83A00120
+2024-05-24T22:58:28: Recording stopped!
+2024-05-24T22:58:28: Unbinding service
+2024-05-24T22:58:38: onResume
+2024-05-24T22:58:40: selected: [com.polar.sdk.api.model.PolarDeviceInfo@efbe891, com.polar.sdk.api.model.PolarDeviceInfo@34463f6]
+2024-05-24T22:58:40: Recording started!
+2024-05-24T22:58:40: onServiceConnected
+2024-05-24T22:58:40: Adding view for:9F124324
+2024-05-24T22:58:40: Adding view for:83A00120
+2024-05-24T23:00:19: Recording stopped!
+2024-05-24T23:00:19: Unbinding service
+2024-05-24T23:00:27: onResume
+2024-05-24T23:00:29: selected: [com.polar.sdk.api.model.PolarDeviceInfo@250a05b, com.polar.sdk.api.model.PolarDeviceInfo@e9230f8]
+2024-05-24T23:00:29: Recording started!
+2024-05-24T23:00:29: onServiceConnected
+2024-05-24T23:00:29: Adding view for:9F124324
+2024-05-24T23:00:29: Adding view for:83A00120
+2024-05-24T23:01:58: Recording stopped!
+2024-05-24T23:01:58: Unbinding service
+2024-05-24T23:02:11: onResume
+2024-05-24T23:02:12: selected: [com.polar.sdk.api.model.PolarDeviceInfo@85027aa, com.polar.sdk.api.model.PolarDeviceInfo@db2df9b]
+2024-05-24T23:02:12: Recording started!
+2024-05-24T23:02:13: onServiceConnected
+2024-05-24T23:02:13: Adding view for:9F124324
+2024-05-24T23:02:13: Adding view for:83A00120
+2024-05-24T23:03:44: Recording stopped!
+2024-05-24T23:03:44: Unbinding service
+2024-05-24T23:05:30: onResume
+2024-05-24T23:05:34: selected: [com.polar.sdk.api.model.PolarDeviceInfo@6a8dedb, com.polar.sdk.api.model.PolarDeviceInfo@22fcd78]
+2024-05-24T23:05:34: Recording started!
+2024-05-24T23:05:34: onServiceConnected
+2024-05-24T23:05:34: Adding view for:9F124324
+2024-05-24T23:05:34: Adding view for:83A00120
+2024-05-24T23:06:54: onResume
+2024-05-24T23:06:54: Service running! Trying to bind!
+2024-05-24T23:07:33: Recording stopped!
+2024-05-24T23:07:33: Unbinding service
+2024-05-24T23:07:41: onResume
+2024-05-24T23:08:01: onResume
+2024-05-24T23:08:03: selected: [com.polar.sdk.api.model.PolarDeviceInfo@f5757b6, com.polar.sdk.api.model.PolarDeviceInfo@1adfcb7]
+2024-05-24T23:08:03: Recording started!
+2024-05-24T23:08:03: onServiceConnected
+2024-05-24T23:08:03: Adding view for:9F124324
+2024-05-24T23:08:03: Adding view for:83A00120
+2024-05-24T23:09:58: Recording stopped!
+2024-05-24T23:09:58: Unbinding service
+2024-05-24T23:10:27: onResume
+2024-05-24T23:10:36: onResume
+2024-05-24T23:10:38: selected: [com.polar.sdk.api.model.PolarDeviceInfo@3951ce2, com.polar.sdk.api.model.PolarDeviceInfo@e165873]
+2024-05-24T23:10:38: Recording started!
+2024-05-24T23:10:38: onServiceConnected
+2024-05-24T23:10:38: Adding view for:9F124324
+2024-05-24T23:10:38: Adding view for:83A00120
+2024-05-24T23:12:35: Recording stopped!
+2024-05-24T23:12:35: Unbinding service
+2024-05-24T23:14:59: onResume
+2024-05-24T23:15:13: onResume
+2024-05-24T23:16:25: selected: [com.polar.sdk.api.model.PolarDeviceInfo@bb24cfb, com.polar.sdk.api.model.PolarDeviceInfo@3817118]
+2024-05-24T23:16:25: Recording started!
+2024-05-24T23:16:25: onServiceConnected
+2024-05-24T23:16:25: Adding view for:9F124324
+2024-05-24T23:16:25: Adding view for:83A00120
+2024-05-24T23:18:27: Recording stopped!
+2024-05-24T23:18:27: Unbinding service
+2024-05-24T23:19:06: onResume
+2024-05-24T23:19:08: selected: [com.polar.sdk.api.model.PolarDeviceInfo@5d38a9, com.polar.sdk.api.model.PolarDeviceInfo@aaace2e]
+2024-05-24T23:19:08: Recording started!
+2024-05-24T23:19:08: onServiceConnected
+2024-05-24T23:19:08: Adding view for:9F124324
+2024-05-24T23:19:08: Adding view for:83A00120
+2024-05-24T23:20:51: Recording stopped!
+2024-05-24T23:20:51: Unbinding service
+2024-05-24T23:21:02: onResume
+2024-05-24T23:21:04: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d2643a5, com.polar.sdk.api.model.PolarDeviceInfo@885437a]
+2024-05-24T23:21:04: Recording started!
+2024-05-24T23:21:05: onServiceConnected
+2024-05-24T23:21:05: Adding view for:9F124324
+2024-05-24T23:21:05: Adding view for:83A00120
+2024-05-24T23:22:40: Recording stopped!
+2024-05-24T23:22:40: Unbinding service
+2024-05-24T23:22:52: onResume
+2024-05-24T23:22:53: selected: [com.polar.sdk.api.model.PolarDeviceInfo@4fdc5c8, com.polar.sdk.api.model.PolarDeviceInfo@3005661]
+2024-05-24T23:22:53: Recording started!
+2024-05-24T23:22:54: onServiceConnected
+2024-05-24T23:22:54: Adding view for:9F124324
+2024-05-24T23:22:54: Adding view for:83A00120
+2024-05-24T23:24:23: Recording stopped!
+2024-05-24T23:24:23: Unbinding service
+2024-05-24T23:25:26: onResume
+2024-05-24T23:25:27: selected: [com.polar.sdk.api.model.PolarDeviceInfo@d1cf9d9, com.polar.sdk.api.model.PolarDeviceInfo@4caf9e]
+2024-05-24T23:25:27: Recording started!
+2024-05-24T23:25:28: onServiceConnected
+2024-05-24T23:25:28: Adding view for:9F124324
+2024-05-24T23:25:28: Adding view for:83A00120
+2024-05-24T23:27:02: Recording stopped!
+2024-05-24T23:27:02: Unbinding service
+2024-05-24T23:27:12: onResume
+2024-05-24T23:27:14: selected: []
+2024-05-24T23:27:16: selected: [com.polar.sdk.api.model.PolarDeviceInfo@4f0251c, com.polar.sdk.api.model.PolarDeviceInfo@5368525]
+2024-05-24T23:27:16: Recording started!
+2024-05-24T23:27:16: onServiceConnected
+2024-05-24T23:27:16: Adding view for:9F124324
+2024-05-24T23:27:16: Adding view for:83A00120
+2024-05-24T23:28:46: Recording stopped!
+2024-05-24T23:28:46: Unbinding service
+2024-05-24T23:29:51: onResume
+2024-05-24T23:29:53: selected: [com.polar.sdk.api.model.PolarDeviceInfo@6be93c7, com.polar.sdk.api.model.PolarDeviceInfo@315bdf4]
+2024-05-24T23:29:53: Recording started!
+2024-05-24T23:29:53: onServiceConnected
+2024-05-24T23:29:53: Adding view for:9F124324
+2024-05-24T23:29:53: Adding view for:83A00120
+2024-05-24T23:31:29: Recording stopped!
+2024-05-24T23:31:29: Unbinding service
+2024-05-24T23:31:40: onResume
+2024-05-24T23:31:41: selected: [com.polar.sdk.api.model.PolarDeviceInfo@38deb2a, com.polar.sdk.api.model.PolarDeviceInfo@d901d1b]
+2024-05-24T23:31:41: Recording started!
+2024-05-24T23:31:41: onServiceConnected
+2024-05-24T23:31:41: Adding view for:9F124324
+2024-05-24T23:31:41: Adding view for:83A00120
+2024-05-24T23:33:18: Recording stopped!
+2024-05-24T23:33:18: Unbinding service
+2024-05-24T23:33:27: onResume
+2024-05-24T23:33:29: selected: [com.polar.sdk.api.model.PolarDeviceInfo@ae63bd3, com.polar.sdk.api.model.PolarDeviceInfo@273f310]
+2024-05-24T23:33:29: Recording started!
+2024-05-24T23:33:29: onServiceConnected
+2024-05-24T23:33:29: Adding view for:9F124324
+2024-05-24T23:33:29: Adding view for:83A00120
+2024-05-24T23:35:00: Recording stopped!
+2024-05-24T23:35:00: Unbinding service
+2024-05-24T23:57:11: onResume
+2024-05-25T22:54:28: onResume
+2024-05-25T22:55:11: selected: [com.polar.sdk.api.model.PolarDeviceInfo@c2bcd12, com.polar.sdk.api.model.PolarDeviceInfo@50dfce3]
+2024-05-25T22:55:11: Recording started!
+2024-05-25T22:55:11: onServiceConnected
+2024-05-25T22:55:11: Adding view for:9F124324
+2024-05-25T22:55:11: Adding view for:83A00120
+2024-05-25T22:56:56: Recording stopped!
+2024-05-25T22:56:56: Unbinding service
+2024-05-25T22:58:08: onResume
+2024-05-25T22:58:10: selected: [com.polar.sdk.api.model.PolarDeviceInfo@dcac29f, com.polar.sdk.api.model.PolarDeviceInfo@c9b7fec]
+2024-05-25T22:58:10: Recording started!
+2024-05-25T22:58:10: onServiceConnected
+2024-05-25T22:58:10: Adding view for:9F124324
+2024-05-25T22:58:10: Adding view for:83A00120
+2024-05-25T22:59:38: Recording stopped!
+2024-05-25T22:59:38: Unbinding service
+2024-05-25T22:59:49: onResume
+2024-05-25T22:59:51: selected: [com.polar.sdk.api.model.PolarDeviceInfo@3d392c4, com.polar.sdk.api.model.PolarDeviceInfo@f6565ad]
+2024-05-25T22:59:51: Recording started!
+2024-05-25T22:59:51: onServiceConnected
+2024-05-25T22:59:51: Adding view for:9F124324
+2024-05-25T22:59:51: Adding view for:83A00120
+2024-05-25T23:01:25: Recording stopped!
+2024-05-25T23:01:25: Unbinding service
+2024-05-25T23:01:35: onResume
+2024-05-25T23:01:37: selected: [com.polar.sdk.api.model.PolarDeviceInfo@270596e, com.polar.sdk.api.model.PolarDeviceInfo@e29c80f]
+2024-05-25T23:01:37: Recording started!
+2024-05-25T23:01:37: onServiceConnected
+2024-05-25T23:01:37: Adding view for:9F124324
+2024-05-25T23:01:37: Adding view for:83A00120
+2024-05-25T23:03:05: Recording stopped!
+2024-05-25T23:03:05: Unbinding service
+2024-05-25T23:06:37: onResume
+2024-05-25T23:06:39: selected: [com.polar.sdk.api.model.PolarDeviceInfo@854ad61, com.polar.sdk.api.model.PolarDeviceInfo@2e79086]
+2024-05-25T23:06:39: Recording started!
+2024-05-25T23:06:39: onServiceConnected
+2024-05-25T23:06:39: Adding view for:9F124324
+2024-05-25T23:06:39: Adding view for:83A00120
+2024-05-25T23:08:11: Recording stopped!
+2024-05-25T23:08:11: Unbinding service
+2024-05-25T23:08:47: onResume
+2024-05-25T23:08:49: selected: [com.polar.sdk.api.model.PolarDeviceInfo@74c0195, com.polar.sdk.api.model.PolarDeviceInfo@21642aa]
+2024-05-25T23:08:49: Recording started!
+2024-05-25T23:08:49: onServiceConnected
+2024-05-25T23:08:49: Adding view for:9F124324
+2024-05-25T23:08:49: Adding view for:83A00120
+2024-05-25T23:10:55: Recording stopped!
+2024-05-25T23:10:55: Unbinding service
+2024-05-25T23:11:07: onResume
+2024-05-25T23:11:09: selected: [com.polar.sdk.api.model.PolarDeviceInfo@19bad53, com.polar.sdk.api.model.PolarDeviceInfo@f4a4690]
+2024-05-25T23:11:09: Recording started!
+2024-05-25T23:11:09: onServiceConnected
+2024-05-25T23:11:09: Adding view for:9F124324
+2024-05-25T23:11:09: Adding view for:83A00120
+2024-05-25T23:12:42: Recording stopped!
+2024-05-25T23:12:42: Unbinding service
+2024-05-25T23:12:52: onResume
+2024-05-25T23:12:53: selected: [com.polar.sdk.api.model.PolarDeviceInfo@dbd55e8, com.polar.sdk.api.model.PolarDeviceInfo@33a7401]
+2024-05-25T23:12:53: Recording started!
+2024-05-25T23:12:54: onServiceConnected
+2024-05-25T23:12:54: Adding view for:9F124324
+2024-05-25T23:12:54: Adding view for:83A00120
+2024-05-25T23:14:28: Recording stopped!
+2024-05-25T23:14:28: Unbinding service
+2024-05-25T23:14:39: onResume
+2024-05-25T23:14:59: selected: [com.polar.sdk.api.model.PolarDeviceInfo@b790b79, com.polar.sdk.api.model.PolarDeviceInfo@c9ef0be]
+2024-05-25T23:14:59: Recording started!
+2024-05-25T23:14:59: onServiceConnected
+2024-05-25T23:14:59: Adding view for:9F124324
+2024-05-25T23:14:59: Adding view for:83A00120
+2024-05-25T23:16:40: Recording stopped!
+2024-05-25T23:16:40: Unbinding service
+2024-05-26T22:07:23: onResume
+2024-05-26T22:07:31: selected: [com.polar.sdk.api.model.PolarDeviceInfo@94dcbd, com.polar.sdk.api.model.PolarDeviceInfo@1d1c2b2]
+2024-05-26T22:07:31: Recording started!
+2024-05-26T22:07:31: onServiceConnected
+2024-05-26T22:07:31: Adding view for:9F124324
+2024-05-26T22:07:31: Adding view for:83A00120
+2024-05-26T22:09:52: Recording stopped!
+2024-05-26T22:09:52: Unbinding service
+2024-05-26T22:11:10: onResume
+2024-05-26T22:11:12: selected: [com.polar.sdk.api.model.PolarDeviceInfo@31963c9, com.polar.sdk.api.model.PolarDeviceInfo@4aceace]
+2024-05-26T22:11:12: Recording started!
+2024-05-26T22:11:13: onServiceConnected
+2024-05-26T22:11:13: Adding view for:9F124324
+2024-05-26T22:11:13: Adding view for:83A00120
+2024-05-26T22:13:04: Recording stopped!
+2024-05-26T22:13:04: Unbinding service
+2024-05-26T22:13:20: onResume
+2024-05-26T22:13:21: selected: [com.polar.sdk.api.model.PolarDeviceInfo@83825d4, com.polar.sdk.api.model.PolarDeviceInfo@166e37d]
+2024-05-26T22:13:21: Recording started!
+2024-05-26T22:13:22: onServiceConnected
+2024-05-26T22:13:22: Adding view for:9F124324
+2024-05-26T22:13:22: Adding view for:83A00120
+2024-05-26T22:14:57: Recording stopped!
+2024-05-26T22:14:57: Unbinding service
+2024-05-26T22:15:08: onResume
+2024-05-26T22:15:12: selected: [com.polar.sdk.api.model.PolarDeviceInfo@8a4d180, com.polar.sdk.api.model.PolarDeviceInfo@f0263b9]
+2024-05-26T22:15:12: Recording started!
+2024-05-26T22:15:12: onServiceConnected
+2024-05-26T22:15:12: Adding view for:9F124324
+2024-05-26T22:15:12: Adding view for:83A00120
+2024-05-26T22:16:46: Recording stopped!
+2024-05-26T22:16:46: Unbinding service
+2024-05-26T22:20:02: onResume
+2024-05-26T22:20:04: selected: [com.polar.sdk.api.model.PolarDeviceInfo@722bfb5, com.polar.sdk.api.model.PolarDeviceInfo@b32f64a]
+2024-05-26T22:20:04: Recording started!
+2024-05-26T22:20:05: onServiceConnected
+2024-05-26T22:20:05: Adding view for:9F124324
+2024-05-26T22:20:05: Adding view for:83A00120
+2024-05-26T22:21:42: Recording stopped!
+2024-05-26T22:21:42: Unbinding service
+2024-05-26T22:21:55: onResume
+2024-05-26T22:21:56: selected: [com.polar.sdk.api.model.PolarDeviceInfo@3600730, com.polar.sdk.api.model.PolarDeviceInfo@133dfa9]
+2024-05-26T22:21:56: Recording started!
+2024-05-26T22:21:56: onServiceConnected
+2024-05-26T22:21:56: Adding view for:9F124324
+2024-05-26T22:21:56: Adding view for:83A00120
+2024-05-26T22:23:43: Recording stopped!
+2024-05-26T22:23:43: Unbinding service
+2024-05-26T22:28:15: onResume
+2024-05-26T22:28:16: selected: [com.polar.sdk.api.model.PolarDeviceInfo@1d48fa3, com.polar.sdk.api.model.PolarDeviceInfo@65702a0]
+2024-05-26T22:28:16: Recording started!
+2024-05-26T22:28:16: onServiceConnected
+2024-05-26T22:28:16: Adding view for:9F124324
+2024-05-26T22:28:16: Adding view for:83A00120
+2024-05-26T22:29:57: Recording stopped!
+2024-05-26T22:29:57: Unbinding service
+2024-05-26T22:30:08: onResume
+2024-05-26T22:30:09: selected: [com.polar.sdk.api.model.PolarDeviceInfo@9aa5455, com.polar.sdk.api.model.PolarDeviceInfo@1f5fe6a]
+2024-05-26T22:30:09: Recording started!
+2024-05-26T22:30:09: onServiceConnected
+2024-05-26T22:30:09: Adding view for:9F124324
+2024-05-26T22:30:09: Adding view for:83A00120
+2024-05-26T22:31:57: Recording stopped!
+2024-05-26T22:31:57: Unbinding service
+2024-05-26T22:32:10: onResume
+2024-05-26T22:32:11: selected: [com.polar.sdk.api.model.PolarDeviceInfo@f6dd74e, com.polar.sdk.api.model.PolarDeviceInfo@db2a06f]
+2024-05-26T22:32:11: Recording started!
+2024-05-26T22:32:11: onServiceConnected
+2024-05-26T22:32:11: Adding view for:9F124324
+2024-05-26T22:32:11: Adding view for:83A00120
+2024-05-26T22:33:39: Recording stopped!
+2024-05-26T22:33:39: Unbinding service
+2024-05-27T22:31:00: onResume
+2024-05-27T22:31:02: selected: [com.polar.sdk.api.model.PolarDeviceInfo@92abefa, com.polar.sdk.api.model.PolarDeviceInfo@cbfacab]
+2024-05-27T22:31:02: Recording started!
+2024-05-27T22:31:03: onServiceConnected
+2024-05-27T22:31:03: Adding view for:9F124324
+2024-05-27T22:31:03: Adding view for:83A00120
+2024-05-27T22:32:39: Recording stopped!
+2024-05-27T22:32:39: Unbinding service
+2024-05-27T22:32:50: onResume
+2024-05-27T22:32:51: selected: [com.polar.sdk.api.model.PolarDeviceInfo@bc1f86c, com.polar.sdk.api.model.PolarDeviceInfo@acfde35]
+2024-05-27T22:32:51: Recording started!
+2024-05-27T22:32:51: onServiceConnected
+2024-05-27T22:32:51: Adding view for:9F124324
+2024-05-27T22:32:51: Adding view for:83A00120
+2024-05-27T22:34:24: Recording stopped!
+2024-05-27T22:34:24: Unbinding service
+2024-05-27T22:34:37: onResume
+2024-05-27T22:34:39: selected: [com.polar.sdk.api.model.PolarDeviceInfo@57f5ef3, com.polar.sdk.api.model.PolarDeviceInfo@91ba7b0]
+2024-05-27T22:34:39: Recording started!
+2024-05-27T22:34:39: onServiceConnected
+2024-05-27T22:34:39: Adding view for:9F124324
+2024-05-27T22:34:39: Adding view for:83A00120
+2024-05-27T22:36:11: Recording stopped!
+2024-05-27T22:36:11: Unbinding service
+2024-05-27T22:37:36: onResume
+2024-05-27T22:37:38: selected: [com.polar.sdk.api.model.PolarDeviceInfo@603dfb4, com.polar.sdk.api.model.PolarDeviceInfo@70747dd]
+2024-05-27T22:37:38: Recording started!
+2024-05-27T22:37:38: onServiceConnected
+2024-05-27T22:37:38: Adding view for:9F124324
+2024-05-27T22:37:38: Adding view for:83A00120
+2024-05-27T22:39:28: Recording stopped!
+2024-05-27T22:39:28: Unbinding service
+2024-05-27T22:39:39: onResume
+2024-05-27T22:39:40: selected: [com.polar.sdk.api.model.PolarDeviceInfo@a1f32d5, com.polar.sdk.api.model.PolarDeviceInfo@683baea]
+2024-05-27T22:39:40: Recording started!
+2024-05-27T22:39:41: onServiceConnected
+2024-05-27T22:39:41: Adding view for:9F124324
+2024-05-27T22:39:41: Adding view for:83A00120
+2024-05-27T22:41:12: Recording stopped!
+2024-05-27T22:41:12: Unbinding service
+2024-05-27T22:41:22: onResume
+2024-05-27T22:41:24: selected: [com.polar.sdk.api.model.PolarDeviceInfo@66163f7, com.polar.sdk.api.model.PolarDeviceInfo@bf70264]
+2024-05-27T22:41:24: Recording started!
+2024-05-27T22:41:24: onServiceConnected
+2024-05-27T22:41:24: Adding view for:9F124324
+2024-05-27T22:41:24: Adding view for:83A00120
+2024-05-27T22:43:17: Recording stopped!
+2024-05-27T22:43:17: Unbinding service
+2024-05-27T22:45:28: onResume
+2024-05-27T22:45:29: selected: [com.polar.sdk.api.model.PolarDeviceInfo@ddc943c, com.polar.sdk.api.model.PolarDeviceInfo@e7d95c5]
+2024-05-27T22:45:29: Recording started!
+2024-05-27T22:45:30: onServiceConnected
+2024-05-27T22:45:30: Adding view for:9F124324
+2024-05-27T22:45:30: Adding view for:83A00120
+2024-05-27T22:47:06: Recording stopped!
+2024-05-27T22:47:06: Unbinding service
+2024-05-27T22:47:22: onResume
+2024-05-27T22:47:24: selected: [com.polar.sdk.api.model.PolarDeviceInfo@e9088b9, com.polar.sdk.api.model.PolarDeviceInfo@548c4fe]
+2024-05-27T22:47:24: Recording started!
+2024-05-27T22:47:24: onServiceConnected
+2024-05-27T22:47:24: Adding view for:9F124324
+2024-05-27T22:47:24: Adding view for:83A00120
+2024-05-27T22:49:08: Recording stopped!
+2024-05-27T22:49:08: Unbinding service
+2024-05-27T22:49:19: onResume
+2024-05-27T22:49:20: selected: [com.polar.sdk.api.model.PolarDeviceInfo@4aa2233, com.polar.sdk.api.model.PolarDeviceInfo@94e49f0]
+2024-05-27T22:49:20: Recording started!
+2024-05-27T22:49:20: onServiceConnected
+2024-05-27T22:49:20: Adding view for:9F124324
+2024-05-27T22:49:20: Adding view for:83A00120
+2024-05-27T22:50:59: Recording stopped!
+2024-05-27T22:50:59: Unbinding service
